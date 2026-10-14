@@ -4,9 +4,17 @@ A study app for the **Florida contractor Business and Finance exam**, built on t
 
 ## Using it
 
-- **Easiest:** open `dist/fl-business-finance-study.html` in any browser, on a phone or a computer. It's one self-contained file and works offline.
-- **Hosted:** turn on GitHub Pages (Settings → Pages → deploy from branch, root folder). The root `index.html` forwards to `app/`.
-- **As a Claude artifact:** `dist/artifact.html` is the same app. Hosted there, it also saves progress to the person's account and shows a live crew leaderboard.
+**Live app: https://na-mythic.github.io/ContractorStudy/**
+
+Send that link to anyone studying. On a phone, open it and tap **Share → Add to Home Screen** (iPhone) or
+**⋮ → Install app** (Android) and it works like a normal app, even offline. Each person picks a username on
+first launch. Progress is saved on their device, and **Settings → Backup & restore** moves it to another device.
+
+- **Leaderboard:** works out of the box with score cards that friends swap. For a live shared leaderboard
+  with usernames, follow [LEADERBOARD.md](LEADERBOARD.md) (free, about 5 minutes).
+- **Updates deploy themselves:** every push to this branch rebuilds the site (`.github/workflows/pages.yml` → `gh-pages`).
+- **Offline single file:** `dist/fl-business-finance-study.html` can be emailed or AirDropped.
+- **Claude artifact version:** `dist/artifact.html`. When hosted on claude.ai it saves progress to each person's account and has its own crew board.
 
 ## Features
 
@@ -18,6 +26,7 @@ A study app for the **Florida contractor Business and Finance exam**, built on t
 | **Crew & Scores** | XP and 12 ranks from Laborer to Master Builder, 35 badges, a streak, and a Daily Challenge (the same 10 questions for everyone each day, shareable as an emoji grid). Challenge codes give a friend the exact same questions plus your score to beat. Share results and progress as text. On the hosted artifact there's also a live crew leaderboard and activity feed. |
 | **Find It Trainer** | Lookup sprints with your real books: pick the book, pick the chapter or article, then find it while a stopwatch runs. Tracks average and best find time. Also includes the full tab-and-highlight checklist of every page the answer keys cite, matched to your edition. |
 | **Numbers to Know, Math Lab** | 109 flashcards with a cheat sheet. Unlimited generated math problems with worked solutions and a formula sheet. |
+| **Read the actual law** | 134 questions link straight to the official, current text of the statute, rule or regulation behind the answer: Florida Statutes (Online Sunshine), Florida Administrative Code (flrules.org), eCFR (OSHA, I-9, IRS) and the U.S. Code. The Contractors Manual, Builder's Guide and AIA documents are copyrighted and not published online, so for those the app points to the exact page in your paper copy. |
 | **Readiness** | Eight pass criteria on Home, combined into a 0–100 score. |
 | **Comfort** | Light/dark/auto theme, phone/desktop/auto layout, three text sizes, trap-word highlighting (NOT, EXCEPT…), keyboard shortcuts. |
 | **Memory** | Everything is saved automatically: answers, sessions in progress, notes, flags, tabs, XP. On the hosted artifact it syncs to your account. Elsewhere it's saved in the browser, and Settings has backup and restore codes for moving between devices. |
@@ -40,15 +49,17 @@ app/
   js/runs.js     Study + Practice Test engine, timers, pause/resume, results, daily/challenges
   js/math.js     Math Lab generators
   js/views.js    Home, Missed, Crew, Find It, flashcards, math, topics, bank, progress, playbook, settings
-  js/cloud.js    account sync + crew leaderboard when hosted as a Claude artifact
+  js/cloud.js    leaderboard (Supabase / Claude artifact / score cards) + account sync
   data/questions.js (generated), data/meta.js
-content/         explanations-exam*.txt (full) and plain-exam*.txt (index term | plain English)
-tools/           parse_pdfs.py, build_data.py, build_single.py, check.js
+content/         explanations-exam*.txt (full), plain-exam*.txt (index term | plain English), law-links.txt
+supabase/        leaderboard.sql (optional live leaderboard)
+leaderboard-config.js   paste Supabase URL + key here to turn on the live leaderboard
+tools/           parse_pdfs.py, build_data.py, build_single.py, build_site.py, sw.js, check.js
 dist/            single-file builds
 ```
 
 To rebuild after editing content:
 
 ```
-python3 tools/build_data.py && node tools/check.js && python3 tools/build_single.py
+python3 tools/build_data.py && node tools/check.js && python3 tools/build_single.py && python3 tools/build_site.py
 ```
