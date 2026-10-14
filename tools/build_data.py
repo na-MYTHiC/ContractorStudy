@@ -36,6 +36,15 @@ for n in (1, 2, 3):
                 keep.append(l)
         exp[key] = {"topic": topic, "calc": calc, "exp": "\n".join(keep).strip(), "tip": tip}
 
+# ---- plain-English explanations + index lookup terms ----
+plain = {}
+for n in (1, 2, 3):
+    for line in open(os.path.join(ROOT, f"content/plain-exam{n}.txt"), encoding="utf-8"):
+        if not line.strip() or line.startswith("#"):
+            continue
+        key, look, text = [x.strip() for x in line.split("|", 2)]
+        plain[key] = {"look": look, "plain": text}
+
 TOPICS = ["org", "lic", "dbpr", "lien", "aia", "law", "acct", "ratio", "dep", "cash", "job", "tax", "labor", "wc", "ins", "osha", "est"]
 
 BOOKS = [
@@ -161,6 +170,8 @@ for q in raw:
         "topic": e["topic"], "books": books, "cites": cites,
         "exp": e["exp"],
     }
+    item["plain"] = plain[key]["plain"]
+    item["look"] = plain[key]["look"]
     if q.get("scenario"):
         item["scenario"] = q["scenario"]
     if e["tip"]:

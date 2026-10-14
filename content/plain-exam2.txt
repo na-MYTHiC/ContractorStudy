@@ -1,0 +1,126 @@
+# id | what to look up in the book's index | plain-English explanation
+2-1 | Depreciation – Straight Line | Price minus salvage: $23,000 − $2,000 = $21,000. Spread over 10 years = $2,100 a year.
+2-2 | Types of Business – Joint Venture | A joint venture is usually for one job, and you put the deal in writing. Both are true.
+2-3 | Licensing – Record Keeping (§489.124) | Timecards aren't on the state's 3-year list. They're "soft" records (2 years).
+2-4 | Citations (§455.224) | Got a citation? You have 30 days to fight it, or it becomes final.
+2-5 | A201 3.2 – Review of Contract Documents | If you asked the architect, got an answer and built it that way, you're not on the hook for their mistake.
+2-6 | Forms – 940 (FUTA) | Form 940 is the yearly federal unemployment (FUTA) tax form.
+2-7 | Laws – Child Labor | A 17-year-old can work 30 hours a week during the school year. Same as a 16-year-old.
+2-8 | Balance Sheet | A balance sheet has three things: assets, liabilities and net worth.
+2-9 | Bad Debt Reserve | A bad debt reserve lowers your current assets on paper, and it's a ledger entry for money you expect to lose. Both are true.
+2-10 | A201 3.7.4 – Concealed or Unknown Conditions | Hit something hidden in the ground or walls? Tell the owner AND the architect within 14 days.
+2-11 | Lapping | Lapping is taking one customer's payment, covering it with the next customer's money, and hiding the hole as bad debt.
+2-12 | Mediation (§455.2235) | You can use mediation up to 3 times before you need the board's OK.
+2-13 | Bonds – Surety | A bond protects the owner, not you. If the surety pays out because of you, you pay the surety back.
+2-14 | Payroll Register | A payroll register is a check register with the payroll details added: gross, deductions, net.
+2-15 | Licensing – Public Liability Insurance (61G4-15.003) | Specialty trades carry $100,000 / $25,000. General, building and residential contractors carry $300,000 / $50,000.
+2-16 | Assets – Intangible | Goodwill is valuable but you can't touch it. That makes it an intangible asset.
+2-17 | Direct Costs | Labor on the job is a direct cost. It goes straight to that job.
+2-18 | Loans – Bank Requirements | The bank asks how much, how long and how you'll pay it back. All three.
+2-19 | A201 1.5 – Ownership of Instruments of Service | The architect owns the drawings, not the owner, even though the owner paid. So "the owner owns them" is the false statement.
+2-20 | Continuing Education (§489.115) | You need 14 hours of continuing education every renewal.
+2-21 | Accruals – Sales on Account | A sale on account gets accrued because no cash changed hands yet.
+2-22 | Accounts Payable | The Builder's Guide tracks payables with check registers for this month and last month's bills.
+2-23 | A701 Art. 6 – Post-Bid Information | Once a bidder asks, the owner has 7 days to show the job is funded.
+2-24 | Professional Services – CPA | For budgets, cash-flow forecasts and benefit plans, get a CPA.
+2-25 | A201 15.3 – Mediation | Mediation puts the dispute on hold for 60 days, unless a court orders longer.
+2-26 | Scheduling – Guidelines | Schedules get updated constantly and posted weekly. "Informally reviewed every 30 days" is the wrong one.
+2-27 | Current Ratio | The current ratio is the best single check on a company's health.
+2-28 | Bad Debt – Prevention | Credit checks and payment commitments prevent bad debt. Refusing all new customers until everyone pays doesn't. That just shuts you down.
+2-29 | Overhead – Fixed vs. Variable | Small tools get used up as you work, so they're a variable cost. Office salaries and letterhead are fixed.
+2-30 | Aging List | An aging list shows what's current, what's late, and helps you collect. All of the above.
+2-31 | Direct Costs – Freight | Freight to ship material to the job is a direct job cost, same as the material.
+2-32 | Continuing Education – Rules | CE can be done in a classroom or online (interactive distance learning). It's 14 hours, and a CE "hour" is 50 minutes.
+2-33 | Reemployment Tax – Liability | You owe state unemployment tax once you pay $1,500 in a quarter or have someone working 20 weeks in a year.
+2-34 | Current Ratio | For the current ratio, higher is safer. 4 to 1 beats the others listed.
+2-35 | Forms – 940 | Form 940 is federal only. State unemployment goes on the RT-6, quarterly.
+2-36 | A401 Art. 11 – Payments | The GC pays the sub within 7 days of getting paid.
+2-37 | OSHA 301 – Incident Report | Every injury on the 300 log needs its own 301 detail form.
+2-38 | Network Analysis – CPM / PERT | CPM, PERT and critical path analysis are all network scheduling. All of the above.
+2-39 | Privity | Privity means a direct contract between two parties. No privity with the owner? Send a Notice to Owner.
+2-40 | Depreciation – Methods | The two methods: straight line and declining balance.
+2-41 | A201 15.1 – Claims | Claims are due 21 days after you discover the problem, if that's later than when it happened. May 5 + 21 = May 26.
+2-42 | Completed Contract | Completed contract books profit when the job is done and the numbers are real. That's the most exact method.
+2-43 | Continuing Education – Rules | CE can be classroom or online. It's every 2 years, 14 hours, 50-minute hours.
+2-44 | Open Invoice Method | Keeping unpaid bills filed by due date lets you pay early and grab the discount.
+2-45 | Licensing – Record Keeping | Business records: keep the last 3 years.
+2-46 | Qualifying Agent – Loss of (§489.119) | Lose your qualifier and a temporary certificate lets you finish jobs in progress only. No new work.
+2-47 | Renewal Notification (§455.273) | The state sends your renewal notice at least 90 days before the license expires.
+2-48 | Reemployment Tax – Taxable Wages | Pay for working a convention isn't counted as taxable wages for unemployment.
+2-49 | OSHA – Injury vs. Illness | An injury happens in an instant (a cut, a fall). An illness builds up over time (hearing loss, lungs).
+2-50 | Inventory – FIFO / LIFO | Inventory is tracked FIFO (first in, first out) or LIFO (last in, first out).
+2-51 | Forms – DR-15 | Monthly Florida sales tax goes on form DR-15.
+2-52 | Interest – Compound | Compound interest is figured each period and added to the balance, so you pay interest on interest.
+2-53 | Forms – Multiple Worksite Report | The multiple worksite report is quarterly but mailed separately from the RT-6. "Mailed with" is the false one.
+2-54 | Rigging – Sling Angles | Keep sling angles over 45° whenever you can. Flatter angles overload the legs.
+2-55 | A201 – Shop Drawings | Shop drawings show how you'll build it. They never show prices.
+2-56 | A201 7.3 – Change Costs | Hand tools never go in a change order.
+2-57 | A701 Art. 2 – Bidder's Representations | You bid the materials that were specified, not cheaper ones you'd rather use.
+2-58 | Overhead – Ratios | Check overhead two ways: variable overhead to sales, and fixed overhead to sales.
+2-59 | Cash vs. Accrual Method | Cash method: you record it only when money actually moves.
+2-60 | Licensing – Fees (§489.109) | The late renewal fee can't be more than the renewal fee itself.
+2-61 | Management Privatization Act (§455.32) | That law lets DBPR hire a nonprofit to handle paperwork and exams.
+2-62 | Insurance – Special Form | Special form (all-risk) insurance covers theft. Basic and broad forms don't.
+2-63 | Management – Controlling | Keeping results on plan is the "controlling" part of a manager's job.
+2-64 | Reemployment Tax – Delinquent | Over a year behind on unemployment tax? You get billed at 5.4%, the top rate.
+2-65 | OSHA – Posters | Put up OSHA posters at every location where people work.
+2-66 | Income Statement | The income statement shows money in, money out and profit over a period of time.
+2-67 | Equipment – Hourly Cost | An hourly equipment rate uses repairs, life and hours. "OSHA productivity standards" is made up.
+2-68 | Bad Debt – Write-off | Customer will never pay? Reverse (write off) the income you booked.
+2-69 | Fictitious Name – Change of Ownership | New owner of a DBA? Cancel and re-register it within 30 days.
+2-70 | Limited Licenses (§455.214) | A limited license needs 10 years of licensed experience.
+2-71 | Licensing – Notices of Changes (61G4-15.007) | The rule deadlines are 30 and 45 days. "15 days" is the wrong one.
+2-72 | Depreciation – Declining Balance | The 200% declining-balance class with a 4-year average life is machinery, equipment and small tools.
+2-73 | Qualifying Agent (§489.119) | Three categories of work means three qualifiers, one per category.
+2-74 | Subsidiary Ledger | Subsidiary ledgers hold the details so the main ledger stays clean.
+2-75 | Sales Tax – Journal Entry | A $200 sale with $14 tax: credit Sales $200 and credit Sales Tax Payable $14. Two credits.
+2-76 | Limited Licenses (§455.214) | Limited licenses are for retired pros serving people who can't afford it.
+2-77 | Penalties – False Insurance Statement (61G4-17) | Third time lying about insurance: $5,000 fine and/or probation or suspension.
+2-78 | Mediation (§455.2235) | Settled it in mediation? Tell the mediator within 14 days of being contacted.
+2-79 | Inventory Control | Good inventory planning keeps cash from getting stuck in stock you don't need.
+2-80 | S Corporation | An S corp can only have one class of stock. "Multiple classes" is the false one.
+2-81 | Examinations (§455.217) | The state keeps exam scores 2 years.
+2-82 | Accrual Method | Accrual records income when you earn it and expenses when you incur them. Both.
+2-83 | A201 4.2.7 – Shop Drawing Review | The architect checking your shop drawings doesn't take the responsibility off you.
+2-84 | Assets – Types | The asset types are fixed, intangible and current. "Variable" is for expenses.
+2-85 | Capitalizing Equipment | Putting equipment on the books as an asset is called capitalizing it.
+2-86 | Overhead – Variable | Commissions go up and down with sales.
+2-87 | Corporations – Advantages | Corporations can deduct fringe benefits. That's an advantage.
+2-88 | Citations (§455.224) | The state has 6 months from the complaint to issue a citation.
+2-89 | Inventory Ratio | A high inventory turnover ratio means your stock may be running low.
+2-90 | Cost Accounting | Cost accounting tracks every cost to each job so you can compare it to the budget.
+2-91 | A201 7.2 – Change Orders | The architect prepares and signs the change order, then the owner and contractor sign.
+2-92 | Payroll – Preparation | Payroll is gross pay, deductions and the employer's share. All of it.
+2-93 | Fixed Assets – Disposal | Keep a fully depreciated asset on the books until you sell it, scrap it or trade it.
+2-94 | Unlicensed Activity Fee (§455.2281) | The $5 fee pays for fighting unlicensed activity and warning the public about it.
+2-95 | Depreciation | You can't depreciate intangible property.
+2-96 | A201 9.3 – Applications for Payment | Pay app: 10 days before payday, to the architect.
+2-97 | Timecards | Timecards prove hours, so they help in unemployment disputes.
+2-98 | Fictitious Name | A DBA is good for 5 years and expires December 31 of year five.
+2-99 | Inventory Control | Good inventory control cuts storage, carrying costs and theft. It doesn't stop backorders.
+2-100 | Current Ratio | Current ratio = current assets ÷ current liabilities.
+2-101 | Check Register | The check register lists every check and who it went to.
+2-102 | Licensing – Public Liability Insurance (61G4-15.003) | GCs carry $300,000 liability and $50,000 property damage.
+2-103 | OSHA – Recordkeeping Location | Crew doesn't work from a fixed spot? Keep OSHA records at the field office or mobile base.
+2-104 | OSHA – Recordable Injuries | First aid only (band-aids, tweezers for an eye splinter) isn't recordable. A prescription is.
+2-105 | A201 2.3 – Owner's Responsibilities | Permits the contract assigns to the contractor are the contractor's to pay.
+2-106 | A701 Art. 7 – Bonds | Bonds go to the owner within 3 days of signing.
+2-107 | Discounts | "2% 10, net 30" is the classic early-pay discount.
+2-108 | Reports – Penalties (§440.185) | Fail to file a comp report? Up to $500 for each one.
+2-109 | Overhead – Fixed | Office staff payroll is fixed overhead.
+2-110 | Safety Program | A safety program has a policy, rules and orientation. Workers' comp guidelines aren't part of it.
+2-111 | Notice of Commencement – Posting | The owner records and posts the NOC, not the contractor.
+2-112 | Depreciation – Land | Land can't be depreciated, so keep it separate.
+2-113 | Foreign-Trained Professionals (§455.218) | Someone who fled a Western Hemisphere country with no U.S. diplomatic ties (think Cuba) can sit for the exam.
+2-114 | Discounts – Receivables | Offer a discount to get customers to pay quickly.
+2-115 | A401 – Contractor's Remedies | Sub doesn't start fixing within 5 days of notice? The GC can fix it and bill the sub.
+2-116 | OSHA – Civil Penalties | Add the willful/repeat max and the posting max from YOUR edition's table. 2025 book: $161,323 + $16,131 = $177,454.
+2-117 | Estimates – Man-Hours | Weather, schedule and crew skill all change man-hours. All three.
+2-118 | A201 2.3.6 – Copies of Documents | The owner gives you one free copy of the contract documents to reproduce.
+2-119 | A201 9.4 – Certificates for Payment | The architect issues the certificate, not the contractor. "None of the above."
+2-120 | OSHA – Retention of Records | Keep OSHA logs at each worksite for 5 years.
+2-121 | A201 3.7 – Permits, Fees, Notices | Unless the contract says otherwise, the contractor pays for permits, fees and inspections.
+2-122 | Equipment – Productivity | Operator skill, weather and speed limits affect equipment output. "Overruns" is made up.
+2-123 | Notice to Owner (§713.06) | NTO is due 45 days after you START work, not after you finish.
+2-124 | A201 3.11 – Documents and Samples at the Site | Keep the change orders, product data and samples at the jobsite.
+2-125 | Financial Ratios – Combined | Real turnover mixes income-statement and balance-sheet numbers, so it's a combined ratio.

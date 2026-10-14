@@ -1,0 +1,126 @@
+# id | what to look up in the book's index | plain-English explanation
+3-1 | A201 9.3 – Applications for Payment | Pay apps go to the architect 10 days before payday.
+3-2 | Cash Flow – Controlling | Taking early-pay discounts helps cash flow.
+3-3 | A401 Art. 7 – Assignment of the Subcontract | A sub needs the GC's written OK to hand its contract to someone else.
+3-4 | Small Business Administration Loans | SBA loans are for people the local bank turned down.
+3-5 | Notice of Commencement (§713.13) | An NOC can go past a year if the NOC itself says so.
+3-6 | A701 Art. 2 – Bidder's Representations | By bidding you're saying you know the local conditions where you'll build.
+3-7 | A401 Art. 11 – Payments | GC gets paid, then pays the subs within 7 working days.
+3-8 | Production Efficiency – Delay Factors | Site access, green crews and weather slow you down. Money incentives don't. They speed crews up.
+3-9 | Equipment – Sales | Equipment sales get different tax treatment, so book them separately.
+3-10 | Overtime Pay – Exemptions | Only a real exemption, like an outside salesperson on straight commission, gets you out of overtime. Saying "no overtime allowed" doesn't.
+3-11 | Leasing – Advantages | Leasing means less cash up front. Owning is usually cheaper long term.
+3-12 | Licensing – Change of Address (61G4-15.007) | Business address changed? Tell DBPR within 45 days.
+3-13 | Rigging – Chain Slings | Per the manual, a competent inspector checks chain slings once a month, plus your daily look-over.
+3-14 | Laws – Florida Right to Work | Federal enclaves (federal land) aren't covered by Florida's right-to-work ban.
+3-15 | Accruals | Material bought and stored on site but not installed gets an accrual entry.
+3-16 | Equipment – Cost Assignment | Replacement cost doesn't go into an hourly equipment rate.
+3-17 | Licensing – Renewal (§489.116) | Didn't renew? Your license is delinquent.
+3-18 | Accrual Method | Accrual books income when you earn it, even if you haven't been paid yet.
+3-19 | Depreciation – Methods | "Accumulated cost depreciation" is made up. The others are real methods.
+3-20 | Insurance – Completed Operations | Completed operations coverage handles claims from work you already finished.
+3-21 | Payment Bond (§713.23) | A payment bond keeps liens off the owner's property. Unpaid subs go after the bond instead.
+3-22 | Civil Rights – Damages Caps | Employer with 15 to 100 workers: damages capped at $50,000.
+3-23 | Workers' Compensation – Premiums | You can't make workers chip in for comp premiums. It's illegal.
+3-24 | Florida Civil Rights Act – Back Pay | Back pay is limited to 2 years (24 months) before the complaint.
+3-25 | OSHA – Penalty Calculation | Base penalty × (1 − size discount). With 100 workers it's 20% off in the 2025 book: $16,131 × 0.80 = $12,905. No history discount because of the earlier citation.
+3-26 | Lien – Claim of Lien (§713.08) | Record your lien within 90 days after your LAST day of work or delivery.
+3-27 | Forms, Tax – 941 | Form 941 reports the federal income tax you withheld.
+3-28 | Fictitious Name | A DBA lasts 5 years.
+3-29 | Bonds – Performance | A performance bond guarantees the owner the job gets finished per the contract.
+3-30 | Recordkeeping – IRS | IRS payroll tax records: 4 years.
+3-31 | Reemployment – Misconduct | A one-time mistake or bad call isn't "misconduct." It has to be on purpose.
+3-32 | Workers' Compensation – When Needed | A construction company with employees has to carry workers' comp.
+3-33 | Notice to Owner (§713.06) | Subs and suppliers with no contract with the owner send the NTO within 45 days of starting.
+3-34 | Financial Statements – Balance Sheet | The balance sheet is the snapshot of current condition.
+3-35 | OSHA – Posters | On a multi-contractor job, posters go where workers can see them, and every contractor posts its own. A and B.
+3-36 | Front End Loading | Billing heavy up front so early pay beats early cost is front-end loading.
+3-37 | Request for Information (RFI) | Specs and plans disagree? Send an RFI. Don't guess.
+3-38 | OSHA – Citations | Post an OSHA citation for 3 days or until it's fixed, whichever is longer.
+3-39 | Military Members (§455.02) | Active-duty members, and for 2 years after discharge, have the renewal fee waived.
+3-40 | Lien – Claim of Lien (§713.08) | Liens get recorded with the clerk of court.
+3-41 | Financial Ratios – Combined | Combined ratios compare balance sheet numbers to income statement numbers.
+3-42 | Workers' Compensation – Compensability | For comp to pay, the injury has to come from the job, while doing the job.
+3-43 | Inventory – LIFO | LIFO charges material at the most recent price.
+3-44 | Inventory Ratio | "Total monthly averages" isn't part of the inventory ratio.
+3-45 | Drug-Free Workplace Act | The 1988 federal Drug-Free Workplace Act doesn't require drug testing.
+3-46 | Insurance – Builder's Risk | An extended coverage endorsement can add materials in transit.
+3-47 | Bonds – Bid Bond | With a "forfeiture" bid bond, the low bidder who backs out loses the whole bond amount.
+3-48 | Statute of Limitations | You have 4 years to sue over a handshake (oral) contract. Written contracts get 5.
+3-49 | FUTA – Exempt Wages | Wages paid to your spouse aren't subject to FUTA.
+3-50 | Workers' Compensation – Self-Insurance | You can buy a comp policy or get approved to self-insure. Health or life insurance doesn't count.
+3-51 | A201 15.1 – Claims for Additional Cost | Emergency work protecting the owner's property doesn't need written notice first.
+3-52 | Board Members – Compensation (§455.207) | Probable cause panel members get $50 a day.
+3-53 | Contracts – Written or Oral | An oral contract is OK if the job can be done in under a year.
+3-54 | Current Liabilities | Current liabilities are due within 365 days.
+3-55 | Project Planning | Planning comes before scheduling: figure out what and how before when.
+3-56 | Americans with Disabilities Act | ADA = Americans with Disabilities Act.
+3-57 | Chapter 489 – Scope | Chapter 489 covers construction, electrical/alarm and septic tank contractors.
+3-58 | Long Lead Items | Order long-lead items early so they don't hold up the job.
+3-59 | Financial Statements – Gross Profit | Sales minus cost of goods sold = gross profit.
+3-60 | Financial Statements – Net Worth | Assets minus liabilities = net worth.
+3-61 | Unlicensed Persons Associated with a Firm (§489.132) | An unlicensed person tied to your firm: fine up to $5,000 plus costs.
+3-62 | OSHA – Reporting Fatalities | A death on the job must be reported to OSHA within 8 hours.
+3-63 | Overhead – Fixed vs. Variable | Payroll taxes on office salaries are fixed. The others go up and down with the work.
+3-64 | Spouse as Agent (§713.12) | A spouse who objects to the contract has 10 days to file the objection.
+3-65 | OSHA – Retention of Records | OSHA records: 5 years.
+3-66 | Cost Control | Control costs during each phase, while you can still fix things.
+3-67 | Journal | The journal is where every transaction gets written down first.
+3-68 | Current Ratio | The current ratio shows whether you can pay this year's bills.
+3-69 | FLSA – Executive Exemption | $150 a week isn't the salary test (the federal floor is $684 a week). The other three are real requirements.
+3-70 | Equipment – Production Factors | What you paid for the machine doesn't change how much it moves. That's a cost factor, not a production factor.
+3-71 | Scheduling – Master Activities | No single master activity should be more than 10% of the project.
+3-72 | Examinations – Translated (§455.217) | Want the exam in a language other than Spanish? Request it 6 months ahead.
+3-73 | Florida Civil Rights Act | Current illegal drug use isn't protected. Age, religion and alcoholism (as a handicap) are.
+3-74 | Accruals | Accruals record income you've earned but haven't received.
+3-75 | Asbestos – Demolition Notice | Tell FDEP 10 working days before demolition.
+3-76 | Reemployment Tax – Rates | Unemployment tax rates are "experience ratings": fewer claims means a lower rate.
+3-77 | Taxes – Sales Tax on Materials | Sales tax is on materials, so the concrete supplier's bill is taxable. Labor-only bills aren't.
+3-78 | Reemployment – Eligibility | A laid-off worker needs wages in 2 or more quarters to qualify.
+3-79 | Civil Rights Act of 1866 | The 1866 Civil Rights Act covers all employees at any size company.
+3-80 | Licensing – Fees (§489.109) | The initial application fee can't be more than $150.
+3-81 | Percentage of Completion | A quick little $1,000–$5,000 job doesn't need percentage of completion.
+3-82 | Continuing Education Provider (§455.2178) | CE schools report your course to the state within 30 days.
+3-83 | Budget – Analysis | "Consult your accountant" isn't one of the budget steps.
+3-84 | Veterans' Reemployment | The book's answer is 1 year. (Current federal USERRA law says 180 days for 31–180 days of service. Go with the book.)
+3-85 | Overhead – Fixed | Advertising is treated as fixed overhead.
+3-86 | Equipment – Estimating / Scheduling | Good scheduling is the best way to control equipment costs.
+3-87 | Equipment – Cost Summary | Unpredictable site conditions don't go into an hourly rate.
+3-88 | A201 7.2 – Change Orders | The contract sum in a change order is agreed by the owner, contractor and architect.
+3-89 | Loans – Preparing Financials | Pay down current bills before applying for a loan. It makes your current ratio look better.
+3-90 | Advertising – License Number (61G4-12.011) | Your license number goes on ads, except free Yellow Pages listings.
+3-91 | Continuing Education | 14 hours of CE every 2-year cycle.
+3-92 | Current Liabilities | Current = due within 365 days.
+3-93 | Assets – Fixed vs. Current | Inventory is a current asset. Land, equipment and trucks are fixed assets.
+3-94 | Reemployment Tax – Cafeteria Plans | Cafeteria plan payments are exempt if they aren't reported to the IRS as wages.
+3-95 | Inventory Ratio | A high inventory ratio means low inventory.
+3-96 | Equipment – Leveling | 60 + 15 + 15 = 90 truck-months ÷ 3 = 30 a month. Spread the schedule so you only need the 30 trucks you have.
+3-97 | Whistle-blower's Act | Report your boss for breaking the law, and the Whistle-blower's Act protects your job.
+3-98 | AIDS/HIV Discrimination (FS 760.50) | Florida's AIDS/HIV discrimination law applies to every employer, any size.
+3-99 | Workers' Compensation – Construction Defined | Roof replacement is construction work for comp.
+3-100 | Improper Payments (§713.06) | Paying the GC without getting lien releases from subs who sent an NTO is an "improper payment." The owner may pay twice.
+3-101 | Equipment – Sale (Gain/Loss) | Book value is $16,900 − $4,200 = $12,700. Sold for $11,500, that's $1,200 less than book. A loss.
+3-102 | Penalties – Certificate Misuse | Letting someone use your license: fine up to $10,000.
+3-103 | S Corporation | A corporation taxed like a partnership is an S corp.
+3-104 | Advertising – License Number (61G4-12.011) | Every ad shows your certificate (license) number.
+3-105 | Notice to Owner – Service by Mail (§713.18) | An NTO mailed within 40 days counts from the mailing date.
+3-106 | FLSA – Day Rate / Overtime | $210 ÷ 51 hours is under minimum wage, so pay $7.25: 40 hrs × $7.25 = $290, plus 11 OT hrs × $10.875 = $119.63. Total $409.63.
+3-107 | Accruals | Bills mailed but not paid yet (receivables) are an accrual.
+3-108 | Liquidity Tests | Ratios that check your cash position are called liquidity tests.
+3-109 | Profit Margin | Sales = profit ÷ margin. $1,200,000 ÷ 0.37 = $3,243,243.
+3-110 | Interest Rate | The yearly interest charged on what you borrowed is the "rate."
+3-111 | Statute of Frauds | A lease under 1 year can be a handshake deal. The rest need to be in writing.
+3-112 | Break-Even Point | Break-even is the minimum sales you need to cover your costs.
+3-113 | Joint Venture | A joint venture is usually for one job.
+3-114 | Bonds – Bid Bond | A bid bond promises you'll sign the contract at the price you bid.
+3-115 | Discounts | A discount is the reward for paying early or on time.
+3-116 | Contracts – Offers | Bids, POs and proposals are offers. Negotiating is just talking.
+3-117 | Estimates – Square Footage Method | Pricing the extra slab by the square foot is the square footage method.
+3-118 | CSI MasterFormat | MasterFormat has 50 divisions now. The old version had 16.
+3-119 | Estimates – Checking | The book says check your estimate against one from a similar job.
+3-120 | OSHA – False Statements | Lying on OSHA paperwork: up to $10,000 and 6 months in jail.
+3-121 | Contracts – Types | Lump sum, cost-plus and GMP differ in how the contractor gets paid.
+3-122 | Contracts – Cost-Plus | Cost-plus comes as cost plus a fixed fee, or cost plus a percentage.
+3-123 | Disciplinary Proceedings – Confidentiality (§455.225) | A complaint stays confidential until 10 days after probable cause is found.
+3-124 | Loans – Term Loan | A term loan is paid back in one lump sum, principal and interest, at the end.
+3-125 | A201 3.7.4 – Concealed Conditions | Concealed condition claims: within 14 days of first seeing it.

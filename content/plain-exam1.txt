@@ -1,0 +1,126 @@
+# id | what to look up in the book's index | plain-English explanation
+1-1 | Recordkeeping – Payroll | Payroll, contracts and buy/sell records are "hard" paperwork: you can't recreate them, so you keep them 3 years. Timecards are "soft" paperwork and only need 2 years.
+1-2 | Recordkeeping – Payroll | Timecards and time sheets are the "soft" stuff. Keep them 2 years. The heavier paperwork (payroll, contracts) gets 3.
+1-3 | Licensing – Record Keeping (§489.124) | The state licensing law says keep your business and money records for the last 3 years. Think of it as the license board's look-back window.
+1-4 | OSHA – Recordkeeping | OSHA injury logs stay in the file 5 years after the year ends. OSHA keeps the longest memory of any record rule on this test.
+1-5 | Recordkeeping – IRS, Taxes | The IRS wants your payroll tax records kept 4 years. Easy to mix up with 3 (state) and 5 (OSHA), so memorize the ladder: 2, 3, 4, 5.
+1-6 | Department – Powers & Duties (§455.203) | If your license application is missing something and you ignore the letter, the state can close the file after 2 years.
+1-7 | Recordkeeping – Immigration Reform (I-9) | An I-9 stays on file 3 years from hire or 1 year after they quit, whichever date is later. The "whichever is later" choice is the answer.
+1-8 | A201 13.4 – Tests and Inspections | The owner pays for the required inspections. If your work fails the test, you pay for the retest and the fix.
+1-9 | Laws – Child Labor | A 16-year-old can work up to 30 hours a week during the school year. Same rule for 17-year-olds.
+1-10 | Markup / Contract Price | Add up all your cost (spent + still to spend = $125,000), then add 12% on top: $125,000 × 1.12 = $140,000.
+1-11 | Acts – FLSA | The federal wage-and-hour law (FLSA) is run by the U.S. Department of Labor, not the Florida license board.
+1-12 | Bad Debt Accounting | Setting aside a reserve for customers who won't pay lets you write that loss off, which lowers the tax on the profit you booked.
+1-13 | Overtime Pay | Outside salespeople don't get overtime. Being on salary alone doesn't get an employer out of paying it.
+1-14 | Buy American Act | Brazil is the country NOT covered. Mexico, Canada and Europe are on the list in the manual.
+1-15 | FLSA – Executive Exemption | To be an "executive" with no overtime, they have to manage, boss at least 2 people, and have hire/fire say. All three, so "all of the above."
+1-16 | Clean Indoor Air Act | Smoking where you shouldn't: $100 the first time, $500 for each time after that.
+1-17 | Limited Licenses (§455.214) | A limited license is for a retired pro (10+ years licensed) who wants to help people who can't afford it. Not for trainees or people who keep failing.
+1-18 | OSHA – Employer Responsibilities | Every employer on the job posts its own OSHA posters for its own crew. The GC can't post for the subs.
+1-19 | Authority to Inspect (§455.243) | DBPR can walk in and inspect places that are allowed to prescribe controlled substances. It's an odd fact, but the statute says it.
+1-20 | Examination Hearing (§455.229) | If you can't make your exam hearing, tell the state at least 5 days ahead or you may get stuck with their legal costs.
+1-21 | Classification of Disciplinary Actions (§455.2255) | A minor violation goes "inactive" on your record 2 years after the final order.
+1-22 | Real Turnover Ratio | Real turnover = what you sold at cost ÷ what's sitting in inventory at cost. It tells you how fast stock moves.
+1-23 | Limited Licenses (§455.214) | You need 10 years of being licensed (anywhere in the U.S.) to get a limited license.
+1-24 | Disciplinary Proceedings (§455.225) | The probable cause panel has 15 days after getting the investigation report to ask for more info.
+1-25 | Penalty for theft or reproduction of exam (§455.2175) | Stealing or copying the state exam is a third-degree felony. Don't do it.
+1-26 | Production Efficiency (Figure 12) | Weather, workload and site size all slow a crew down. Deadlines are known ahead of time and don't change how fast the crew works.
+1-27 | Depreciation – Methods | Take salvage off first: $210,000 − $30,000 = $180,000. Divide by 12 years = $15,000 a year. Six years = $90,000.
+1-28 | A701 Art. 7 – Performance and Payment Bond | Once the contract is signed, you've got 3 days to hand your bonds to the owner.
+1-29 | Discounts | "2% 10, net 30": pay within 10 days and knock 2% off. Otherwise the full bill is due in 30.
+1-30 | Laws – Florida Right to Work | Right to Work means nobody can force you to join a union to keep your job.
+1-31 | Workers' Compensation – Exemptions | If your sub's comp exemption turns out to be bogus and you get stuck paying, you can go after the sub for what you paid plus interest.
+1-32 | Scheduling – Guidelines | Update the schedule with progress at least once a week.
+1-33 | Penalties – Licensing (61G4-17) | Finishing a job without pulling the permit can cost up to $5,000 on a first offense.
+1-34 | OSHA – Employer Responsibilities | Got 11 or more employees? Keep the OSHA 300 log. 10 or fewer, you're off the hook.
+1-35 | A701 Art. 3 – Bidding Documents | Questions about the bid documents have to reach the architect in writing at least 7 days before bids are due.
+1-36 | Accounting – Equation | What you own minus what you owe = what you're worth (equity). Assets − Liabilities = Equity.
+1-37 | Estimates – Types of | Square-foot pricing is a ballpark number. A lump-sum bid needs a real takeoff, so square footage is the method NOT to use.
+1-38 | Bonds – Three C's of Underwriting | The bonding company checks Capital (money), Character (reputation) and Capacity (can you do the work).
+1-39 | Forms – DR-15 / Taxes – State Sales | Florida sales tax goes on form DR-15 and is paid monthly. Form 941 is federal payroll, a different animal.
+1-40 | Capital – Sources of | Banks want 2 years in business before lending for expansion, and they'd like to see 5.
+1-41 | Forms – Multiple Worksite Report | Run crews out of more than one Florida location? File the multiple worksite report every quarter.
+1-42 | Types of Business – Joint Venture | Two companies teaming up for one job without forming a new company is a joint venture.
+1-43 | Fictitious Name | A DBA (fictitious name) is good for 5 years, ending December 31 of year five.
+1-44 | Laws – Florida Right to Work | Union shop, agency shop and maintenance of membership deals are all banned in Florida. All of them.
+1-45 | Requests for Sworn Statement (Lien Law) | When the owner demands a sworn statement of account, you have 30 days to send it, or you can lose lien rights.
+1-46 | A201 2.5 – Owner's Right to Carry Out the Work | If the contractor drops the ball and doesn't start fixing it within 10 days of the owner's written notice, the owner can fix it and back-charge.
+1-47 | Petty Cash – Imprest System | An imprest fund is a petty cash box with a fixed amount. You only refill what the receipts show was spent.
+1-48 | OSHA – Employer Responsibilities (300 Log) | The 300 log is for serious injuries. Someone getting knocked out (loss of consciousness) counts. A band-aid doesn't.
+1-49 | Depreciation – Straight Line | Straight line is the same every year: $157,000 ÷ 7 is about $22,429. Closest choice: $22,500.
+1-50 | Backcharge | When you have to do a sub's or supplier's work for them, you charge it back to them. That's a back charge.
+1-51 | Completed Contract | Under the completed contract method, a job counts as "done" at 98–99% complete.
+1-52 | A201 7.2 – Change Orders | A change order needs three signatures: owner, contractor and architect.
+1-53 | Percentage of Completion | Percent complete = what you've spent ÷ total expected cost. $210,000 ÷ $315,000 = 66.67%.
+1-54 | Percentage of Completion | Multiply percent complete by the contract price: 66.67% × $390,000 ≈ $260,013 earned.
+1-55 | Percentage of Completion | You've earned $260,013 but only been paid $220,000, so you've earned more than you've been paid (underbilled).
+1-56 | Minimum Wage | Federal minimum wage is $7.25 an hour. Florida's is higher, but the question says "federal."
+1-57 | Job Responsibilities – Superintendent | The super helps build the schedule and writes back charges. The change order log is the PM's or office's job.
+1-58 | A201 11.1.4 – Insurance – Notice of Cancellation | If your insurance is getting cancelled, tell the owner within 3 business days.
+1-59 | Asbestos / Environmental Compliance | Tell FDEP 10 working days before ANY demolition, even with no asbestos.
+1-60 | Check Register | The check register shows what you spend money on, by category. Basically, where the money goes.
+1-61 | Equipment – Productivity | For planning, figure equipment averages 40–65% of the speed limit, not top speed.
+1-62 | A701 4.4.3 – Bidding Procedures | Found a typo in your bid after opening? You've got 2 days to tell the architect.
+1-63 | Licensing – Public Liability Insurance | Plumbers and other specialty trades: $100,000 liability and $25,000 property damage. GCs carry more.
+1-64 | Contracts – Written or Oral | Buying goods for $500 or more needs a written contract. The $475 lawnmower is under that, so a handshake deal is fine.
+1-65 | Current Ratio | The current ratio shows whether what you have on hand can cover the bills coming due.
+1-66 | Estimates – Labor / Manpower | Manpower estimates come in two flavors: preliminary (rough) and detailed.
+1-67 | Unemployment – Recordkeeping (RT-6) | Late on your RT-6 unemployment report? $25 penalty for every month it's late.
+1-68 | Purchase Order | Purchase orders stop people from buying stuff nobody approved.
+1-69 | A701 3.2 – Bidding Documents | Changes to bid documents go out by addendum. Before the contract it's an addendum, after it's a change order.
+1-70 | Continuing Education Provider (§455.2178) | Schools that teach your CE keep their records 4 years.
+1-71 | A401 – Subcontractor (stop work) | Sub not paid 7 days past due? Give 7 more days' written notice, then the sub can stop work.
+1-72 | OSHA 301 – Incident Report | The 301 form is the detail sheet for each injury listed on the 300 log.
+1-73 | A401 – Subcontractor (progress reports) | The sub reports progress to the contractor, because the contractor is who the sub works for.
+1-74 | Workers' Compensation – Exemption | Drilling a well on bare land counts as construction for comp. Landscaping, fences and pool repair at existing buildings were the exceptions listed.
+1-75 | Expenses – Variable | Collections costs go up and down with your volume, so they're variable. Rent and depreciation stay the same, so they're fixed.
+1-76 | A701 Art. 7 – Performance & Payment Bond | The bonds cover doing the job right and paying everybody you owe on it.
+1-77 | Insurance – Builder's Risk | Builder's risk insures the building while it goes up, and can cover materials on the truck or in storage.
+1-78 | Taxes – Sales Tax | The buyer pays the sales tax. The seller just collects it for the state.
+1-79 | Loans – Interest | Interest = loan × rate × time. $150,000 × 9% × half a year = $6,750.
+1-80 | Break-Even Point | Break-even is the amount of work you need just to not lose money.
+1-81 | Liability for Compensation (§440.10) | If you end up paying comp for an uninsured sub's worker, you can get back everything paid or owed, plus interest.
+1-82 | Acts – Equal Pay | Unequal pay for the same job: normally 2 years of back pay, 3 years if it was on purpose (willful).
+1-83 | A201 5.2 – Subcontractors | If the owner or the architect objects to a sub, you can't use that sub.
+1-84 | Depreciation | You can't depreciate land. Dirt doesn't wear out.
+1-85 | A701 Art. 6 – Post-Bid Information | A bidder can ask the owner to prove the job is funded, 14 days before the bid hold period ends.
+1-86 | A401 – Contractor (remedies) | Before the GC steps in to do a sub's work and bills them for it, the GC gives 7 days' written notice.
+1-87 | Qualifying Agent (§489.1195) | The secondary qualifier handles the field work: permits, safety, quality. Money matters belong to the primary qualifier.
+1-88 | A201 7.3 – Construction Change Directives | Labor, materials and rented machinery can go in a change. Hand tools can't.
+1-89 | A201 9.3 – Applications for Payment | Pay apps go to the architect 10 days before payday.
+1-90 | Cash Flow – Controlling | Taking early-pay discounts saves money and helps cash flow.
+1-91 | A401 Art. 7 – Assignment of the Subcontract | A sub can't hand its contract to someone else without the GC's written OK.
+1-92 | Small Business Administration Loans | SBA loans are for folks who couldn't get a loan from a regular bank.
+1-93 | Notice of Commencement (§713.13) | An NOC lasts 1 year unless the NOC itself lists a different expiration date.
+1-94 | A701 Art. 2 – Bidder's Representations | Bidding means you read the documents, saw the site, and priced the specified materials. It doesn't mean liquidated damages get waived.
+1-95 | A401 Art. 11 – Payments | When the GC gets paid, the GC has 7 working days to pay the subs.
+1-96 | Equipment – Sales | Selling equipment is taxed differently (gain, loss, recapture), so you book it separately from regular sales.
+1-97 | Licensing – Notices of Changes (61G4-15.007) | Change anything on your company's qualification paperwork? Tell the board within 45 days.
+1-98 | Accruals | Material bought and sitting on the jobsite but not installed yet gets an accrual entry.
+1-99 | Equipment – Cost Assignment | To figure an hourly equipment rate, use cost minus salvage, life and hours. Replacement cost doesn't go in.
+1-100 | Licensing – Renewal (§489.116) | Miss your renewal and your license goes delinquent.
+1-101 | Forms, Tax – 941 | Form 941 is the quarterly report of federal income tax you withheld from paychecks, plus Social Security and Medicare.
+1-102 | Financial Statements – Balance Sheet | The balance sheet is a snapshot of where the business stands today.
+1-103 | A201 5.2 – Subcontractors (substitution) | Architect rejects your sub and the replacement costs $5,000 more? You get the $5,000 plus any time you can prove you lost.
+1-104 | Lapping | Lapping is stealing cash and covering it by shifting customer payments around.
+1-105 | Lien – Claim of Lien (§713.08) | A lien has to be recorded with the clerk of court. You don't need the owner's permission or a judge.
+1-106 | Financial Ratios – Combined | "Combined" ratios use one number from the balance sheet and one from the income statement.
+1-107 | Workers' Compensation – When Needed | In construction, even 1 employee means you need workers' comp.
+1-108 | Inventory – LIFO | LIFO (last in, first out) charges material at the newest price, close to today's market.
+1-109 | Inventory Ratio | The inventory ratio uses labor, materials and direct costs. "Total monthly averages" is the made-up choice.
+1-110 | A201 15.1 – Claims for Additional Cost | In an emergency you act first. You don't need written notice before claiming the extra cost.
+1-111 | Invoice – Illustrated | An invoice covers one sale. The customer's running balance goes on a statement, not the invoice.
+1-112 | Current Liabilities | Current liabilities are bills due within a year (365 days).
+1-113 | Financial Statements – Gross Profit | Sales minus direct job costs = gross profit. Take overhead out after that to get net profit.
+1-114 | Financial Statements – Net Worth | What you own minus what you owe = net worth.
+1-115 | Homeowners' Recovery Fund (§489.1425) | Residential contract over $2,500? Include the written Recovery Fund notice.
+1-116 | Notice of Termination (§713.132) | A Notice of Termination needs the NOC info, a statement that everyone's paid, and the property it covers. "Two copies of a notice direct contract" is made up.
+1-117 | Project Schedules – Short Term | Short-term schedules plan the next 2 weeks in detail.
+1-118 | Independent Contractors (1099) | Paid a non-employee $600 or more in a year? File a 1099. The W-4 is for employees.
+1-119 | Accruals / Definitions | An accrual records money you've earned but haven't collected yet.
+1-120 | Licensing – Money Received (§489.126) | Took more than a 10% deposit on a home job? Apply for the permit within 30 days.
+1-121 | Percentage of Completion Accounting | Percentage of completion is for big, long jobs. A one-week, $5,000 job doesn't need it.
+1-122 | Cash Control | A daily cash summary is one of the best ways to keep an eye on your money.
+1-123 | Budget – Analysis | Budgeting is prepare, analyze, control. "Consult your accountant" isn't a step.
+1-124 | Equipment – Estimating / Scheduling | Good scheduling keeps equipment working instead of sitting, and that's the best cost control.
+1-125 | Equipment – Cost Summary | You can't put a number on unpredictable site conditions, so they don't go into an hourly equipment rate.
