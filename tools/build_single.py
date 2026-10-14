@@ -35,6 +35,8 @@ head = head.replace("<title>", '<meta name="claude:viewport-fit-sides" content="
 title = re.search(r"<title>.*?</title>", head).group(0)
 head = head.replace(title, "")
 body = re.search(r"<!--BODY-->(.*?)<!--/BODY-->", full, re.S).group(1)
+# hosted viewers can't download files; drop the download-backup button (copy/paste backup still works)
+body = re.sub(r"/\*DL\*/.*?/\*/DL\*/", "", body, flags=re.S)
 art = title + "\n" + head.strip() + "\n" + body.strip() + "\n"
 open(os.path.join(ROOT, "dist/artifact.html"), "w", encoding="utf-8").write(art)
 print("ok", len(full) // 1024, "KB")

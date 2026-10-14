@@ -1622,7 +1622,7 @@ window.FORMULAS = [
       '<div class="field"><label for="sMin">Simulation time (minutes)</label><input type="number" id="sMin" min="10" max="900" data-change="simMinutes" value="' + s.simMinutes + '"></div>' +
       '<div class="field"><label for="sPass">Passing score (%)</label><input type="number" id="sPass" min="50" max="100" data-change="passPct" value="' + s.passPct + '"></div>' +
       '</div><label class="toggle"><input type="checkbox" id="sShuffle" data-change="shuffle"' + (s.shuffle ? " checked" : "") + "> Shuffle answer choices in practice and simulations (full practice tests always keep the printed order)</label></section>" +
-      '<section class="card stack"><h3>Backup &amp; restore</h3><p class="small muted" style="margin:0">Your progress is saved in this browser on this device' + (storageOK ? "" : " (storage is blocked here, so progress only lasts until you close the page)") + '. To move it to another device, copy the backup code and paste it in on the other device.</p><div class="row"><button class="btn" data-act="exportCopy">Copy backup code</button><button class="btn" data-act="exportShow">Show backup code</button><button class="btn" data-act="exportFile">Download backup file</button></div>' +
+      '<section class="card stack"><h3>Backup &amp; restore</h3><p class="small muted" style="margin:0">Your progress is saved in this browser on this device' + (storageOK ? "" : " (storage is blocked here, so progress only lasts until you close the page)") + '. To move it to another device, copy the backup code and paste it in on the other device.</p><div class="row"><button class="btn" data-act="exportCopy">Copy backup code</button><button class="btn" data-act="exportShow">Show backup code</button>' + /*DL*/'<button class="btn" data-act="exportFile">Download backup file</button>' + /*/DL*/'</div>' +
       '<div class="field"><label for="importBox">Restore from a backup code</label><textarea id="importBox" placeholder="Paste a backup code here"></textarea></div><div class="row"><button class="btn primary" data-act="importPaste">Restore</button><label class="btn">Restore from file<input type="file" id="importFile" accept=".json,application/json" data-change="importFile" hidden></label></div>' +
       '<div id="exportOut"></div></section>' +
       '<section class="card stack"><h3>Start over</h3><p class="small muted" style="margin:0">Erases every answer, exam, flag, note and tab check on this device.</p><div class="row"><button class="btn danger" data-act="resetAll">Reset all progress</button></div></section>';
@@ -1733,13 +1733,13 @@ window.FORMULAS = [
       else showExport(code);
     },
     exportShow: function () { showExport(exportCode()); },
-    exportFile: function () {
+    /*DL*/    exportFile: function () {
       try {
         var blob = new Blob([exportCode()], { type: "application/json" }), a = document.createElement("a");
         a.href = URL.createObjectURL(blob); a.download = "fl-business-finance-progress-" + todayKey() + ".json"; document.body.appendChild(a); a.click(); a.remove();
         toast("Download started. If nothing downloaded, use Copy backup code instead.");
       } catch (e) { showExport(exportCode()); }
-    },
+    },/*/DL*/
     importPaste: function () { doImport(document.getElementById("importBox").value); },
     resetAll: function () { confirmBox({ title: "Reset all progress?", body: "This erases every answer, exam, flag, note and tab check on this device. It can't be undone.", ok: "Erase everything", danger: true }, function () { var keep = S.settings; S = defaults(); S.settings = keep; save(); state.session = null; state.cards = null; toast("Progress reset."); go("home"); }); }
   };
