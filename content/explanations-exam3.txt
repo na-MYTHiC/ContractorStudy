@@ -1,0 +1,381 @@
+## 3-1 aia
+A201 §9.3.1: the Application for Payment goes to the Architect at least **10 days** before the payment date.
+
+## 3-2 cash
+**Taking advantage of discounts** improves cash flow. High inventory and turning cash sales into receivables tie cash up.
+
+## 3-3 aia
+A401 §7.4.2: the Sub may assign the subcontract only with the **Contractor's written consent**.
+
+## 3-4 org
+SBA loans are for **applicants who can't get a loan from local banks** on reasonable terms.
+
+## 3-5 lien
+§713.13(1)(c): an NOC expires after 1 year **unless the notice states a different expiration date**.
+
+## 3-6 aia
+A701 §2.1: by bidding, the bidder represents that it **is familiar with the local conditions** where the work will be done (and visited the site and read the documents).
+
+## 3-7 aia
+A401 §11.3 and A201 §9.6.2: pay the Sub within **7 working days** of receiving the Owner's payment.
+
+## 3-8 est
+Site access, poorly trained personnel and weather all slow production. **Financial incentives** aren't a delay factor (they usually raise productivity).
+
+## 3-9 dep
+Equipment sales **receive different tax treatment** (gain or loss, depreciation recapture), so they're recorded separately from regular sales.
+
+## 3-10 labor
+Only a real FLSA exemption, such as an **exempt outside salesperson on straight commission**, removes the overtime obligation. If overtime is worked, it must be paid, whatever the employer has announced.
+
+## 3-11 cash
+The main advantage of leasing is **lower up-front cash outlay**. Owning usually costs less over the long run, and only owned equipment generates depreciation.
+
+## 3-12 lic
+A change of business address (part of the business organization's qualification information) must be reported to DBPR within **45 days** (61G4-15.007).
+
+## 3-13 osha
+Per the manual (FCM 7-89), chains used as slings should get a thorough inspection by a competent inspector once a **month**, in addition to the daily pre-use check.
+
+## 3-14 labor
+Florida's Right to Work law prohibits union shop, agency shop and maintenance-of-membership agreements. **Federal enclaves** (federal property) aren't covered by state law, so agreements there aren't prohibited.
+
+## 3-15 acct
+Per the Builder's Guide, **recording material purchased and stored at the jobsite** is an accrual entry.
+
+## 3-16 dep
+Hourly equipment cost uses estimated life, cost less salvage and average hours of use. **Replacement cost** isn't included.
+
+## 3-17 lic
+§489.116(4): failing to renew an active certificate at biennial renewal makes it **delinquent**.
+
+## 3-18 acct
+Under the accrual method, **revenue is recognized when earned, even if no cash has been received** (and expenses when incurred).
+
+## 3-19 dep
+Straight line, declining balance and sum-of-the-years' digits are real methods. **"Accumulated cost depreciation" doesn't exist**. (Accumulated *depreciation* is an account, not a method.)
+
+## 3-20 ins
+**Completed operations** liability coverage handles claims for damage caused by work that's already finished.
+
+## 3-21 lien
+§713.23: a lien law payment bond **protects the owner's property from construction liens**. Lienors claim against the bond instead of the property.
+
+## 3-22 labor
+Combined compensatory and punitive damage caps under Title VII and the ADA: 15–100 employees **$50,000**; 101–200 $100,000; 201–500 $200,000; more than 500 $300,000. An employer of 95 falls in the first tier.
+
+## 3-23 wc
+**Making employees pay part of the workers' comp premium is illegal** in Florida. Co-insurance, pools and deductible programs are legitimate ways to lower premiums.
+
+## 3-24 labor
+Under the Florida Civil Rights Act (Ch. 760), back pay is limited to **24 months (2 years)** before the complaint was filed, unless the violation was willful.
+
+## 3-25 osha calc
+The answer depends on your manual's edition. **2025 FCM:** high severity, greater probability = $16,131 base; 51–100 employees = 20% reduction; no 10% history reduction (prior citation within 3 years). $16,131 × 0.80 = **$12,905**. 2021: $13,494 × 0.80 = $10,795. 2017: $12,471 × 0.70 = $8,730.
+TIP: Base penalty × (1 − size reduction). The history reduction only applies with no citations in the last 3 years.
+
+## 3-26 lien
+§713.08(5): a claim of lien must be recorded within **90 days after the final furnishing** of labor, services or materials.
+TIP: NTO 45 days from first furnishing. Lien 90 days from last.
+
+## 3-27 tax
+Form 941 includes **federal income tax withheld**, plus Social Security and Medicare.
+
+## 3-28 org
+A fictitious name is valid for **5 years**.
+
+## 3-29 ins
+A **performance bond** guarantees the owner that the project will be completed according to the contract. A payment bond guarantees subs and suppliers get paid. A bid bond guarantees the low bidder will sign.
+
+## 3-30 tax
+The IRS requires employment tax records to be kept at least **4 years**.
+
+## 3-31 wc
+Unemployment law treats intentional wrongdoing and deliberate disregard of duties or standards as misconduct. **Isolated negligence or poor judgment is not misconduct**.
+
+## 3-32 wc
+**A construction company with any employees** must carry workers' comp (1 or more employees). Corporate officers with valid exemptions don't count as employees.
+
+## 3-33 lien
+A non-privity lienor (a sub or supplier with no direct contract with the owner) must serve the Notice to Owner within **45 days** of first furnishing.
+
+## 3-34 acct
+The **balance sheet** summarizes the existing condition of a business on a specific date.
+
+## 3-35 osha
+On a multi-contractor job, posters must be where employees can see them, and **each contractor posts its own**. A and B are both true.
+
+## 3-36 job
+**Front-end loading** puts extra value in early pay items so early billings exceed costs incurred, which improves the contractor's early cash flow.
+
+## 3-37 est
+When the specifications and plans conflict, **submit a Request for Information (RFI)**. Don't guess, and don't substitute.
+
+## 3-38 osha
+An OSHA citation is posted at or near the violation for **3 working days or until the violation is corrected, whichever is later**.
+
+## 3-39 dbpr
+§455.02: during active duty and for **2 years** after discharge, a service member practicing a licensed profession in Florida completes the renewal requirements but has the renewal fee waived.
+
+## 3-40 lien
+A construction claim of lien must be **recorded with the clerk of the court** in the county where the property is located.
+
+## 3-41 ratio
+**Combined ratios** compare balance sheet accounts with income statement accounts.
+
+## 3-42 wc
+To recover under workers' comp, the injury must **arise out of and in the course of employment**. It's no-fault, so the employer's negligence doesn't matter.
+
+## 3-43 cash
+**LIFO** charges the latest costs, close to current market value, to material as it is used.
+
+## 3-44 cash
+**"Total monthly averages"** isn't used in the goods sold to average inventory ratio. COGS includes labor, materials and other direct costs.
+
+## 3-45 labor
+The Drug-Free Workplace Act of 1988 requires covered federal contractors and grantees to keep a drug-free workplace policy, but it **does not require drug testing**.
+
+## 3-46 ins
+An extended coverage endorsement on a builder's risk policy can add **materials in transit** (and storage away from the site).
+
+## 3-47 ins
+A bid bond can be written as a **forfeiture obligation**: if the low bidder won't sign, the full penal amount is forfeited. The other form, "difference in bid," pays only the gap to the next bidder.
+
+## 3-48 law
+Florida statute of limitations: **4 years** for an unwritten (oral) contract and 5 years for a written contract.
+TIP: Oral = 4, written = 5.
+
+## 3-49 tax
+FUTA doesn't apply to family employment such as **wages paid to the employer's spouse** (by a sole proprietor). Severance pay and wages to foreign workers in the U.S. are generally subject to it.
+
+## 3-50 wc
+An employer can meet the workers' comp requirement by buying a policy or by **qualifying as an individual self-insurer** (approved by the state). Liability, health or life insurance doesn't count.
+
+## 3-51 aia
+A201 §15.1.5 and §10.4: work done because of an **emergency endangering the owner's property** doesn't require written notice before claiming additional cost.
+
+## 3-52 dbpr
+§455.207(4): board members serving on a probable cause panel are paid **$50 a day** for each day of meetings or board business.
+
+## 3-53 law
+Under the Statute of Frauds, contracts that **can be performed within one year** may be oral. Contracts that can't be performed within a year, and sales of goods of $500 or more, must be written.
+
+## 3-54 acct
+Current liabilities include the portion of long-term equipment debt due **within 365 days**.
+
+## 3-55 est
+**Project planning** comes before scheduling. You decide *what* and *how* first, then *when*.
+
+## 3-56 labor
+42 U.S.C. §12101 et seq. is the **Americans with Disabilities Act** (ADA).
+
+## 3-57 lic
+Chapter 489 has three parts: **construction contracting (Part I), electrical and alarm system contracting (Part II), and septic tank contracting (Part III)**.
+
+## 3-58 est
+Long-lead items should be **identified and ordered early** so they don't hold up the schedule.
+
+## 3-59 acct
+Sales − cost of goods sold = **gross profit**.
+
+## 3-60 acct
+Assets − liabilities = **net worth**.
+
+## 3-61 lic
+§489.132(3): DBPR may fine up to **$5,000**, plus investigative and legal costs, when an uncertified or unregistered person is associated with a contracting firm.
+
+## 3-62 osha
+Report a work-related **fatality** to OSHA within **8 hours**. Report an inpatient hospitalization, amputation or loss of an eye within 24 hours.
+TIP: Death = 8 hours. Hospitalization, amputation or eye = 24 hours.
+
+## 3-63 job
+**Payroll taxes on office salaries** are a fixed expense. Field office trailer rental, workers' comp and bad debts vary with work volume.
+
+## 3-64 lien
+§713.12: when one spouse contracts for work on property owned by the other or by both, the contracting spouse is the other's agent unless the other spouse **records an objection within 10 days** of learning of the contract.
+
+## 3-65 osha
+OSHA injury and illness records are kept **5 years** after the end of the year the incident occurred.
+
+## 3-66 job
+Costs are controlled best **during each phase of the work**, while there's still time to fix overruns.
+
+## 3-67 acct
+The **journal** is the book of original entry: every transaction is recorded there first, then posted to the ledger.
+TIP: Journal first, then ledger.
+
+## 3-68 ratio
+The **current ratio** shows how well a company can meet its current obligations.
+
+## 3-69 labor
+**$150 a week** isn't the salary test for the executive exemption (the current federal standard is $684 a week). Managing a subdivision, directing 2 or more employees and using discretion are all real requirements.
+
+## 3-70 est
+Production factors are climate, operator experience and speed limits. The **original purchase price** is a cost factor, not a production factor.
+
+## 3-71 est
+In a schedule, master activities are grouped so that no single activity is more than **10%** of the project.
+
+## 3-72 dbpr
+§455.217(6): requests for a translated exam (in a language other than Spanish) must be on file at least **6 months** before the exam. The question's "days (months)" means months.
+
+## 3-73 labor
+The Florida Civil Rights Act protects age, religion and handicap (alcoholism can count as a handicap). **Current illegal drug abuse is not protected**.
+
+## 3-74 acct
+Accruals record **income earned but not yet received**: revenue when earned, expenses when incurred.
+
+## 3-75 est
+FDEP asbestos rule: notify at least **10 working days** before demolishing commercial, industrial or public buildings, or residential buildings with more than 4 units.
+
+## 3-76 wc
+Florida reemployment tax rates are **experience ratings**. Employers with fewer claims charged pay lower rates.
+
+## 3-77 tax
+Florida sales tax applies to **materials** (tangible goods), so the **concrete supplier's invoice** is taxable. Labor-only services and temporary help aren't. Labor is taxed only when an item is fabricated in a shop and sold.
+
+## 3-78 wc
+An unemployed worker qualifies only if they were **paid wages in 2 or more quarters of the base period**.
+
+## 3-79 labor
+The Civil Rights Act of 1866 (42 U.S.C. §1981) applies to **all employers and all employees**, with no minimum employee count.
+
+## 3-80 lic
+§489.109(1)(a): the initial application fee for a certificate may not exceed **$150**.
+
+## 3-81 job
+Short, small jobs (**$1,000–$5,000, about a week**) don't need the percentage of completion method.
+
+## 3-82 dbpr
+§455.2178(1): CE providers must submit course completions to DBPR electronically within **30 days**.
+
+## 3-83 job
+The budget process is prepare, analyze results and act to control expenses. **Consulting your accountant** isn't a step.
+
+## 3-84 labor
+Per the manual's text on veterans' reemployment law (FCM 5-45), the answer is **1 year**. Note that current federal USERRA law protects a rehired employee who served 31 to 180 days for **180 days**, and one who served more than 180 days for 1 year. The exam is built on the manual, so answer from the book and double-check the wording on FCM 5-45.
+
+## 3-85 job
+Per the Builder's Guide, **advertising** is treated as a fixed overhead expense. Small tools, operating supplies and equipment rental vary with work volume.
+
+## 3-86 dep
+Good **scheduling** is the best way to control equipment costs.
+
+## 3-87 dep
+**Unpredictable job site conditions** can't be built into an hourly equipment rate.
+
+## 3-88 aia
+A201 §7.2.1: a change order's adjustment to the contract sum is set by **agreement among the Owner, Contractor and Architect**.
+
+## 3-89 ratio
+Before applying for a loan, **reduce current liabilities** to improve your current ratio and how strong your balance sheet looks.
+
+## 3-90 lic
+61G4-12.011(3): the license number must appear in advertising, but **free Yellow Pages listings** (free directory listings) are exempt.
+
+## 3-91 lic
+Contractors need **14 hours** of CE every 2-year cycle.
+
+## 3-92 acct
+Current liabilities = payable within **365 days**.
+
+## 3-93 acct
+**Inventory** is a current asset. Land, equipment and trucks are fixed (long-term) assets.
+
+## 3-94 wc
+Per the Reemployment Tax handbook, cafeteria plan payments are exempt from reemployment tax if they're **not reported to the IRS** as wages.
+
+## 3-95 cash
+A high inventory turnover ratio means **low inventory**.
+
+## 3-96 est calc
+Total truck-months needed = 60 + 15 + 15 = 90. Spread over 3 months, that's 30 a month, exactly the 30 trucks you have. **Revise the schedule to level the demand to 30 trucks**.
+
+## 3-97 labor
+Florida's **Whistle-blower's Act** protects employees who disclose violations of law that endanger public health, safety or welfare from retaliation.
+
+## 3-98 labor
+FS 760.50, Florida's AIDS/HIV discrimination law, applies to **all employers**, regardless of size.
+
+## 3-99 wc
+**Roof replacement** is construction work for workers' comp purposes. Homeowners building their own homes, manufacturing materials, and well drilling on land with existing structures are excluded.
+
+## 3-100 lien
+§713.06: payments to the contractor without getting lien releases from lienors who served a Notice to Owner are **improper payments**. The owner may have to pay twice.
+
+## 3-101 dep calc
+Book value = cost − accumulated depreciation = $16,900 − $4,200 = $12,700. Sold for $11,500, which is less than book value: **loss of $1,200**.
+TIP: Sale price minus book value: positive is a gain, negative is a loss.
+
+## 3-102 lic
+Letting an uncertified person use your certificate to evade the law can bring the maximum administrative fine of **$10,000**.
+
+## 3-103 org
+A corporation that meets IRS requirements and elects to be taxed like a partnership (pass-through) is an **S Corporation**.
+
+## 3-104 lic
+61G4-12.011: every certified contractor's advertising must show the **certificate (or registration) number**.
+
+## 3-105 lien
+§713.18: a Notice to Owner or preliminary notice to contractor is effective on the mailing date if mailed within **40 days** of first furnishing. It must still be served within 45 days.
+
+## 3-106 labor calc
+The day rate gives $210 for 51 hours = $4.12/hr, which is below the $7.25 minimum wage. So pay at minimum wage: 40 hrs × $7.25 = $290, plus overtime of 11 hrs × $7.25 × 1.5 = $119.63. Total **$409.63**.
+TIP: Check the regular rate against minimum wage before figuring overtime.
+
+## 3-107 acct
+**Billings mailed but not yet paid** (accounts receivable) are an accrual. The revenue is earned, but the cash hasn't come in.
+
+## 3-108 ratio
+Ratios that judge cash position are **liquidity tests** (current ratio, quick ratio).
+
+## 3-109 ratio calc
+Profit margin = net income ÷ sales, so sales = net income ÷ margin = $1,200,000 ÷ 0.37 = **$3,243,243**.
+
+## 3-110 cash
+The effective annual interest charged on the principal borrowed is the **rate**.
+
+## 3-111 law
+Florida's Statute of Frauds requires writing for real estate sales, contracts that can't be done within a year, and arbitration agreements. **A lease of real property for less than 1 year** can be oral.
+
+## 3-112 job
+The breakeven point **shows the minimum sales you need to break even** (no profit, no loss).
+
+## 3-113 org
+A joint venture's activity is generally **limited to a single transaction or project**.
+
+## 3-114 ins
+A bid bond guarantees the bidder will **enter into the contract at the bid price** (and provide the required bonds).
+
+## 3-115 cash
+A **discount** for prompt payment is the incentive to pay early or on time.
+
+## 3-116 law
+Bids, purchase orders and proposals are all offers. **Negotiations** are discussions, not offers.
+
+## 3-117 est
+Pricing the extra work by area ($1.25 per added square foot) is the **square footage method**.
+
+## 3-118 est
+CSI MasterFormat (2004 and later) has **50 divisions** (00–49). The old format had 16.
+
+## 3-119 est
+Per the Builder's Guide (p. 225), the recommended check is to **compare the estimate with one from a similar project**.
+
+## 3-120 osha
+Knowingly making false statements in OSHA records or reports: up to **$10,000 and 6 months in jail**.
+
+## 3-121 law
+Lump-sum, cost-plus and GMP contracts differ mainly in **how the contractor is paid** (compensation).
+
+## 3-122 law
+Cost-plus contracts include **cost plus a fixed fee and cost plus a percentage of reimbursable costs**.
+
+## 3-123 dbpr
+§455.225(10): the complaint and investigation records stay confidential until **10 days** after probable cause is found.
+
+## 3-124 cash
+Per the manual, a **term loan** accrues interest until maturity and is repaid in one payment of principal and interest on the maturity date.
+
+## 3-125 aia
+A201 §3.7.4: claims for concealed conditions must be made within **14 days** of first observing the condition.

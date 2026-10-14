@@ -1,0 +1,381 @@
+## 2-1 dep calc
+Straight line: (cost − salvage) ÷ useful life = ($23,000 − $2,000) ÷ 10 = $21,000 ÷ 10 = **$2,100** a year.
+
+## 2-2 org
+Joint ventures are usually formed for a **single project or transaction** and are generally governed by a **written joint venture agreement**. Both statements are true.
+
+## 2-3 lic
+Per the manual's list of financial and business records under §489.124, **employee timecards** are not among the records a contractor must keep for 3 years. Timecards fall under the 2-year "soft record" rule.
+
+## 2-4 dbpr
+§455.224: a licensee has **30 days** after receiving a citation to dispute it. If they don't, it becomes a final order.
+
+## 2-5 aia
+A201 §3.2.4: if the Contractor asked for clarification and then followed the Architect's response, **the Contractor is not liable** for damage caused by errors or omissions in the contract documents.
+
+## 2-6 tax
+Form **940** is the employer's annual return that reports **FUTA** (federal unemployment) taxable wages and tax to the IRS.
+TIP: 940 = FUTA, filed annually. 941 = withholding and FICA, filed quarterly.
+
+## 2-7 labor
+16- and 17-year-olds may work up to **30 hours a week** while school is in session.
+
+## 2-8 acct
+A balance sheet has three parts: **assets, liabilities and net worth** (equity). Profit and income belong on the income statement.
+
+## 2-9 cash
+A bad debt reserve (allowance for doubtful accounts) **reduces current assets** (it offsets receivables) and is **a general ledger entry for a budgeted reserve**. Both are true.
+
+## 2-10 aia
+A201 §3.7.4: when concealed or unknown conditions are found, the Contractor notifies **both the Owner and the Architect** before disturbing them, and no later than **14 days** after first observing them.
+TIP: Concealed conditions = 14 days. Claims = 21 days.
+
+## 2-11 cash
+**Lapping** is stealing cash from one customer's payment and covering it with later payments from other customers. The shortfall is eventually written off as bad debt.
+
+## 2-12 dbpr
+§455.2235(4): a licensee may go through mediation **no more than 3 times** without Board approval.
+
+## 2-13 ins
+A surety bond is not insurance for the contractor. By signing the indemnity agreement, the contractor promises to **reimburse the surety** for anything the surety pays out because the contractor failed to perform.
+
+## 2-14 tax
+A **payroll register** is like a check register with payroll detail added (gross pay, deductions, net pay for each check).
+
+## 2-15 lic
+61G4-15.003: all trades **except general, building and residential contractors** need **$100,000 liability and $25,000 property damage**. GC, building and residential need $300,000 and $50,000. (Electrical and alarm contractors are licensed under a different board.)
+
+## 2-16 acct
+Goodwill is an **intangible asset**: it has value but no physical form, like patents and trademarks.
+
+## 2-17 job
+**Labor** on the job is a direct cost charged to that job. Union welfare, equipment rental and small tools are treated as variable overhead in this context.
+
+## 2-18 org
+A lender wants to know **how much you need, how long you need it, and how you'll repay it**. That's all of the above.
+
+## 2-19 aia
+A201 §1.5: the Architect and its consultants are the authors and owners of the drawings and specifications and keep the copyrights. **The Owner does NOT own them just because it paid for them**, so that's the statement that's not true.
+
+## 2-20 lic
+§489.115(4)(b): contractors must complete **14 hours** of continuing education per biennial cycle. The exam counts "hours" as 50-minute contact hours.
+
+## 2-21 acct
+Sales on account are accrued because **no cash has changed hands** yet. The revenue is earned and recorded as a receivable.
+
+## 2-22 cash
+Per the Builder's Guide, the most efficient monthly tool for tracking accounts payable is **check registers for both the current month and the previous month's billings**.
+
+## 2-23 aia
+A701 §6.2: once a bidder asks for proof of financing, the Owner has **7 days** to provide it. The bidder must ask at least 14 days before the bid withdrawal period ends.
+
+## 2-24 org
+For budgets, cash-flow forecasts and employee benefit packages, the manual recommends a **Certified Public Accountant (CPA)**.
+
+## 2-25 aia
+A201 §15.3.2: once mediation is filed, related proceedings may be stayed for **60 days, unless a court orders a longer period** (or the parties agree to one).
+
+## 2-26 est
+Schedules should be updated continuously and progress posted at least weekly. **"Informally reviewed every 30 days" is not correct**.
+
+## 2-27 ratio
+Per the Builder's Guide, the **current ratio** is the single best indicator of a business's overall financial health.
+
+## 2-28 cash
+Credit references, credit applications and getting customers to commit to a payment date all prevent bad debt. **Refusing all new clients until every debt is collected** isn't a prevention method. It would just stop the business.
+
+## 2-29 job
+**Small tools** are a variable overhead expense because they're consumed with work volume. Office salaries, office payroll taxes and letterhead printing are fixed overhead.
+
+## 2-30 cash
+An aging list shows the percentage of receivables that are current and the percentage that are past due, and it's used to manage collections. **All of the above**.
+
+## 2-31 job
+Freight charged by the supplier to ship material to a job is a **direct cost** of that job, just like the material.
+
+## 2-32 lic
+CE may be taken **in a classroom or through interactive distance learning**. The other choices are wrong: contractors need 14 hours (not 16), and a CE "hour" is 50 minutes (not 60).
+
+## 2-33 wc
+An employer owes Florida reemployment (unemployment) tax after paying **$1,500 or more in wages in a calendar quarter** or employing at least one person in each of **20 weeks** in a calendar year.
+TIP: $1,500 in a quarter or 20 weeks.
+
+## 2-34 ratio
+The current ratio measures liquidity, and the higher it is, the safer. Of these choices, **4 to 1** is the most desirable. (2 to 1 is the usual minimum target.)
+
+## 2-35 tax
+Form 940 is **federal** unemployment tax only. State reemployment tax is reported quarterly on the Florida RT-6, so "reports state unemployment tax annually" is the false statement.
+
+## 2-36 aia
+A401 §11.1.3: the Contractor pays the Subcontractor within **7 days** of receiving payment from the Owner.
+
+## 2-37 osha
+An OSHA **301** report must be completed for **every** injury or illness recorded on the 300 log, within 7 calendar days.
+
+## 2-38 est
+Network analysis includes the **Critical Path Method (CPM), Critical Path Analysis and PERT**. All of the above.
+
+## 2-39 lien
+**Privity** is a direct contractual relationship between parties. Lienors not in privity with the owner (subs, suppliers) must serve a Notice to Owner.
+
+## 2-40 dep
+The two allowable depreciation methods in the reference text are **straight line and declining balance**.
+
+## 2-41 aia calc
+A201 §15.1.3: claims must be started within **21 days** of the event or of when the claimant first recognizes the condition, **whichever is later**. Discovered May 5, so May 5 + 21 = **May 26**.
+TIP: 21 days from the later of the event or discovery.
+
+## 2-42 job
+The **completed contract** method recognizes income most exactly because profit is booked only when the job is done and the actual numbers are known. Percentage of completion relies on estimates.
+
+## 2-43 lic
+CE may be completed **in a classroom or through interactive distance learning**. The cycle is biennial (every 2 years), the requirement is 14 hours, and an hour means 50 minutes.
+
+## 2-44 cash
+The **open invoice method** keeps unpaid invoices on file by due date so you can pay in time to take early-payment discounts.
+
+## 2-45 lic
+§489.124: contractors keep complete financial, sales and business records for the **immediately preceding 3 years**.
+
+## 2-46 lic
+§489.119(3)(a): when a business loses its qualifier, DBPR may issue a temporary nonrenewable certificate so it can **finish incomplete contracts only**. It can't take new work until a new qualifier is approved, and the business has 60 days to replace the qualifier.
+
+## 2-47 dbpr
+§455.273: DBPR sends the renewal notice at least **90 days** before the licensure cycle ends.
+
+## 2-48 wc
+Per the reemployment tax material in the manual, **wages paid to employees working at a convention** are not taxable wages for unemployment purposes. Discounts, personal use of a company car and bonuses are taxable.
+
+## 2-49 osha
+An injury comes from a single instantaneous event (a cut, a fall). An **illness does not come from an instantaneous event**. It develops from exposure, like hearing loss or a respiratory condition.
+
+## 2-50 cash
+The two inventory control methods are **FIFO (first in, first out) and LIFO (last in, first out)**.
+
+## 2-51 tax
+Florida sales tax collected is reported and paid on the **DR-15 Sales and Use Tax Return**. DR-405 is the tangible personal property tax return.
+
+## 2-52 cash
+Compound interest is **calculated each period (e.g. monthly) and added to the principal**, so later interest is charged on earlier interest too.
+
+## 2-53 wc
+The Multiple Worksite Report is required for multiple Florida locations and is filed quarterly, but it's **mailed separately** from the Employer's Quarterly Report (RT-6). "Mailed with" is the false statement.
+
+## 2-54 osha
+Sling angles below 45° greatly increase the stress on the sling legs. Keep the angle **above 45° whenever possible**.
+
+## 2-55 aia
+Shop drawings show how the contractor will build or fabricate part of the work (drawings, diagrams, elevations, schedules). They **never include pricing**.
+
+## 2-56 aia
+A201 §7.3.4: change costs may include rental of machinery and equipment and field office personnel, **but not hand tools**.
+
+## 2-57 aia
+A701 §2.1: the bidder represents that it visited the site, knows local conditions, read the documents, and based the bid on the **specified** materials. Substituting materials it thinks would be cheaper isn't one of the representations.
+
+## 2-58 job
+Overhead is analyzed with two ratios: **variable overhead to sales and fixed overhead to sales**.
+
+## 2-59 acct
+The **cash method** records transactions only **when money changes hands**. The accrual method records revenue when earned and expenses when incurred.
+
+## 2-60 lic
+§489.109: delinquency fees for late renewal can't exceed **the renewal fee** for renewals made after the certificate expires.
+
+## 2-61 dbpr
+§455.32, the Management Privatization Act, **creates a model for DBPR to contract with nonprofit organizations** to handle administrative, investigative and exam services.
+
+## 2-62 ins
+A **Special Form** (all-risk) property policy covers theft. Basic and broad forms only cover named perils.
+
+## 2-63 org
+Making sure actual results don't drift from what was planned is the **controlling** function of management. Planning, organizing and directing are the other functions.
+
+## 2-64 wc
+Per the manual's reemployment tax section, an employer delinquent **for more than one year** is billed at **5.40%**, the maximum rate.
+
+## 2-65 osha
+OSHA posters must be displayed **at each location** where employees report, so multiple locations need multiple posters.
+
+## 2-66 acct
+The income statement shows **revenues, expenses and net income for a period of time**. The balance sheet is a point-in-time snapshot.
+
+## 2-67 dep
+Hourly equipment cost uses repair and maintenance cost, estimated life, and productive and non-productive hours. **OSHA productivity standards** have nothing to do with it.
+
+## 2-68 cash
+When an account can't be collected, **reverse the income** you previously recorded by writing it off as bad debt.
+
+## 2-69 org
+If ownership of a fictitious-name business changes, **cancel the old registration and register the name again within 30 days**.
+
+## 2-70 dbpr
+A limited license under §455.214 requires at least **10 years** of licensure.
+
+## 2-71 lic
+Per the answer key (61G4-15.007), **"address change within 15 days" is the statement that is NOT true**. The rule's notification deadlines quoted in the manual are 30 days and 45 days.
+
+## 2-72 dep
+Per the Builder's Guide, the 200% declining balance class with an average 4-year remaining life covers **machinery, equipment and small tools**.
+
+## 2-73 lic
+Per the manual's reading of §489.119, a business performing work in three license categories needs **a qualifying agent for each category, so three**.
+
+## 2-74 acct
+Subsidiary ledgers (accounts receivable, accounts payable, job cost) hold the detail so the **general ledger stays uncluttered** but the information is still available.
+
+## 2-75 acct
+A $200 taxable sale at 7%: debit cash or accounts receivable $214. Then **two credits: Sales $200 and Sales Tax Payable $14**. The tax is a liability you owe the state, not revenue.
+
+## 2-76 dbpr
+§455.214: limited licenses go to **retired professionals in good standing who will serve indigent and underserved** populations.
+
+## 2-77 lic
+61G4-17.001: a **third** offense of falsely stating insurance coverage carries a minimum penalty of a **$5,000 fine and/or probation or suspension**.
+
+## 2-78 dbpr
+§455.2235(2): when a complaint is resolved through DBPR-designated mediation, the parties must tell the mediator within **14 days** after the mediator contacts them.
+
+## 2-79 cash
+Good inventory control planning **eliminates unneeded working capital spending**, so cash isn't tied up in stock.
+
+## 2-80 org
+An S corporation can have **only one class of stock**, so "multiple classes of stock" is false. It must also be domestic and have limited, eligible shareholders.
+
+## 2-81 dbpr
+§455.217(4): DBPR keeps each applicant's exam scores for at least **2 years** after the exam.
+
+## 2-82 acct
+The accrual method **records revenue when earned and expenses when incurred**, whether or not cash has moved. Both A and B.
+
+## 2-83 aia
+A201 §4.2.7: the Architect's review of shop drawings and samples **doesn't relieve the Contractor** of responsibility for their accuracy.
+
+## 2-84 acct
+The asset types are **fixed, intangible and current**. "Variable" describes expenses, not assets.
+
+## 2-85 dep
+**Capitalizing the expense** means putting equipment on the books as a fixed asset instead of expensing it, and then depreciating it.
+
+## 2-86 job
+**Commissions** go up and down with sales volume. Advertising, phone and utilities are relatively fixed.
+
+## 2-87 org
+A corporate advantage: **fringe benefits are tax-deductible** to the corporation. Heavy regulation and double taxation are disadvantages, and stockholders do have limited liability.
+
+## 2-88 dbpr
+§455.224(4): a citation must be issued within **6 months** after the complaint is filed.
+
+## 2-89 cash
+A high inventory turnover ratio means inventory is moving fast and may be **too low**, so you could run short and lose sales.
+TIP: High ratio = low inventory.
+
+## 2-90 job
+**Cost accounting** assigns costs and expenses to each project so you can compare actual costs with the budget.
+
+## 2-91 aia
+A201 §7.2.1: the **Architect prepares and signs the change order, then the Owner and Contractor sign** it.
+
+## 2-92 tax
+Payroll preparation includes figuring each employee's gross pay, each employee's deductions, and the employer's own payroll expenses. **All of the above**.
+
+## 2-93 dep
+Keep a fully depreciated asset on the books **until it's sold, abandoned or traded**.
+
+## 2-94 dbpr
+§455.2281: the $5 unlicensed activity fee pays for **educating the public about unlicensed activity** and for enforcement against it.
+
+## 2-95 dep
+Per the Builder's Guide, **intangible property can't be depreciated** (it is amortized instead). Changing depreciation methods requires IRS approval.
+
+## 2-96 aia
+A201 §9.3.1: submit the Application for Payment **10 days** before the payment date, **to the Architect**.
+
+## 2-97 tax
+Timecards prove hours worked, so they're useful evidence in **unemployment claims and disputes**.
+
+## 2-98 org
+A fictitious name registration is valid **5 years and expires December 31 of the fifth year**.
+
+## 2-99 cash
+Good inventory control reduces storage, carrying costs (taxes, insurance) and theft exposure. **Reducing the need to backorder is not** one of its results.
+
+## 2-100 ratio
+Current ratio = **current assets ÷ current liabilities**.
+
+## 2-101 cash
+The **check register** lists every check written, who it was paid to and the amount.
+
+## 2-102 lic
+61G4-15.003: general, building and residential contractors need **$300,000 public liability and $50,000 property damage** coverage.
+
+## 2-103 osha
+When employees don't work at a fixed establishment, keep OSHA records **at the field office or mobile base of operations**.
+
+## 2-104 osha
+**First-aid-only** injuries aren't recordable (bandages, tweezer removal of objects from the eye, non-prescription medicine at non-prescription strength). Prescription medication makes a case recordable.
+
+## 2-105 aia
+A201 §2.3: the Owner pays for easements, zoning approvals, permanent structures and permanent changes to facilities. **Permits and fees the contract assigns to the Contractor** are the Contractor's cost.
+
+## 2-106 aia
+A701 §7.2: bonds go **to the Owner within 3 days** after the contract is executed.
+
+## 2-107 cash
+**"2% 10, net 30"** is the classic incentive discount for paying open invoices early.
+
+## 2-108 wc
+§440.185(8): an employer or carrier that fails to file required workers' comp reports or notices can be fined **up to $500 for each failure**.
+
+## 2-109 job
+**Corporate office personnel payroll** is a fixed overhead expense. Equipment, direct labor and materials are job costs.
+
+## 2-110 osha
+A safety program includes a safety policy statement, safety rules and employee orientation. **Workers' comp guidelines** aren't part of it.
+
+## 2-111 lien
+The **Owner**, not the contractor, records the Notice of Commencement and posts a copy at the job site. "When a loan exists, the contractor posts it" is the false statement.
+
+## 2-112 dep
+**Land** isn't depreciable, so it must be kept separate from depreciable assets such as buildings.
+
+## 2-113 dbpr
+§455.218: a foreign-trained professional may sit for the exam if they **immigrated for political reasons from a Western Hemisphere country that lacks diplomatic relations with the U.S.**
+
+## 2-114 cash
+Incentive discounts on receivables are offered **to get customers to pay open invoices quickly**.
+
+## 2-115 aia
+A401 §3.5: if the Sub defaults and doesn't start correcting within **5 days** of the Contractor's notice, the **Contractor** may correct the work and charge the Sub. The architect plays no role in the subcontract.
+TIP: A401 contractor vs. sub = 5 days. A201 owner vs. contractor = 10 days.
+
+## 2-116 osha calc
+The answer depends on your manual's edition. **2025 FCM:** willful or repeated $161,323 + posting $16,131 = **$177,454**. 2021: $134,937 + $13,494 = $148,431. 2017: $124,471 + $12,471 = $136,942. Use the penalty table in the edition you'll bring to the exam.
+
+## 2-117 est
+Man-hour ranges depend on weather, the time allowed for the project, and crew skill. **All of the above**.
+
+## 2-118 aia
+A201 §2.3.6: the Owner furnishes **one copy** of the contract documents free of charge, for the Contractor to reproduce.
+
+## 2-119 aia
+A201 §9.4.1: the *Architect*, not the contractor, issues the Certificate for Payment, within 7 days of receiving the application. So **none of the above**.
+
+## 2-120 osha
+OSHA 300, 300A and 301 records are kept **at each establishment for 5 years** after the end of the year they cover.
+
+## 2-121 aia
+A201 §3.7.1: unless the contract says otherwise, the Contractor pays for **building permits, fees, licenses and government inspections**.
+
+## 2-122 est
+Equipment productivity depends on operator experience, climate and weather, and permissible speeds. **"Overruns of equipment"** isn't a productivity factor.
+
+## 2-123 lien
+§713.06(2)(a): a Notice to Owner is served before work starts, or **within 45 days of starting** work, not within 45 days of *completing* it. "After completing" is the false statement.
+TIP: NTO = 45 days from first furnishing.
+
+## 2-124 aia
+A201 §3.11: the Contractor keeps at the site the drawings, specifications, addenda, **change orders**, approved shop drawings, **product data and samples**.
+
+## 2-125 ratio
+Real turnover (cost of sales ÷ inventory) mixes an income statement figure with a balance sheet figure, so it's a **combined** ratio.

@@ -1,0 +1,403 @@
+# Format: "## <exam>-<num> <topic>" then explanation paragraph(s). Optional "TIP:" line = memory hook.
+# Topics: org lic dbpr lien aia law acct ratio dep cash job tax labor wc ins osha est
+
+## 1-1 tax
+"Hard records" (payroll, employment contracts, sales and purchase records) are kept **3 years**. "Soft records" such as timecards and time sheets only need **2 years**.
+TIP: Hard = 3, Soft = 2. Hard records are harder to replace, so they're kept longer.
+
+## 1-2 tax
+Soft records (timecards, time sheets) are kept **2 years**. Hard records (payroll, contracts, sales and purchase records) are kept 3.
+TIP: Hard = 3, Soft = 2.
+
+## 1-3 lic
+§489.124(1) requires licensed contractors to keep complete financial and business records for the immediately preceding **3 years**. Expect this one in several forms.
+TIP: Chapter 489 records = 3 years. IRS employment tax = 4. OSHA logs = 5.
+
+## 1-4 osha
+OSHA 300 logs, the 300A summary and the 301 forms are kept **5 years** after the end of the calendar year they cover, at each establishment.
+TIP: OSHA = 5 years. Picture the 5 in "300".
+
+## 1-5 tax
+The IRS requires employment tax records to be kept at least **4 years** after the tax is due or paid, whichever is later.
+TIP: Records ladder: soft 2 → hard 3 → Ch. 489 3 → IRS 4 → OSHA 5.
+
+## 1-6 dbpr
+Under §455.203(10), DBPR may close and terminate a deficient license application file **2 years** after it notifies the applicant of the deficiency.
+
+## 1-7 labor
+Keep an I-9 for **3 years after the date of hire or 1 year after employment ends, whichever is later**. Both clocks apply, so the answer is "either A or B, whichever is the latest date."
+
+## 1-8 aia
+A201 §13.4.1: the **Owner** pays for the tests, inspections and approvals the contract documents require. §13.4.3: if a test shows the work fails, the **Contractor** pays the extra costs.
+TIP: The owner pays to look. The contractor pays when it fails.
+
+## 1-9 labor
+Florida child labor law: 16- and 17-year-olds may work up to **30 hours a week** while school is in session (and no more than 8 hours on a day before a school day).
+TIP: 16 and 17 both get 30 hours per school week.
+
+## 1-10 job calc
+Total cost = cost to date + cost to complete = $34,000 + $91,000 = $125,000. Add the 12% profit: $125,000 × 1.12 = **$140,000**.
+TIP: Total cost first, then multiply by (1 + profit %).
+
+## 1-11 labor
+The Fair Labor Standards Act (minimum wage, overtime, child labor) is enforced by the U.S. **Department of Labor** through its Wage and Hour Division. DBPR and the CILB regulate licensing, not wages.
+
+## 1-12 cash
+Per the Builder's Guide, a bad debt reserve lets you write off expected uncollectible accounts against earnings, which **reduces tax liability on earned profit**. It does not increase assets or profit, and it adds an accounting step.
+
+## 1-13 labor
+**Outside salespeople** are exempt from FLSA overtime. Being salaried alone does not make someone exempt; they must also pass the duties tests. Piece workers and employees on a fluctuating workweek still earn overtime.
+TIP: Salaried ≠ exempt. Outside sales = exempt.
+
+## 1-14 law
+The manual lists Mexico, Canada and European countries as covered by trade agreements under the Buy American Act. **Brazil** is the one that is not included.
+
+## 1-15 labor
+The FLSA executive exemption requires **all** of these: the primary duty is managing the enterprise or a recognized department, the employee customarily directs 2 or more employees, and they can hire or fire (or their recommendations carry weight). There is also a salary test.
+
+## 1-16 labor
+Under the Florida Clean Indoor Air Act, smoking in a no-smoking area carries a fine of up to $100 for a first violation and up to **$500 for each repeat violation**.
+
+## 1-17 dbpr
+§455.214 limited licenses go to **retired professionals** (licensed at least 10 years) who will serve indigent, underserved or critical-need populations. They are not for trainees, out-of-state professionals, or people who keep failing the exam.
+
+## 1-18 osha
+On a multi-contractor project, **each contractor** (each employer) must post the required OSHA posters for its own employees. One GC can't post for everyone.
+
+## 1-19 dbpr
+§455.243 lets DBPR agents inspect, at reasonable hours, any establishment whose **services include authority to prescribe controlled substances**. It's an odd fit for a contractor exam, but that's what the statute says.
+
+## 1-20 dbpr
+§455.229(3): if an applicant doesn't notify DBPR at least **5 days** before an examination hearing that they can't attend, the department may charge them attorney's fees and costs.
+
+## 1-21 dbpr
+§455.2255: a minor violation is reclassified as inactive once **2 years** have passed since the final order imposing discipline.
+
+## 1-22 ratio
+Real turnover ratio = **cost of sales ÷ inventory at cost**. It shows how many times inventory turns over. Because it uses an income statement figure (cost of sales) and a balance sheet figure (inventory), it is a "combined" ratio.
+
+## 1-23 dbpr
+A limited license (§455.214) requires a person to have been licensed for at least **10 years** in any U.S. jurisdiction.
+TIP: Limited license = retired + 10 years + serving the indigent.
+
+## 1-24 dbpr
+§455.225(4): the probable cause panel must request more investigative information within **15 days** of receiving the department's investigative report.
+
+## 1-25 dbpr
+§455.2175: stealing or reproducing an examination is a **felony of the third degree**.
+
+## 1-26 est
+In the manual's production-efficiency table (Fig. 12), weather, workload and site area all change productivity. **Deadlines** are the foreseen condition that does not.
+
+## 1-27 dep calc
+Straight line: ($210,000 − $30,000 salvage) ÷ 12 years = $15,000 a year. After 6 years: $15,000 × 6 = **$90,000** total depreciation.
+TIP: Always subtract salvage first.
+
+## 1-28 aia
+A701 §7.2.1: the bidder delivers the required bonds to the **Owner** no later than **3 days** after the contract is executed.
+TIP: Bonds go to the Owner in 3 days.
+
+## 1-29 cash
+"2% 10, net 30" means the customer can take a **2% discount by paying within 10 days**. Otherwise the full amount is due in 30 days. It's an incentive, not a penalty.
+
+## 1-30 labor
+Florida's Right to Work law (Art. I §6 of the Florida Constitution) **keeps employees from being forced to join, or pay, a union** as a condition of employment.
+
+## 1-31 wc
+If a subcontractor's workers' comp exemption is invalid and that creates liability for the contractor, the contractor may recover the **benefits paid plus interest** from the subcontractor.
+
+## 1-32 est
+Post schedule progress at least **weekly**. Short-term schedules look 2 weeks ahead.
+
+## 1-33 lic
+Under the CILB disciplinary guidelines (61G4-17), a first offense of completing a job without pulling a required permit can carry a fine of up to **$5,000**.
+
+## 1-34 osha
+Employers with **more than 10 employees (11 or more)** must keep OSHA 300 logs. Employers with 10 or fewer are partially exempt.
+TIP: 10 or fewer = exempt. 11 or more = keep the log.
+
+## 1-35 aia
+A701 §3.2.2: written requests for clarification must reach the Architect at least **7 days** before bids are due.
+TIP: Questions in 7 days before bids. Owner-financing request 14 days. Clerical error notice 2 days.
+
+## 1-36 acct
+The accounting equation is Assets = Liabilities + Owner's Equity. Rearranged: **Assets − Liabilities = Equity** (net worth).
+
+## 1-37 est
+The **square footage method** is a quick conceptual estimate. It's too rough for a lump-sum contract, which needs a detailed quantity takeoff.
+
+## 1-38 ins
+The surety's three Cs of underwriting are **Capital, Character and Capacity**: financial strength, reputation and integrity, and the ability to perform the work.
+
+## 1-39 tax
+Florida sales and use tax is reported on **Form DR-15** (DR-15CS in older materials) and is generally paid **monthly**. Form 941 is the federal quarterly payroll return.
+
+## 1-40 org
+For expansion financing, lenders typically want at least **2 years** in business and prefer **5**.
+
+## 1-41 wc
+Employers operating at more than one Florida location file the Multiple Worksite Report (BLS-3020) **quarterly**, separately from the RT-6.
+
+## 1-42 org
+A **joint venture** is two or more people or entities teaming up for profit on one specific project, without forming a partnership or corporation.
+
+## 1-43 org
+A Florida fictitious name registration is valid **5 years** and expires December 31 of the fifth year.
+
+## 1-44 labor
+Florida's Right to Work law prohibits union shop, agency shop and maintenance-of-membership agreements. **All of them** are prohibited.
+
+## 1-45 lien
+§713.16: a lienor must send a sworn statement of account within **30 days after the demand** is made. Failing to do so can cost the lienor its lien rights.
+
+## 1-46 aia
+A201 §2.5: if the Contractor defaults and doesn't begin correcting it within **10 days** of the Owner's written notice, the Owner may correct the work itself.
+TIP: Owner vs. contractor = 10 days (A201). Contractor vs. sub = 5 days (A401).
+
+## 1-47 cash
+An **imprest system** keeps petty cash at a fixed amount. It is replenished for exactly the amount of the receipts turned in, so cash plus receipts always equals the fund total.
+
+## 1-48 osha
+The OSHA 300 log records work-related injuries and illnesses that are serious enough to report. **Loss of consciousness** is one of the recording criteria. First-aid-only cases are not recorded.
+
+## 1-49 dep calc
+Straight-line depreciation is the same every year: $157,000 ÷ 7 ≈ $22,429. The closest choice is **$22,500**. (The official key shows $157,500 ÷ 7, a typo, but the answer is the same.)
+TIP: Under straight line, year 7 equals year 1.
+
+## 1-50 est
+A **back charge** recovers the cost of work the contractor had to do on behalf of a subcontractor or vendor. A change order changes the owner's contract. An addendum changes the bid documents.
+
+## 1-51 job
+Under the completed contract method (per the manual), a contract counts as complete when it is **98% to 99%** done.
+
+## 1-52 aia
+A201 §7.2.1: the Architect prepares a Change Order, and it is signed by the **Owner, Contractor and Architect**. A Construction Change Directive needs only the Owner and Architect.
+TIP: CO = 3 signatures. CCD = 2 (no contractor).
+
+## 1-53 job calc
+Percent complete = cost to date ÷ total estimated cost = $210,000 ÷ ($210,000 + $105,000) = $210,000 ÷ $315,000 = **66.67%**.
+
+## 1-54 job calc
+Earned revenue = % complete × contract price = 0.6667 × $390,000 ≈ **$260,013**.
+
+## 1-55 job calc
+Earned $260,013 but paid (billed) $220,000, so you've **earned more than you've been paid**. That's an underbilling, recorded as an asset ("costs and earnings in excess of billings").
+
+## 1-56 labor
+The **federal** minimum wage is **$7.25** an hour and has been since 2009. Florida's state minimum wage is higher and goes up every September 30, but if a question says "federal," answer $7.25.
+
+## 1-57 est
+The manual says a superintendent **actively helps create the project schedule and prepares back charges**. Keeping the change order log is a project manager or office task.
+
+## 1-58 aia
+A201 §11.1.4: within 3 business days of learning of an impending or actual cancellation or expiration of required insurance, the Contractor notifies the **Owner**.
+
+## 1-59 est
+FDEP must be notified at least **10 working days** before any demolition, even when no asbestos is present.
+
+## 1-60 cash
+Per the Builder's Guide, the check register shows **what expense categories you have and where your money goes**.
+
+## 1-61 est
+For production estimates, equipment usually averages **40% to 65%** of the posted speed limit.
+
+## 1-62 aia
+A701 §4.4.3: a bidder who finds a clerical error in its bid after bids open must notify the Architect within **2 days**.
+
+## 1-63 lic
+61G4-15.003: specialty trades such as plumbing carry **$100,000 public liability and $25,000 property damage**. General, building and residential contractors carry $300,000 and $50,000.
+TIP: GC/building/residential = 300/50. Other trades = 100/25.
+
+## 1-64 law
+Under the Statute of Frauds (UCC), a sale of goods for **$500 or more** must be in writing. The $475 lawnmower is under the limit, so an oral contract is valid. The $515 bricks and leases over 1 year need a written contract.
+
+## 1-65 ratio
+Current ratio = current assets ÷ current liabilities. It measures **the company's ability to pay current obligations with current assets** (liquidity).
+
+## 1-66 est
+The two types of manpower (labor) estimates are **preliminary** and **detailed**.
+
+## 1-67 wc
+An employer who files the RT-6 reemployment tax report late is penalized **$25 for each month, or part of a month**, that it is late.
+
+## 1-68 cash
+Purchase orders require approval before buying, so they help control **unauthorized purchases**.
+
+## 1-69 aia
+A701 §3.2.3: interpretations, corrections and changes to the bidding documents are made only by **Addendum**. A Change Order changes the contract after it is signed.
+TIP: Before the contract = Addendum. After = Change Order.
+
+## 1-70 dbpr
+§455.2178: continuing education providers keep records of each licensee's course completion for at least **4 years**.
+
+## 1-71 aia
+A401 §4.8: if the Contractor doesn't pay the Sub within 7 days of the due date, through no fault of the Sub, the Sub may stop work after **7 more days' written notice**.
+TIP: 7 + 7.
+
+## 1-72 osha
+The OSHA 301 (Injury and Illness Incident Report) **gives more detail on each case recorded on the 300 log**. The 300A is the annual summary.
+
+## 1-73 aia
+A401 §4.2.4: the **Subcontractor** gives periodic progress reports to the **Contractor**. The sub's contract is with the contractor, not the owner.
+
+## 1-74 wc
+Per the manual's workers' comp definitions, landscaping, fencing and pool repair at existing buildings are excluded from "construction." **Well drilling on land with no existing structures** still counts as a construction job.
+
+## 1-75 job
+A variable expense changes with sales volume. **Collections** costs vary. Rent and depreciation are fixed.
+
+## 1-76 ins
+A701 §7.1.1: the bidder furnishes Performance and Payment Bonds covering **faithful performance of the contract and payment of all obligations under it**.
+
+## 1-77 ins
+**Builder's risk** insurance covers the structure under construction and can be extended to materials in transit or in temporary storage.
+
+## 1-78 tax
+Sales tax is paid by the **purchaser** (the end consumer) unless exempt. The seller only collects it and sends it to the state.
+
+## 1-79 cash calc
+Simple interest = principal × rate × time = $150,000 × 0.09 × (6 ÷ 12) = **$6,750**.
+
+## 1-80 job
+The **breakeven point** is the sales volume where revenue exactly covers costs. Below it you lose money.
+
+## 1-81 wc
+§440.10(1)(d): a contractor who has to pay comp to an uninsured subcontractor's employees may recover **all benefits paid or payable, plus interest**, from that subcontractor.
+
+## 1-82 labor
+Equal Pay Act: back pay normally covers 2 years, or **3 years** if the violation was willful.
+
+## 1-83 aia
+A201 §5.2.2: the Contractor may not use a proposed subcontractor or supplier that the **Owner or Architect** has reasonably and timely objected to.
+
+## 1-84 dep
+**Land** is never depreciated because it doesn't wear out. Buildings, tractors and equipment are.
+
+## 1-85 aia
+A701 §6.2: a bidder under consideration may ask in writing, **14 days** before the bid withdrawal period ends, for proof of the owner's financing. The owner then has 7 days to provide it.
+TIP: Bidder asks at 14 days. Owner answers in 7.
+
+## 1-86 aia
+A401: before the Contractor supplies services or materials because the Sub failed to perform, and back-charges for them, the Contractor must give **7 days' written notice**.
+
+## 1-87 lic
+§489.1195: the **primary** qualifying agent is responsible for financial matters. A secondary qualifier is responsible only for supervising field work (permits, safety, quality) and **never for financial matters**.
+
+## 1-88 aia
+A201 §7.3.4: CCD and change order costs may include labor, materials, supplies and rental of machinery and equipment, **but not hand tools**.
+TIP: Hand tools are never in a change.
+
+## 1-89 aia
+A201 §9.3.1: the Contractor submits its Application for Payment to the **Architect** at least **10 days** before the payment date.
+TIP: Pay app: 10 days, to the Architect.
+
+## 1-90 cash
+**Taking discounts** (such as 2/10 net 30) lowers costs and improves cash flow. High inventory and converting cash sales to receivables tie up cash.
+
+## 1-91 aia
+A401 §7.4.2: the Subcontractor may not assign the subcontract without the **Contractor's written consent**.
+
+## 1-92 org
+SBA loans are for **applicants who can't get reasonable credit from local banks** or other conventional lenders.
+
+## 1-93 lien
+§713.13(1)(c): a Notice of Commencement expires **1 year after recording unless the notice itself states a different expiration date**.
+
+## 1-94 aia
+A701 §2.1: by bidding, the bidder represents that it read the bidding documents, visited the site, and based the bid on the specified materials. It **never represents that liquidated damages will be waived**.
+
+## 1-95 aia
+A401 §11.1.3 (with A201 §9.6.2): the Contractor pays each Subcontractor within **7 working days** of receiving payment from the Owner.
+
+## 1-96 dep
+Selling equipment can produce a capital gain or loss and depreciation recapture. Because it **receives different tax treatment**, it's recorded separately from regular sales.
+
+## 1-97 lic
+61G4-15.007(2): changes to any information required on the business organization's qualification application must be reported within **45 calendar days**.
+
+## 1-98 acct
+Per the Builder's Guide, recording **material purchased and stored at the jobsite** (not yet installed) is an accrual entry.
+
+## 1-99 dep
+Hourly equipment cost uses cost less salvage, estimated life, and average hours of use. **Replacement cost** is not part of the calculation.
+
+## 1-100 lic
+§489.116(4): if a certificate holder doesn't apply to renew an active certificate at the biennial renewal, the certificate becomes **delinquent**.
+
+## 1-101 tax
+Form 941 (quarterly) reports **federal income tax withheld**, plus Social Security and Medicare taxes. FUTA goes on Form 940. Workers' comp isn't a federal tax.
+TIP: 941 = withholding + FICA. 940 = FUTA.
+
+## 1-102 acct
+The **balance sheet** is a snapshot of a business's existing condition (assets, liabilities, net worth) on one date. The income statement covers a period of time.
+
+## 1-103 aia
+A201 §5.2.3: when the Owner or Architect rejects a reasonably capable proposed sub, the contract sum and time are adjusted for the difference. The GC gets the **$5,000 plus any proven time extension**.
+
+## 1-104 cash
+Lapping is fraud: **cash** is stolen and hidden by applying later customers' payments to earlier customers' balances.
+
+## 1-105 lien
+§713.08(5): a claim of lien must be **recorded with the clerk of the circuit court**. It doesn't need owner permission or a court order, and sub-tier lienors don't need a direct contract with the owner.
+
+## 1-106 ratio
+**Combined ratios** compare a balance sheet account to an income statement account, for example real turnover (cost of sales ÷ inventory) or return on net worth.
+
+## 1-107 wc
+In the **construction industry**, Florida workers' comp applies to employers with **1 or more** employees. Non-construction employers need 4 or more.
+TIP: Construction = 1. Non-construction = 4.
+
+## 1-108 cash
+**LIFO (last in, first out)** charges the most recent costs to jobs first, so material used is valued close to current market price.
+
+## 1-109 cash
+The goods sold to average inventory ratio uses cost of goods sold (labor, materials, other direct costs) and average inventory. **"Total monthly averages"** isn't part of it.
+
+## 1-110 aia
+A201 §15.1.5 and §10.4: in an **emergency endangering persons or property**, the Contractor acts first, so written notice isn't required before claiming the extra cost.
+
+## 1-111 cash
+An invoice covers one sale: description, price and terms. **The customer's account balance** goes on a statement, not an invoice.
+
+## 1-112 acct
+Current liabilities are obligations due **within one year (365 days)**, including the current portion of long-term equipment debt.
+
+## 1-113 acct
+Gross sales − direct costs (cost of goods sold) = **gross profit**. Subtract overhead from gross profit to get net profit.
+
+## 1-114 acct
+Assets − liabilities = **net worth** (owner's equity).
+
+## 1-115 lic
+§489.1425: residential contracts **over $2,500** must include the written Florida Homeowners' Construction Recovery Fund notice.
+
+## 1-116 lien
+§713.132(1): a Notice of Termination includes the NOC's recording information, a statement that all lienors have been paid in full, and that it applies to all property in the NOC. **Two copies of a "notice direct contract"** is not a requirement.
+
+## 1-117 est
+Short-term schedules give a detailed look at the **next 2 weeks** of work.
+
+## 1-118 tax
+Payments of $600 or more to a non-employee in a year are reported on **Form 1099-NEC** (or 1099-MISC). W-4 is an employee withholding form. Federal law raised this threshold for payments made in 2026 and later, but the exam references use **$600**.
+
+## 1-119 acct
+Accruals record **income earned but not yet received** (and expenses incurred but not yet paid) in the period they belong to.
+
+## 1-120 lic
+§489.126: a contractor who takes a deposit of more than 10% on a residential job must apply for permits within **30 days** and start work within 90 days after the permit is issued.
+TIP: More than 10% deposit → permit in 30 days → start in 90.
+
+## 1-121 job
+Percentage of completion is meant for long, large jobs. A **$1,000–$5,000 job that takes about a week** is simpler to account for with the completed contract method.
+
+## 1-122 cash
+A **daily cash summary** is one of the most practical cash controls: each day's receipts and disbursements get reconciled right away.
+
+## 1-123 job
+The budget process: prepare the budget, analyze results, and take action to control expenses. **Consulting your accountant** isn't one of the steps.
+
+## 1-124 dep
+Per the Builder's Guide, good **scheduling** is the best way to control equipment costs, because it keeps equipment working instead of sitting idle.
+
+## 1-125 dep
+Hourly equipment cost uses cost less salvage, operating costs (fuel, oil), and repair and maintenance. **Unpredictable job site conditions** can't be built into a rate.

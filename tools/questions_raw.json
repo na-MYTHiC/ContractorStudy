@@ -1,0 +1,5907 @@
+[
+ {
+  "exam": 1,
+  "num": 1,
+  "stem": "\"Hard Records\", such as payroll, employment contracts, sales & purchase records must be retained for __________ years.",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual           2025 & 2021: 5-30     Recordkeeping - Payroll",
+   "                                               2017: 5-30            Payroll - Records"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 2,
+  "stem": "\"Soft Records\", such as timecards and time sheets must be retained for __________ years.",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual           2025 & 2021: 5-30     Recordkeeping - Payroll",
+   "                                               2017: 5-30            Payroll - Records"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 3,
+  "stem": "FS §489 requires complete financial and business records to be retained for __________ years.",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual           2025: 2-102           Licensing - Record Keeping",
+   "                                               §489.124(1)",
+   "                                               2021: 2-78            Licensing - Record Keeping",
+   "                                               §489.124(1)",
+   "                                               2017: 2-20, 2-90      Recordkeeping – Licensing, Const",
+   "                                               §489.124(1)"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 4,
+  "stem": "OSHA logs 300/300A must be retained for __________ calendar years.",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual           2025 & 2021: 7-16     OSHA – Recordkeeping",
+   "                                               2017: 7-16            OSHA – Retention of Records"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 5,
+  "stem": "Per the IRS, records of employment taxes must be retained for __________ years.",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual           2025: 3-142           Recordkeeping - IRS, Taxes",
+   "                                               2021: 3-160           Recordkeeping - IRS, Taxes",
+   "                                               2017: 3-154           Record Retention - IRS"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 6,
+  "stem": "The Department, for the boards under its jurisdiction, shall have the authority to close and terminate deficient license application files __________ year (s) after the board or the department notifies the applicant of the deficiency.",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Statute 455                  §455.203(10)(a)       TOC: Department; Power & Duties"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 7,
+  "stem": "I-9 Forms must be retained __________.",
+  "options": [
+   "3 years from date of hire",
+   "1 year from date employment ends",
+   "3 years from date employment ends",
+   "Either A or B, whichever is the latest date"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual           2025 & 2021: 5-58     Recordkeeping- Immigration Reform",
+   "                                               2017: 5-58            Forms – IRS – I-9"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 8,
+  "stem": "Tests, inspections, and approvals of work shall be paid for by the __________; if tests are failed, additional costs shall be borne by __________.",
+  "options": [
+   "Owner, Owner",
+   "Owner, Contractor",
+   "Owner, Architect",
+   "Contractor, Contractor"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A201, 2017              13.4.1, 13.4.3        Optional TAB: Tests and Inspections"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 9,
+  "stem": "The maximum hours of work allowed per week for a 16-year-old while school is in session is __________. hours.",
+  "options": [
+   "12",
+   "18",
+   "20",
+   "30"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual           5-32                  Child Labor (See) - Laws – Child",
+   "                                                                     labor"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 10,
+  "stem": "A job has a cost to date of $34,000. The cost to complete is estimated to be $91,000. If the contractor wanted to make a 12% profit, the contract price would be __________.",
+  "options": [
+   "$125,000",
+   "$127,400",
+   "$140,000",
+   "$157,340"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builder's Guide to Accounting       87",
+   "          $34,000 + $91,000 = $125,000 (cost to date + cost to complete = total cost)",
+   "          $125,000 x 1.12 (12%) = $140,000 total contract"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 11,
+  "stem": "The __________ regulates the FLSA.",
+  "options": [
+   "Department of Labor",
+   "Department of Business and Professional Regulation",
+   "Construction Industry Licensing Board",
+   "Florida Department of State"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual           5-15                  Acts – FLSA"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 12,
+  "stem": "An advantage of a bad debt reserve is that _________________________________.",
+  "options": [
+   "It reduces tax liability for earned profit",
+   "It increases assets",
+   "It increases profits",
+   "It simplifies accounting procedures"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder's Guide to Accounting        64                    Bad Debt Accounting - estimating"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 13,
+  "stem": "Employees __________ would probably not be subject to the overtime regulations.",
+  "options": [
+   "With fluctuating workweeks",
+   "Who are employed in the capacity of outside salesman",
+   "Who are piece workers",
+   "Who are salaried"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual           5-17                  Overtime Pay"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 14,
+  "stem": "The Buy American Act does not include __________.",
+  "options": [
+   "Mexico",
+   "Canada",
+   "Brazil",
+   "Europe"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual           10-88                 TAB: Buy American Act"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 15,
+  "stem": "Per FLSA, an executive employee __________.",
+  "options": [
+   "Whose primary duty is management of the enterprise in which the employee is employed or of a customarily recognized department or subdivision",
+   "Customarily directs the work of 2 or more employees",
+   "Has the authority to hire or fire other employees",
+   "All of the above"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual           2025 & 2021: 5-19     TOC: FLSA – Test for Executive",
+   "                                                                     Exemption",
+   "                                               2017: 5-19            Employee - Executive"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 16,
+  "stem": "An individual who smokes in a non-smoking area is subject to a fine of __________ for a repeat offense.",
+  "options": [
+   "$100",
+   "$250",
+   "$500",
+   "$1,000"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual           5-49                  TAB: Clean Indoor Air Act"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 17,
+  "stem": "A __________ would be most likely to receive a Limited License.",
+  "options": [
+   "Retired professional",
+   "Professional from another state",
+   "Trainee immediately following a natural disaster",
+   "Person who has failed the state test 5 times"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Statute 455                  §455.214(2)           TOC: Limited Licenses"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 18,
+  "stem": "__________ is responsible to post OSHA posters on a multi-contractor project.",
+  "options": [
+   "The Owner",
+   "The General Contractor",
+   "Each Contractor",
+   "The Project Superintendent"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual            2025 & 2021: 7-6        OSHA – Employer Responsibilities",
+   "                                                2017: 7-6               OSHA – Responsibilities"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 19,
+  "stem": "When __________, duly authorized agents and employees of DBPR may inspect premises of any establishment at all reasonable hours.",
+  "options": [
+   "There is a suspected OSHA violation",
+   "There are minors working on the premises",
+   "The services offered at the premises include authorization to prescribe controlled substances",
+   "Alcohol is served"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Statute 455                   §455.243                TOC: Authority to Inspect"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 20,
+  "stem": "Unless an applicant notifies the department at least __________ days prior to an examination hearing of the applicant's inability to attend, the department may require an applicant to pay reasonable attorney's fees, costs, and court costs of the department for the examination hearing.",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "7"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Statute 455                   §455.229(3)             TOC: … examination hearing"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 21,
+  "stem": "If the circumstance of the violation meets the standard of a minor violation and __________ year (s) have passed since the issuance of a final order imposing discipline; the department shall reclassify that violation as inactive.",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "5"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Statute 455                   §455.2255(1)            TOC: Classification of Disciplinary",
+   "                                                                        Actions"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 22,
+  "stem": "The real turnover ratio is __________.",
+  "options": [
+   "Cost of sales over inventory at cost",
+   "Cost of sales minus retail sales",
+   "Retail sales over breakeven point",
+   "Overhead plus all costs"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder's Guide to Accounting         271                     Real Turnover Ratio"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 23,
+  "stem": "In order to obtain a limited license, a person should have been licensed for at least __________ years in any jurisdiction in the United States.",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "10"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Statute 455                   §455.214(2)             TOC: Limited Licenses"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 24,
+  "stem": "A request for additional investigative information shall be made within __________ days from the date of receipt by the probable cause panel of the investigative report of the department.",
+  "options": [
+   "5",
+   "10",
+   "15",
+   "30"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Statute 455                   §455.225(4)             TOC: Disciplinary Proceedings"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 25,
+  "stem": "The theft or reproduction of an examination constitutes a __________.",
+  "options": [
+   "Misdemeanor",
+   "Felony of the first degree",
+   "Felony of the second degree",
+   "Felony of the third degree"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Statute 455                   §455.2175               TOC: Penalty for theft or",
+   "                                                                        reproduction"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 26,
+  "stem": "__________ is a foreseen condition that would not have an effect on production efficiency.",
+  "options": [
+   "Weather",
+   "Workload",
+   "Deadlines",
+   "Site Area"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual            10-31, 10-32            Production Efficiency",
+   "                                                Figure 12"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 27,
+  "stem": "Florida Diggers bought a tractor for $210,000. Its useful life is 12 years, and it has a salvage value of $30,000. If the tractor is sold at the end of year 6, the total depreciation would be __________.",
+  "options": [
+   "$90,000",
+   "$45,000",
+   "$60,000",
+   "$112,000"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder's Guide to Accounting         163-164               Depreciation - Methods",
+   "          Purchase value minus salvage value: $210,000 - $30,000 = $180,000",
+   "          Note: when calculating depreciation with salvage value, always subtract salvage value from",
+   "          purchase price before starting calculations.",
+   "          This value is used to determine annual depreciation (12) years: $180,000 ÷ 12 = $15,000 per year",
+   "          Total depreciation after 6 years: $15,000 x 6 = $90,000"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 28,
+  "stem": "The Bidder shall deliver the required bonds to the Owner not later than __________ following the date of execution of the Contract.",
+  "options": [
+   "24 hours",
+   "3 days",
+   "3 working days",
+   "7 days"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A701, 2018               7.2.1                   TOC: Performance bond and",
+   "                                                                        payment bond"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 29,
+  "stem": "\"2% - 10 days, net 30\" is __________.",
+  "options": [
+   "An extra charge for shipping",
+   "A incentive discount of 2% if the customer pays the invoice within 10 days of the billing date",
+   "An incentive discount of 2% if the customer pays the invoice within 30 days of the billing date",
+   "An incentive discount or a penalty of 2%, depending on the date the invoice is paid"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder’s Guide to Accounting         59                      Optional TAB: Discounts"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 30,
+  "stem": "Florida's Right to Work Laws __________.",
+  "options": [
+   "Prevent discrimination based on race, creed, or color",
+   "Allow non-resident aliens with proper documentation the right to work",
+   "Prevent employees from being forced to join a union",
+   "All of the above"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual            5-14                    Laws – Florida Right to Work"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 31,
+  "stem": "Under the Florida Worker's Compensation Act, a contractor may recover __________ from a subcontractor who has elected exemption from Chapter 440 if the subcontractor's exemption is invalid and has caused liability to the contractor or an employee.",
+  "options": [
+   "Benefits paid and interest due",
+   "A minimum of $1,500 and interest",
+   "Penalties up to 100% of their contract",
+   "A maximum of $2,500 per occurrence"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual            2025 & 2021: 6-5        Workers Compensation –",
+   "                                                                        Exemptions",
+   "                                                2017: 6-5               Acts - Workers Compensation"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 32,
+  "stem": "Construction project schedules should have progress posted at least __________.",
+  "options": [
+   "Daily",
+   "Weekly",
+   "Biweekly",
+   "Monthly"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual            10-63                   Scheduling - Guidelines"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 33,
+  "stem": "A fine of up to ___________ can be imposed on a contractor for finishing a job without pulling a permit if it is their first offense",
+  "options": [
+   "$1,000",
+   "$3,000",
+   "$5,000",
+   "$10,000"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual            2025: 2-206 (o)       Penalties – Licensing, Construction",
+   "                                                2021: 2-31, 2-158 (o) Penalties – Licensing, Construction",
+   "                                                2017: 2-24, 2-184 (o) Penalties - Licensing"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 34,
+  "stem": "An OSHA 300 safety log must be maintained by employers with at least __________ employees.",
+  "options": [
+   "5",
+   "7",
+   "10",
+   "11"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual            2025 & 2021: 7-6        OSHA – Employer Responsibilities",
+   "                                                2017: 7-6               OSHA – Responsibilities"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 35,
+  "stem": "Bidders and Sub-bidders requiring clarification of the Bidding Documents shall make a written request which shall reach the Architect at least __________ day(s) prior to the date for receipt of bids.",
+  "options": [
+   "10",
+   "3",
+   "5",
+   "7"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A701, 2018               3.2.2                   TOC: Bidding Document"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 36,
+  "stem": "__________ is a correct accounting formula.",
+  "options": [
+   "Assets - Liabilities = Equity",
+   "Assets + Liabilities = Owner's Equity",
+   "Assets = Owner's Equity - Depreciation",
+   "Owner's Equity = Liabilities - Depreciation"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual            3-12                    CM: Accounting – Equation",
+   "                                                247                     BGA: Financial Statements",
+   "          Assets = Liabilities + Equity - therefore, Assets – Liabilities = Equity"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 37,
+  "stem": "The __________ method is an estimating method that is NOT recommended for lump sum contracts.",
+  "options": [
+   "Approximate estimated",
+   "Detailed survey",
+   "Square footage",
+   "Unit price"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual         10-12                 Types of: Estimates"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 38,
+  "stem": "The three Cs of underwriting that the surety industry considers before a contractor can acquire a bond are __________.",
+  "options": [
+   "Character, cash, and contracts",
+   "Completion percentage, completed contracts and cash",
+   "Cash, completion, and contracts",
+   "Capital, character, and capacity"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual         4-15                  Bonds – Three C’s of underwriting"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 39,
+  "stem": "The Florida sales tax is reported on form __________.",
+  "options": [
+   "DR-15-CS and paid on a monthly basis",
+   "DR-15-CS and paid on a quarterly basis",
+   "941 and paid on a monthly basis",
+   "941 and paid on a quarterly basis"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual         2025 & 2021: 1-27     Forms – DR-15",
+   "                                             2017: 1-23            Taxes – State Sales"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 40,
+  "stem": "Expanding a business usually requires a great deal of capital to purchase new equipment, buildings, or to obtain long term financing. To qualify for expansion financing, financial institutes typically require that you have been in business at least __________ years, while __________ years is preferred.",
+  "options": [
+   "2; 4",
+   "2; 5",
+   "3; 5",
+   "3; 6"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual         2025 & 2021: 3-72     Capital – Sources of",
+   "                                             2017: 3-72            Types of Capital"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 41,
+  "stem": "If an employer conducts business in more than one location in Florida, completion of the Multiple Worksite Report BLS-3020 will be required on a __________ basis.",
+  "options": [
+   "Weekly",
+   "Monthly",
+   "Quarterly",
+   "Annual"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual         2025: 5-267           Optional TAB: Multiple Worksite",
+   "                                             2021: 5-290           Forms – Multiple worksite",
+   "                                             2017: 5-292"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 42,
+  "stem": "A __________ is a special combination of two or more persons or entities jointly seeking a profit in some specific venture or for a specific job or undertaking without an actual partnership or corporate designation.",
+  "options": [
+   "Special limited partnership",
+   "S-type business",
+   "Joint venture",
+   "Sole proprietorship"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual         2025 & 2021: 1-10     Types of: Business",
+   "                                             2017: 1-12"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 43,
+  "stem": "Fictitious names are valid for __________ years.",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual         2025 & 2021: 1-14     Fictitious Name",
+   "                                             2017: 1-15"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 44,
+  "stem": "Which of the following agreements are prohibited by Florida's Right to Work Laws?",
+  "options": [
+   "Union Shop",
+   "Agency Shop",
+   "Maintenance of Membership",
+   "All the above are prohibited"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual         5-14, 5-15            Laws – Florida Right to Work"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 45,
+  "stem": "When making a claim of lien, you must send a sworn statement of account within ___________.",
+  "options": [
+   "90 days after demand of statement has been made",
+   "30 days after demand of statement has been made",
+   "45 days before demand of statement has been made",
+   "15 days before demand of statement has been made"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual         2025 & 2021: 9-36     TOC: Requests for Sworn Statement",
+   "                                             2017: 9-35            Liens- Sworn Statements"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 46,
+  "stem": "If the contractor defaults or neglects to carry out the Work and fails to do so within __________ of receipt of written notice from the Owner, the Owner may correct such deficiencies.",
+  "options": [
+   "10 days",
+   "7 business days",
+   "7 calendar days",
+   "3 days"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "AIA Document A201, 2017            2.5                   Owners right to carry out the work"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 47,
+  "stem": "The best way to accurately control petty cash is through a(n) __________.",
+  "options": [
+   "Imprest system",
+   "Separate bank account",
+   "A dedicated entry group within an accounting system",
+   "Lock box"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder’s Guide to Accounting      208                   Petty cash – imprest system"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 48,
+  "stem": "OSHA 300/300A, the Log on Summary of Occupational Injuries and Illnesses, is used to record __________.",
+  "options": [
+   "Accident investigations",
+   "All health claims",
+   "Incidents resulting in loss of consciousness",
+   "Non-work restricting injuries"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual         2025 & 2021: 7-6      OSHA – Employer Responsibilities",
+   "                                             2017: 7-6             OSHA – Responsibilities"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 49,
+  "stem": "ABC Construction buys a tractor for $157,000. They can depreciate the tractor over seven years. Using the straight-line method, the depreciation in the seventh year is __________.",
+  "options": [
+   "$10,575",
+   "$22,500",
+   "$16,275",
+   "$33,000"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting      163                   Depreciation – straight line",
+   "          $157,500 ÷ 7 = $22,429"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 50,
+  "stem": "When a contractor must perform extra work for a subcontractor or material vendor, the contractor may proceed to recover the cost in the form of a(n) __________.",
+  "options": [
+   "Addendum",
+   "Back charge",
+   "Change order",
+   "Lien"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual         10-67                 Optional TAB: Backcharge"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 51,
+  "stem": "According to the Contractor's Manual, under the completed contract method, a contract is recognized as complete when it is in excess of __________ complete.",
+  "options": [
+   "75% to 80%",
+   "90%",
+   "98% or 99%",
+   "none of the above"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual         3-80                  Completed contract"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 52,
+  "stem": "A Change Order is a written instrument prepared by the Architect and signed by the __________.",
+  "options": [
+   "Owner",
+   "Architect",
+   "Owner and the Architect",
+   "Owner, Contractor, and Architect"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A201, 2017            7.2.1                 Change orders - Definition of"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 53,
+  "stem": "What percentage of the job is complete?",
+  "options": [
+   "66.67%",
+   "60%",
+   "75.5%",
+   "less than 50%"
+  ],
+  "scenario": "Your company, Perfect Plus Construction, is partway through a job. The cost of work completed is $210,000. It is estimated that completing the job will cost an additional $105,000. The total contract price of the job is $390,000. You have billed, and been paid, $220,000. Using the percentage of completion method, answer the following 3 questions.",
+  "answer": "A",
+  "refRaw": [
+   "Builder's Guide to Accounting     23",
+   "          $210,000 + $105,000 = $315,000",
+   "          $210,000 ÷ $315,000 = .667 (66.67%)"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 54,
+  "stem": "Which of the following is the nearest to the amount of money that has been earned on this job?",
+  "options": [
+   "$129,870",
+   "$255,719",
+   "$260,013",
+   "$215,303"
+  ],
+  "scenario": "Your company, Perfect Plus Construction, is partway through a job. The cost of work completed is $210,000. It is estimated that completing the job will cost an additional $105,000. The total contract price of the job is $390,000. You have billed, and been paid, $220,000. Using the percentage of completion method, answer the following 3 questions.",
+  "answer": "C",
+  "refRaw": [
+   "Builder's Guide to Accounting       23",
+   "          Apply percentage complete to contract price - $.6667 x $390,000 = $260,013"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 55,
+  "stem": "Which of the following is true?",
+  "options": [
+   "You have unearned income",
+   "You have earned more than you've been paid",
+   "You have earned exactly what you were paid",
+   "You have earned less than you have been paid"
+  ],
+  "scenario": "Your company, Perfect Plus Construction, is partway through a job. The cost of work completed is $210,000. It is estimated that completing the job will cost an additional $105,000. The total contract price of the job is $390,000. You have billed, and been paid, $220,000. Using the percentage of completion method, answer the following 3 questions.",
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting      23",
+   "          Paid $220,000 Earned $260,013"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 56,
+  "stem": "The federal minimum wage is __________ per hour.",
+  "options": [
+   "$5.15",
+   "$7.25",
+   "$10.75",
+   "$12.35"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual         5-15                  Minimum wage"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 57,
+  "stem": "The job responsibilities of a Superintendent include __________.",
+  "options": [
+   "Actively participate in creation of a project schedule",
+   "Maintain change order log",
+   "Prepare back charges",
+   "Both A & C"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual         10-72                 Job responsibilities"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 58,
+  "stem": "Within 3 business days of the date the Contractor becomes aware of an impending or actual cancellation or expiration of any insurance, the Contractor shall provide notice to the __________.",
+  "options": [
+   "Subcontractor",
+   "Owner",
+   "Architect",
+   "Florida Department of Insurance Compliance"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A201, 2017            11.1.4                Insurance – Notice of Cancellation",
+   "                                                                   or Expiration"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 59,
+  "stem": "Contractors must send a notice of all demolition projects to Florida Department of Environmental Protection __________ working days before demolition, even if there is no asbestos containing material present.",
+  "options": [
+   "10",
+   "15",
+   "5",
+   "30"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual         2025 & 2021:10-97     Asbestos",
+   "                                             2017:10-97            Environmental compliance"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 60,
+  "stem": "The check register shows at a glance __________.",
+  "options": [
+   "What expense categories you have and where your money goes",
+   "Your income and expense items by category",
+   "Your available balance on a cash basis",
+   "The income, expenses, and equity of your company"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder's Guide to Accounting      101                  Check register"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 61,
+  "stem": "When estimating speeds of equipment for production purposes, they will usually average __________ percent of the speed limit.",
+  "options": [
+   "70 - 80",
+   "70 - 75",
+   "40 - 65",
+   "75 - 90"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual         10-27                Equipment – Productivity"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 62,
+  "stem": "After the date and time designated for receipt of bids, a Bidder who discovers that it made a clerical error in its Bid shall notify the Architect of such error within __________ day (s).",
+  "options": [
+   "One",
+   "Two",
+   "Three",
+   "Four"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A701, 2018            4.4.3                TOC: Bidding Procedures"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 63,
+  "stem": "A Plumbing Contractor would be required to carry Liability and Property insurance in the respective amounts of __________ and __________.",
+  "options": [
+   "300,000; 50,000",
+   "300,000; 100,000",
+   "100,000; 50,000",
+   "100,000; 25,000"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual         2025 & 2021: 2-16    Licensing – Public liability",
+   "                                             2017: 2-19           Public liability insurance"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 64,
+  "stem": "An(a) __________ is a valid oral contract.",
+  "options": [
+   "Two-year apartment rental agreement",
+   "Agreement to buy a lawnmower for $475.00",
+   "Agreement to buy 3 pallets of bricks for $515.00",
+   "Five-year building lease agreement"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual         8-6, 8-7             Contracts – Written or oral"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 65,
+  "stem": "The Current Ratio gives a good idea of a __________.",
+  "options": [
+   "Company's amount of fixed asset investments",
+   "Company's ability to meet current obligations with current assets",
+   "Company's collection processes",
+   "Debt to profit comparison"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting      269                  Current Ratio"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 66,
+  "stem": "___________ and ___________ are two types of manpower estimates.",
+  "options": [
+   "Comparative and historical",
+   "Graphic and detailed",
+   "Preliminary and detailed",
+   "Preliminary and historical"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual         2025 & 2021: 10-28 Estimates – Labor Estimates",
+   "                                             2017: 10-28        Estimates – Manpower"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 67,
+  "stem": "According to Florida Unemployment Compensation Laws, an employer who fails to file RT-6 reports when due will be assessed a penalty of ___________ for each month (or fraction thereof) that the report is delinquent.",
+  "options": [
+   "$25",
+   "$50",
+   "$75",
+   "$100"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual         2025: 5-269          Unemployment - Recordkeeping",
+   "                                             2021: 5-291           Forms – SUTA Quarterly Report (RT6)",
+   "                                             2017: 5-294"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 68,
+  "stem": "A purchase order form will help you control __________.",
+  "options": [
+   "Inventory sales",
+   "Your payment terms",
+   "Actual inventory in a LIFO system",
+   "Unauthorized purchases"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting      116                  Purchase order"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 69,
+  "stem": "Interpretations, corrections, and changes of the Bidding Documents shall be made by __________.",
+  "options": [
+   "Addendum",
+   "The Architect",
+   "Change Order",
+   "The Owner"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "AIA Document A701, 2018            3.2.3                TOC: Bidding documents"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 70,
+  "stem": "Each continuing education provider shall retain all records relating to a licensee's completion of continuing education courses for at least __________ years after completion of a course.",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Statute 455                §455.2178(2)         TOC: Continuing education provider"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 71,
+  "stem": "If the Contractor does not pay the Subcontractor through no fault of the Subcontractor, within seven days of the time payment should be made as provided on their Agreement, the Subcontractor may, upon __________ additional days written notice to the Contractor, stop the Work of the Subcontract.",
+  "options": [
+   "14",
+   "7",
+   "5",
+   "3"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A401, 2017            4.8                  Subcontractor"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 72,
+  "stem": "The purpose of Supplementary Record of Occupational Injuries and Illnesses (OHSA No. 301) is to ___________.",
+  "options": [
+   "Provide additional information about the employer listed in the log",
+   "Report the safety measures taken to prevent future accidents",
+   "Summarize the information that has been recorded in the log",
+   "Provide additional information on each case that has been recorded in the log"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual         2025 & 2021: 7-11    TOC: The Supplementary Record of",
+   "                                                                  Occupational Injuries and Illnesses",
+   "                                                                  (OSHA No. 301)",
+   "                                             2017: 7-11           OSHA – 301 Form"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 73,
+  "stem": "Periodic progress reports on the Work shall be provided by the __________ to the __________ as mutually agreed.",
+  "options": [
+   "Contractor, Owner",
+   "Contractor, Architect",
+   "Subcontractor, Owner",
+   "Subcontractor, Contractor"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A401, 2017            4.2.4                Subcontractor"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 74,
+  "stem": "For the purpose of required Workers Compensation coverage, __________ is NOT exempt from being considered a construction job.",
+  "options": [
+   "Landscaping for existing buildings",
+   "Fencing for existing building",
+   "Swimming pool repairs at an existing building",
+   "Well drilling on land not containing any other existing structures"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual         6-6                  Workers Compensation – Exemption"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 75,
+  "stem": "__________ is (are) considered to be a variable expense.",
+  "options": [
+   "Postage",
+   "Rent",
+   "Depreciation",
+   "Collections"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting      147                  Expenses - variables"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 76,
+  "stem": "The Bidder shall furnish Performance Bonds and Payment Bonds covering __________.",
+  "options": [
+   "The faithful performance of the contract and payments of all obligations arising thereunder",
+   "The full amount of the total cost of the job including change orders",
+   "The cost of the contract and attorney fees to enforce the contract if they do not perform",
+   "All jobs with costs over $250,000"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "AIA Document A701, 2018            7.1.1                TOC: Performance & Payment Bond"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 77,
+  "stem": "__________ insurance covers the structure being constructed and may be extended to cover materials while in transit or at temporary storage facilities.",
+  "options": [
+   "Umbrella",
+   "Inland marine",
+   "Fidelity",
+   "Builders risk"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual         4-7 (See Item #7)    Insurance"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 78,
+  "stem": "If not exempt from local sales tax, the __________ will pay the sales tax.",
+  "options": [
+   "Manufacturer",
+   "State",
+   "Purchaser",
+   "Licensee"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual         2025 & 2021: 3-64    Taxes – State Sales Tax",
+   "                                             2017: 3-65           Taxes – Local Sales"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 79,
+  "stem": "A loan for $150,000 is made at a 9% interest rate. If it is paid back after 6 months. __________ in interest will be paid.",
+  "options": [
+   "$15,000",
+   "$13,500",
+   "$6,750",
+   "$10,125"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual         3-74                  Loans – Types of",
+   "          $150,000 x .09 (9%) x 6 months/12 months in a year = $6,750"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 80,
+  "stem": "The volume of business that must be maintained in order to avoid a loss is the ___________.",
+  "options": [
+   "Percentage of sales",
+   "Net worth",
+   "Available cash",
+   "Breakeven point"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting      179                  Break-even point"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 81,
+  "stem": "If a contractor becomes liable for the payment of compensation to the employees of a subcontractor who has failed to secure such payment in violation of §440., the contractor shall be entitled to recover from the subcontractor __________.",
+  "options": [
+   "All benefits paid",
+   "All benefits paid or payable plus interest",
+   "150% of all benefits paid",
+   "Nothing"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual         2025: 6-85:          TOC: Liability for Compensation",
+   "                                             §440.10(1)(d)1",
+   "                                             2021: 6-78: §440.10(1)(d)1",
+   "                                             2017: 6-92: §440.10(1)(d)1"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 82,
+  "stem": "Under the Equal Pay Act, if the violation is willful, a court or jury may award up to __________ in back pay wages.",
+  "options": [
+   "Three years",
+   "Two years",
+   "Two years, not to exceed $5,000",
+   "Two years, plus interest"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual         5-39                 Acts - Equal Pay"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 83,
+  "stem": "The Contractor shall not contract with a proposed person or entity to whom __________ has made reasonable or timely objection.",
+  "options": [
+   "Only the Architect",
+   "Only the Owner",
+   "The Architect or Owner",
+   "The Architect or Engineer"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "AIA Document A201, 2017            5.2.2                Subcontractors"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 84,
+  "stem": "__________ may NOT be depreciated.",
+  "options": [
+   "A tractor",
+   "A building",
+   "Equipment",
+   "Land"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting   162                  Depreciation"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 85,
+  "stem": "A bidder to whom award of a Contract is under consideration may request in writing, __________ days prior to the expiration of the time for withdrawal of Bids, that the Owner furnish to the Bidder reasonable evidence that financial arrangements have been made to fulfill the Owner's obligations under the Contract.",
+  "options": [
+   "Three",
+   "Seven",
+   "Ten",
+   "Fourteen"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A701, 2018         6.2                  TOC: Post-Bid Information"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 86,
+  "stem": "Contractor's claims for the cost of services or materials provided due to the Subcontractor's failure to execute the Work shall require __________ days written notice prior to the Contractor's providing services or materials.",
+  "options": [
+   "2",
+   "3",
+   "5 working",
+   "7"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A401, 2017         3.4.2 (1)            TOC: Contractor"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 87,
+  "stem": "A secondary qualifier is never responsible for __________.",
+  "options": [
+   "Obtaining permits",
+   "Safety on the jobsite",
+   "Financial matters having to do with his/her jobsite",
+   "Quality of the work done on his/her jobsite"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual      2025: 2-24, 2-101:    Qualifying Agent",
+   "                                           §489.1195(2)(e)",
+   "                                           2021: 2-22, 2-78:",
+   "                                           §489.1195(2)(e)",
+   "                                           2017: 2-21, 2-89: §489.1195(2)(e)"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 88,
+  "stem": "__________ will NOT be allowed to be included in the requested amount of a construction change directive.",
+  "options": [
+   "Labor",
+   "Rental cost of hand tools",
+   "Rental cost of machinery",
+   "Supplies"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A201, 2017         7.3.4                Construction Change Directives"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 89,
+  "stem": "A Contractor shall submit to the Architect his or her application for payment __________ days prior to the date established in a contract for progress payments.",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "10"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A201, 2017         9.3.1                Applications for Payment"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 90,
+  "stem": "__________ is a method of improving cash flow.",
+  "options": [
+   "Maintaining a high inventory",
+   "Taking advantage of discounts",
+   "Converting all cash sales to accounts receivable",
+   "Paying off liabilities"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder’s Guide to Accounting   262                  Cashflow - Controlling"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 91,
+  "stem": "A Subcontractor has a \"Standard Form of Agreement Between Contractor and Subcontractor\" with the prime Contractor on a project. The ONLY way the Subcontractor can assign work on the Subcontract is with the written __________.",
+  "options": [
+   "Consent of the Owner or Architect",
+   "Consent of the Contractor",
+   "Notification to the Owner or Architect",
+   "Notification to the Contractor"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A401, 2017         7.4.2                TOC: Termination, suspension or",
+   "                                                                assignment of the subcontract"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 92,
+  "stem": "__________ are eligible for Small Business Administration loans.",
+  "options": [
+   "All building contractors in the United States",
+   "Only company presidents",
+   "Applicants who cannot obtain a loan from local banks",
+   "Applicants who are recommended by a local bank"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builder’s Guide to Accounting   318, 319             Small Business Administration Loans"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 93,
+  "stem": "A Notice of Commencement can be extended past one year __________.",
+  "options": [
+   "If it is written into the Notice of Commencement",
+   "If the job proceeds past one year",
+   "When there is an architectural change order",
+   "Never"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual      2025: 9-83:          Notices – Notice of Commencement",
+   "                                           §713.13(1)(c)",
+   "                                           2021: 9-78:",
+   "                                           §713.13(1)(c)",
+   "                                           2017: 9-88:",
+   "                                           §713.13(1)(c)"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 94,
+  "stem": "Which of the following will the bidder not represent when he or she submits a bid?",
+  "options": [
+   "That the provision for liquidated damages will be waived",
+   "Has visited the site and is familiar with local conditions under which the work is to be performed",
+   "Has read and understands the bidding documents",
+   "That the bid will be based upon materials and equipment required in the bid documents"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "AIA Document A701, 2018         2.1                  TOC: Bidders Representation"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 95,
+  "stem": "A Contractor receives payment from the Owner of a construction project. The Contractor shall pay the Subcontractor each progress payment within __________.",
+  "options": [
+   "3 working days",
+   "3 days (including Saturday and Sunday)",
+   "5 working days",
+   "7 working days"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A401, 2017         11.1.3               TOC: Payments",
+   "           AIA Document A201, 2017         9.6.2"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 96,
+  "stem": "When a piece of equipment is sold, it is necessary to book the transaction separate from regular sales because __________.",
+  "options": [
+   "It is treated as a variable expense",
+   "It receives different tax treatment",
+   "The transaction is not taxable",
+   "The gains or losses must be used to adjust gross profits"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder’s Guide to Accounting   170                  Equipment – sales"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 97,
+  "stem": "A certificate holder or registrant must inform the Board, by mail, within __________ calendar days, of changes in any information required to be stated on the application for qualification of a business organization.",
+  "options": [
+   "30",
+   "45",
+   "60",
+   "90"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual      2025: 2-173:         Licensing – Notices of Changes",
+   "                                           61G4-15.007(2)",
+   "                                           2021: 2-133:",
+   "                                           61G4-15.007(2)",
+   "                                           2017: 2-159:         Licensing – Change in Information",
+   "                                           61G4-15.007(2)"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 98,
+  "stem": "__________ is (are) examples of an accrual entry.",
+  "options": [
+   "Depreciation and amortization entries",
+   "Entries to record payroll taxes",
+   "Entries to record automatic loan payments",
+   "Entries to record purchase of material stored at the jobsite"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder’s Guide to Accounting   237                  Accruals"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 99,
+  "stem": "To establish an hourly cost for a piece of equipment, the contractor needs to consider all the following except the __________.",
+  "options": [
+   "Estimated life of the equipment",
+   "Cost of the equipment, less salvage value",
+   "Replacement cost of the equipment",
+   "Estimated average hours of use"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builders Guide to Accounting    159, 160             Equipment - Cost assignment"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 100,
+  "stem": "Failure of a certificate holder or registrant to apply for renewal of an active certificate at the time of biennial renewal shall cause the certificate to become __________.",
+  "options": [
+   "Temporarily suspended",
+   "Permanently suspended",
+   "Voluntarily inactive",
+   "Delinquent"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual      2025: 2-95:          Licensing – Renewal",
+   "                                           §489.116(4)",
+   "                                           2021: 2-74:",
+   "                                           §489.116(4)",
+   "                                           2017: 2-84:",
+   "                                           §489.116(4)"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 101,
+  "stem": "The quarterly Federal Tax Form 941 summarizes tax liability for the employer which includes __________.",
+  "options": [
+   "Liability insurance",
+   "Federal income taxes withheld",
+   "Workers compensation insurance",
+   "Federal unemployment insurance tax"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder’s Guide to Accounting   137, 138             Forms, Tax - 941"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 102,
+  "stem": "The __________ summarizes the existing conditions of a business.",
+  "options": [
+   "Balance sheet",
+   "Statement of cash flows",
+   "Income statement",
+   "Statement of retained earnings"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder’s Guide to Accounting   247                  Financial Statements",
+   "           Florida Contractors Manual      3-105                Chapter 3 – Definitions"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 103,
+  "stem": "Having received the list of subcontractors, the architect immediately objects to the use of Allstate Plumbing Company. The general contractor then proposes and uses Atlas Plumbing Company at a higher cost of $5,000. The general contractor is entitled to __________.",
+  "options": [
+   "Nothing",
+   "A time extension only",
+   "$5,000 plus a proven time extension",
+   "Re-negotiate the contract with the owner"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "AIA Document A201, 2017         5.2.3                Subcontractors"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 104,
+  "stem": "The term \"lapping\" refers to __________ taken from the business by moving outstanding balances from one customer account to another.",
+  "options": [
+   "Cash",
+   "Equity",
+   "Liabilities",
+   "Receivables"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder’s Guide to Accounting   181                  Optional TAB: Lapping"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 105,
+  "stem": "__________ is required to file a construction Claim of Lien.",
+  "options": [
+   "Permission from the owner",
+   "A court order",
+   "A direct contract with the owner",
+   "The claim must be recorded with the clerk of the court"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual      2025: 9-80:          Lien – Claim of Lien",
+   "                                           §713.08(5)",
+   "                                           2021: 9-76:",
+   "                                           §713.08(5)",
+   "                                           2017: 9-84:",
+   "                                           §713.08(5)"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 106,
+  "stem": "__________ ratios compare accounts on the balance sheet to accounts on the income statement.",
+  "options": [
+   "Quick assets",
+   "Combined",
+   "Income account",
+   "Current"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder’s Guide to Accounting   270                  Financial Ratios"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 107,
+  "stem": "The Florida's Workers' Compensation Act is applicable to an employer in the construction industry who employs __________ or more full or part time employees.",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "10"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual      2025 & 2021: 6-5     Workers Compensation- when",
+   "                                           & 5-54               needed",
+   "                                           2017: 6-5, 5-54      Acts: Workers Compensation"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 108,
+  "stem": "__________ is a type of cost basis inventory valuation method which uses the current market value of material as it is used.",
+  "options": [
+   "Specific cost",
+   "First in-first out",
+   "Last in-first out",
+   "Cost-plus"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builder’s Guide to Accounting   120                  Inventory"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 109,
+  "stem": "__________ is NOT used when calculating goods sold to average inventory ratio.",
+  "options": [
+   "Labor",
+   "Materials purchased",
+   "All other direct costs",
+   "Total monthly averages"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder’s Guide to Accounting   121                  Inventory"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 110,
+  "stem": "__________ does NOT require a written notice in order to file a claim for additional cost.",
+  "options": [
+   "A minor change in the work",
+   "Work performed because of a concealed condition",
+   "Damages caused by the architect",
+   "Work performed because of an emergency endangering the owner's property"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A201, 2017         Section 15.1.5       Claims for additional costs"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 111,
+  "stem": "All of the following are generally included in an invoice except __________.",
+  "options": [
+   "A description of materials",
+   "The sales price of the materials",
+   "The terms of the invoice",
+   "The balance of the customer's account"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder’s Guide to Accounting   44, Figure 3-6       Invoice - Illustrated"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 112,
+  "stem": "Current liabilities include the portion of long-term debt for equipment purchases that is payable within __________ days.",
+  "options": [
+   "30",
+   "90",
+   "180",
+   "365"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder’s Guide to Accounting   155                  Current Liabilities",
+   "           Florida Contractors Manual      3-107                Chapter 3 - Definitions"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 113,
+  "stem": "Gross sales less direct costs equals __________.",
+  "options": [
+   "Gross profit",
+   "Net profit",
+   "Income from operations",
+   "Net sales"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder’s Guide to Accounting   248                  Financial Statements"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 114,
+  "stem": "Assets minus liabilities equals __________.",
+  "options": [
+   "Net profit",
+   "Net worth",
+   "Gross sales",
+   "Gross profit"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder’s Guide to Accounting   247                  Financial Statements"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 115,
+  "stem": "Upon initial signing of an agreement or contract with a homeowner, a contractor must deliver a written statement explaining the construction industry recovery fund. This action applies to all repairs, renovations, or construction over __________ in value.",
+  "options": [
+   "$500",
+   "$3,500",
+   "$2,500",
+   "$1,000"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual      2025: 2-118:         Licensing –",
+   "                                           §489.1425            Homeowners Recovery Fund",
+   "                                           2021: 2-90:          Licensing -",
+   "                                           §489.1425            Homeowners Recovery Fund",
+   "                                           2017: 2-105:         Homeowners Recovery Fund",
+   "                                           §489.1425            payment"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 116,
+  "stem": "An owner may terminate a Notice of Commencement by executing a Notice of Termination that contains all of the following except __________.",
+  "options": [
+   "Recording office document book and Page reference numbers and date of Notice of Commencement",
+   "Two copies of a Notice Direct Contract",
+   "Statement that lienors have been paid in full",
+   "Statement specifying that notice applies to all real property subject to Notice of Commencement"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual      2025: 9-85:          TOC – Notice of Termination",
+   "                                           §713.132(1)",
+   "                                           2021: 9-79:          TOC – Notice of Termination",
+   "                                           §713.132(1)",
+   "                                           2017: 9-91:          Notices – Notice of Termination",
+   "                                           §713.132(1)"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 117,
+  "stem": "Short term schedules on construction projects are a detailed explanation of the next ___________.",
+  "options": [
+   "7 days",
+   "2 weeks",
+   "4 weeks",
+   "6 weeks"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual      2025 & 2021: 10-64 TOC – Project Schedules – Short",
+   "                                                              Term Schedules",
+   "                                           2017: 10-64        Scheduling – Short Term"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 118,
+  "stem": "During the year, a firm used several independent contractors to perform various services. Each of these services involved payments in excess of $600 to the independent contractor performing the services. The independent contractors were not employees of the company. The company's responsibility for reporting the earnings of these contractors to the Internal Revenue Service (IRS) is that the company __________.",
+  "options": [
+   "Must immediately file a Form W-4 for these independent contractors",
+   "Must file Form 1099-NEC/1099-MISC to report total payments of $600 or more to these contractors",
+   "Must carry the contractors as employees and report their earnings along with the company's hourly or salaried personal",
+   "Has no responsibility. The independent contractors are responsible for reporting their earnings to the IRS."
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder’s Guide to Accounting   138                    Optional TAB: Independent",
+   "           Florida Contractors Manual      2025: 3-140            Contractors",
+   "                                           2021: 3-158 (2nd printing / 2021 IRS Circ. E)",
+   "                                           2021: 3-156 (1st printing / 2016 IRS Circ. E)",
+   "                                           2017: 3-152 (2016 IRS Circ. E)"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 119,
+  "stem": "When preparing financial statements, accruals are used to record __________.",
+  "options": [
+   "Lump sum payments",
+   "Income earned but not yet received",
+   "Cash transactions",
+   "Prepayments on a future contract"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder’s Guide to Accounting   106, 107",
+   "           Florida Contractors Manual      3-105              Chapter 3 – Definitions"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 120,
+  "stem": "Any contractor who collects a deposit of more than 10% of the contract price for any repairs, renovations, or construction to residential real property must apply for a permit within __________ days of payment.",
+  "options": [
+   "7",
+   "10",
+   "30",
+   "45"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual      2025: 2-102:       Licensing – Money Received",
+   "                                           §489.126(2)(a)1.",
+   "                                           2021: 2-79:",
+   "                                           §489.126(2)(a)1.",
+   "                                           2017: 2-90:",
+   "                                           §489.126(2)(a)"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 121,
+  "stem": "In which of the following situations would the percentage of completion method not be recommended?",
+  "options": [
+   "Jobs longer than two years in duration",
+   "Firms that require periodic, progressive recognition of profit from their jobs",
+   "Construction jobs producing revenue greater than $10 million",
+   "Jobs costing $1,000 - $5,000 which take approximately one week to complete"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder’s Guide to Accounting   25                 Percentage of completion accounting"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 122,
+  "stem": "One of the most practical and useful cash controls available is __________.",
+  "options": [
+   "A daily cash summary",
+   "A quarterly cash summary",
+   "A secure petty cash box",
+   "Keeping petty cash receipts"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder’s Guide to Accounting   180                Cash control"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 123,
+  "stem": "All the following are procedures included in the budget process except __________.",
+  "options": [
+   "Analyzing the results",
+   "Consulting with your accountant",
+   "Preparing the budget",
+   "Taking action to control expenses"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder’s Guide to Accounting   144                Budget - analysis"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 124,
+  "stem": "The best way to control equipment costs is good __________.",
+  "options": [
+   "Maintenance",
+   "Scheduling",
+   "Financing",
+   "Reports"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder’s Guide to Accounting   228                Equipment - estimating"
+  ]
+ },
+ {
+  "exam": 1,
+  "num": 125,
+  "stem": "In order to establish an hourly cost for a bulldozer for job allocations, the __________ would NOT apply.",
+  "options": [
+   "Cost of equipment less salvage value",
+   "Operating costs involving gas, oil, and accessories",
+   "Repairing and maintenance costs",
+   "Unpredictable job site conditions"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder’s Guide to Accounting   159, 160           Equipment - cost summary"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 1,
+  "stem": "Using straight line depreciation, the annual allowable depreciation for a tractor trailer worth $23,000 with an estimated useful life of ten years and anticipated salvage value of $2,000 is ___________.",
+  "options": [
+   "$2,100",
+   "$2,300",
+   "$1,800",
+   "$2,500"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builders Guide to Accounting              163",
+   "          (𝑐𝑜𝑠𝑡 𝑜𝑓 𝑎𝑠𝑠𝑒𝑡−𝑠𝑎𝑙𝑣𝑎𝑔𝑒 𝑣𝑎𝑙𝑢𝑒)",
+   "                                          = 𝑎𝑛𝑛𝑢𝑎𝑙 𝑑𝑒𝑝𝑟𝑒𝑐𝑖𝑎𝑡𝑖𝑜𝑛 𝑒𝑥𝑝𝑒𝑛𝑠𝑒",
+   "              𝑢𝑠𝑒𝑓𝑢𝑙 𝑙𝑖𝑓𝑒 𝑜𝑓 𝑎𝑠𝑠𝑒𝑡",
+   "          $23,000 - $2,000 = $21,000",
+   "          $21,000 ÷ 10 = $2,100"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 2,
+  "stem": "__________ is true of joint ventures.",
+  "options": [
+   "They are generally created for a single business transaction",
+   "Generally, they must adhere to a written joint venture agreement",
+   "Both A and B",
+   "None of the above"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                2025: 1-10",
+   "                                                    2021: 1-10, 1-11",
+   "                                                    2017: 1-12"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 3,
+  "stem": "___________, a type of financial and business record, are NOT required to be maintained by a licensed contractor for the preceding three years.",
+  "options": [
+   "Telephone records",
+   "Employee timecards",
+   "Letters of complaints",
+   "Minutes of corporate meetings"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                2025: 2-18, 2-102, 489.124(1)",
+   "                                                    2021: 2-22, 2-78, 2-79, 489.124(1)",
+   "                                                    2017: 2-20, 2-90, 489.124(1)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 4,
+  "stem": "After receiving a citation from the Board, a licensee has __________ days to dispute the citation before it becomes a final order.",
+  "options": [
+   "15",
+   "60",
+   "30",
+   "10"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Statute 455                       455.224(1)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 5,
+  "stem": "When a contractor performs obligations after receiving additional clarification that he requested from the architect for perceived needs for additional costs, when is the contractor liable for damages resulting from the work, he performed which is consistent with errors or omissions in the contract documents?",
+  "options": [
+   "The contractor would not be liable",
+   "In all instances as the contractor should have refused to do the work if he felt the documents included errors or omissions",
+   "Only if the work performed proved to be inconsistent with local building codes",
+   "Only if the work was performed by subcontractors working for the contractor"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "AIA Document A201, 2017                   3.2.4 Index: Claims and Disputes"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 6,
+  "stem": "Form 940 used to report _____________.",
+  "options": [
+   "FUTA Taxable Wages to the IRS",
+   "Wages for Federal Unemployed Trainees",
+   "Wages for Workers Compensation rate calculations",
+   "None of the above"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual                2025: 1-26, 3-48, 3-176 (2025 IRS Circ. E)",
+   "                                                    2021: 1-26, 3-48, 3-191 (2021 IRS Circ. E)",
+   "                                                    2017: 1-23, 3-48, 3-182 (2017 IRS Circ. E)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 7,
+  "stem": "According to child labor laws, a seventeen-year-old can work no more than ___________ during the school session.",
+  "options": [
+   "40 hours per month",
+   "30 hours per week",
+   "10 hours in any one day",
+   "20 hours per week"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                5-32"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 8,
+  "stem": "__________ are properties of a Balance Sheet.",
+  "options": [
+   "Assets, liabilities, net worth",
+   "Profit, loss, net worth",
+   "Assets, debts, receivables",
+   "Income, collections, overhead"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builders Guide to Accounting              17"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 9,
+  "stem": "A reserve of bad debt is __________.",
+  "options": [
+   "A reduction in your current assets",
+   "A general ledger entry that reflects a budgeted reserve for bad debts",
+   "A loss of cash on hand",
+   "Both A and B"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builders Guide to Accounting              68"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 10,
+  "stem": "It is the contractor's responsibility should he discover concealed or unknown conditions subsurface or otherwise to _____________.",
+  "options": [
+   "Provide notice to the Owner within 10 days of discovery of the conditions",
+   "Provide notice to the Architect and Owner within 10 days of discovery of the conditions",
+   "Provide notice to the Architect and Owner within 14 days of discovery of the conditions",
+   "Advise the building inspector within 3 days of perceived unsafe conditions"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "AIA Document A201, 2017                   3.7.4"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 11,
+  "stem": "__________ is a way cash can be stolen by taking sums from one customer account and applying it to another's and writing off the amount of cash taken as bad debt.",
+  "options": [
+   "Falsifying sales records",
+   "Falsifying discounts",
+   "Lapping",
+   "Client transfer processing"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builders Guide to Accounting              181"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 12,
+  "stem": "What is the maximum number of times a licensee may go through the mediation process pertaining to complaints made against him without Board approval?",
+  "options": [
+   "The mediation process can only be used once every five years",
+   "No more than three times",
+   "There is no limit to the number of times mediation can by employed",
+   "The mediation process can only be used once every ten years"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Statute 455                       455.2235(4)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 13,
+  "stem": "What guaranty does a contractor make through the issuance of a surety bond?",
+  "options": [
+   "He will complete the project as per the contract documents",
+   "He will hold the architect harmless for delays",
+   "He will assign any benefits awarded under the bond to his subcontractors",
+   "He will reimburse the surety company if he fails to perform according to contract"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                4-12"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 14,
+  "stem": "Which of the following describes a Payroll Register?",
+  "options": [
+   "It is the same as a check register but includes details related to payroll checks",
+   "It is a system used to record only salaried workers wages",
+   "It is used to transfer check amounts to the General Ledger",
+   "It is the best way to control payroll costs"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builders Guide to Accounting              130"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 15,
+  "stem": "The minimum levels of coverage of public liability and personal damage insurance that state contractor licensees must carry is ____________.",
+  "options": [
+   "That they are the same for all trades and General Contractors",
+   "$500,000 liability and $100,000 property damage",
+   "$100,000 liability and $25,000 property damage for all trades other than General and Building Contractors and Electrical or Alarm contractors",
+   "No minimum requirements just suggested coverages"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                2025: 2-16, 2-172, 61G4-15.003",
+   "                                                    2021: 2-16, 2-131, 61G4-15.003",
+   "                                                    2017: 2-19, 2-157, 61G4-15.003"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 16,
+  "stem": "A(an) __________ asset is goodwill.",
+  "options": [
+   "Intangible",
+   "Current",
+   "Fixed",
+   "Contingent"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builders Guide to Accounting              253"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 17,
+  "stem": "__________ expenses are considered direct costs rather than variable overhead expenses.",
+  "options": [
+   "Labor",
+   "Union welfare",
+   "Equipment rental",
+   "Small tools"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builders Guide to Accounting   141"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 18,
+  "stem": "What information will a bank require to approve financing to a business?",
+  "options": [
+   "How much money is needed",
+   "How long will the money be needed",
+   "How will the loan be repaid",
+   "All of the above"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     3-73"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 19,
+  "stem": "Which of the following is not true regarding the ownership of drawings, specifications and other instruments of service?",
+  "options": [
+   "The architect and their consultants are deemed to be the authors",
+   "The owner retains ownership as they paid to have the documents prepared",
+   "Suppliers shall not own or claim a copyright interest on any of these documents",
+   "The architect retains ownership of these documents"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A201, 2017        1.5"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 20,
+  "stem": "At time of renewal, an applicant submitting proof of completed classroom continuing education, must provide proof of a minimum of __________ actual time of classroom instruction.",
+  "options": [
+   "14 hours",
+   "11 hours and 40 minutes",
+   "11 hours",
+   "50 minutes"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 2-93, 489.115(4)(b)1.",
+   "                                         2021: 2-73, 489.115(4)(b)1.",
+   "                                         2017: 2-82, 489.115(4)(b)1."
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 21,
+  "stem": "Why should all sales on account be accrued?",
+  "options": [
+   "This method is more accurate than any other method",
+   "Sales should not be accrued",
+   "Sales are a variable asset and therefore an accrued posting",
+   "No cash changes hands so therefore it is an accrued item"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builders Guide to Accounting   239"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 22,
+  "stem": "What two accounting tools are the most efficient way to monthly track accounts payable?",
+  "options": [
+   "Check registers for both current month and previous month billings",
+   "Profit & Loss and Balance Sheet",
+   "Two separate checking accounts",
+   "Account Payable and Account Aging registers"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builders Guide to Accounting   108"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 23,
+  "stem": "The owner has __________ days to provide a bidder to a contract proof that the owner has made financial arrangements to fulfill their obligations under the contact.",
+  "options": [
+   "5",
+   "7",
+   "10",
+   "3"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A701, 2018        6.2"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 24,
+  "stem": "A construction firm should seek professional services from, a(an) _________ when developing a budget, cash-flow forecasts or employee benefits packages.",
+  "options": [
+   "Certified Public Bookkeeper",
+   "Accountant",
+   "Certified Public Accountant",
+   "Attorney"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual     3-9"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 25,
+  "stem": "The maximum number of days after filing any mediation proceeding involving a contractor that a dispute may be stayed is __________.",
+  "options": [
+   "60",
+   "60 unless the court orders a longer period",
+   "45 days",
+   "30 days unless agreed to by both parties"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A201, 2017        15.3.2"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 26,
+  "stem": "Which of the following is not correct about Project Schedules?",
+  "options": [
+   "They should be informally reviewed and updated every 30 days",
+   "They should be jointly prepared with a material and equipment schedule",
+   "They should include enough detail to allow adequate project control",
+   "The schedule progress should be posted at least weekly"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     10-63"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 27,
+  "stem": "A __________ ratio best illustrates the overall health of a business.",
+  "options": [
+   "Capital to Current Liabilities",
+   "Debt to Asset Ratio",
+   "Working Capital to Funded Debt",
+   "Current Ratio"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builders Guide to Accounting   268"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 28,
+  "stem": "Which of the following are not ways to prevent bad debt in the form of open collectables?",
+  "options": [
+   "Ask for credit references from new clients",
+   "Do not take on any new clients until you can collect all current outstanding debts",
+   "Do not extend credit unless a credit application is on file",
+   "Call customers to ask them to commit to a date to pay their outstanding sums"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builders Guide to Accounting   55"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 29,
+  "stem": "Which of the following is not considered a Fixed Overhead Expense?",
+  "options": [
+   "Salaried employee working at the corporate office",
+   "Small tools",
+   "Payroll taxes for office personnel",
+   "Printing of letterhead and envelopes"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builders Guide to Accounting   143"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 30,
+  "stem": "What does an Aging List accomplish?",
+  "options": [
+   "It indicates the percentage of receivables that are current",
+   "It indicates the percentage of receivables that are uncollected",
+   "It is used to control the collections of accounts receivables",
+   "All of the above"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builders Guide to Accounting   46"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 31,
+  "stem": "___________ costs are freight charges on material shipped to a job by the supplier.",
+  "options": [
+   "Direct",
+   "Incidental",
+   "Indirect",
+   "Overhead"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builders Guide to Accounting   115"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 32,
+  "stem": "Which of the following is an allowable rule regarding approved continuing education hours?",
+  "options": [
+   "16 hours of continuing education are required at the time of renewal",
+   "60 minutes constitutes each hour of required continuing education",
+   "Up to a maximum of 50% of the continuing education may be fulfilled through pro bono services to the indigent or underserved populations",
+   "Continuing education can be performed in the classroom or via interactive distance learning"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     2025 & 2021: 2-17",
+   "                                         2017: 2-19"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 33,
+  "stem": "When is an employer liable for the payment of state re-employment tax?",
+  "options": [
+   "When he has had at least one employee for at least one day of work",
+   "When he has paid at least $1,000 in wages and has had at least one employee for a minimum of ten weeks",
+   "When he has paid at least $1,500 in wages and has had at least one employee for a minimum of twenty weeks",
+   "When they have laid off at least one employee in a quarter"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 5-52, 5-258",
+   "                                         2021: 5-52, 5-282",
+   "                                         2017: 5-52, 5-284"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 34,
+  "stem": "Which of the following would be the most desirable current ratio?",
+  "options": [
+   "3 to 1",
+   "1 to 1",
+   "2 to 1",
+   "4 to 1"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builders Guide to Accounting   268"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 35,
+  "stem": "Which of the following is not true regarding Form 940, Employers Annual Unemployment Tax Return?",
+  "options": [
+   "It is used to report and pay federal unemployment tax",
+   "It is used to report and pay state unemployment tax on an annual basis",
+   "It is not required if you have no employees",
+   "The amount of tax paid is based on the number of employees and wages"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 1-26 & 3-177 (2025 IRS Circ. E)",
+   "                                         2021: 1-26 & 3-192 (2021 IRS Circ. E)",
+   "                                         2017: 1-23 & 3-183 (2016 IRS Circ. E)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 36,
+  "stem": "A contractor must pay the subcontractor after ____________ days the contractor is paid by the owner.",
+  "options": [
+   "10",
+   "7",
+   "5",
+   "14"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A401, 2017        11.1.3"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 37,
+  "stem": "In what instance is form OSHA 301 required?",
+  "options": [
+   "Any time an injury or illness is reported on OSHA 300",
+   "Only if an injury resulting in death occurs",
+   "Only if an injury is considered of lesser severity",
+   "No such OSHA form exists"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     7-11"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 38,
+  "stem": "Which of the following approaches is associated with Network Analysis?",
+  "options": [
+   "Critical Path Analysis (CPA)",
+   "Critical Path Method (CPM)",
+   "Project Evaluations and Review Technique (PERT)",
+   "All above are approaches associated with Network Analysis"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     10-57"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 39,
+  "stem": "Privity in lien law means __________.",
+  "options": [
+   "The names of all parties to a contract are to remain private and confidential",
+   "The relationship between two or more parties to a contract",
+   "All parties to a contract that have lien rights",
+   "The requirement to mediate in the case of a contract dispute"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual     2025 & 2021: 9-22",
+   "                                         2017: 9-21"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 40,
+  "stem": "__________ are the two methods of allowable depreciation.",
+  "options": [
+   "Straight line and Curved line",
+   "Declining Balance and Increasing Value",
+   "Increasing Balance and Curved line",
+   "Straight line and Declining balance"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builders Guide to Accounting   163"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 41,
+  "stem": "A condition giving rise to a dispute occurs on May 1st and is discovered by the contractor on May 5th, the contractor must initiate the claim by __________.",
+  "options": [
+   "May 21",
+   "May 22",
+   "May 26",
+   "May 27"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "AIA Document A201, 2017        15.1.3"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 42,
+  "stem": "The ___________ accounting method recognizes income most exactly.",
+  "options": [
+   "Percentage - of - Completion",
+   "Completed - Contract",
+   "Capitalized Cost Method",
+   "Earned Income"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builders Guide to Accounting   25"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 43,
+  "stem": "What is one of the rules that may be provided regarding approved continuing education hours?",
+  "options": [
+   "16 hours of continuing education are required at the time of renewal",
+   "60 minutes constitutes each hour of required continuing education",
+   "Continuing education is required to be completed every three years",
+   "Continuing education can be performed in the classroom or via interactive distance learning"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     2025 & 2021: 2-17",
+   "                                         2017: 2-19"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 44,
+  "stem": "The __________ method allows a business to take advantage of discounts offered by their suppliers for early payment of invoices.",
+  "options": [
+   "Prepayment ledger",
+   "Quantity discounts",
+   "Open invoice method",
+   "Discount invoice accounting method"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual     3-47"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 45,
+  "stem": "Contractors must maintain complete financial, sales and business records __________.",
+  "options": [
+   "For the immediately preceding five years",
+   "For the immediately preceding ten years",
+   "For the immediately preceding seven years",
+   "For the immediately preceding three years"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 2-18",
+   "                                         2021: 2-17",
+   "                                         2017: 2-20"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 46,
+  "stem": "Which of the following is true when a temporary certificate of registration is allowed for an organization who lost its qualifying agent?",
+  "options": [
+   "The organization may proceed with contracts for incomplete work projects",
+   "There is no provision for a temporary certificate of registration, and all must work must cease until a new qualifying agent is approved",
+   "The organization may proceed with both new and incomplete contracts",
+   "None of the above are true"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 2-23, 2-99, 489.119(3)(a)",
+   "                                         2021: 2-22, 2-76, 489.119(3)(a)",
+   "                                         2017: 2-20, 2-87, 489.119(3)(a)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 47,
+  "stem": "At least _________ days before the end of a licensure cycle, the department shall forward a licensure renewal notification to an active or inactive licensee at the licensee's last known address of record or email address provided to the department.",
+  "options": [
+   "60",
+   "30",
+   "90",
+   "120"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Statute 455            455.273(1)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 48,
+  "stem": "Which of the following are not considered taxable wages and are not included when calculating unemployment benefits paid by an employer?",
+  "options": [
+   "Wages paid to employees working at a convention",
+   "Excess employee discounts",
+   "Cash value of automobiles for personal use",
+   "Bonuses based on performance"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 5-261, 5-266",
+   "                                         2021: 5-284, 5-289",
+   "                                         2017: 5-279, 5-292"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 49,
+  "stem": "What is the distinction between a work-related injury and an illness?",
+  "options": [
+   "An injury requires immediate medical attention",
+   "An illness does not require entry on OSHA logs",
+   "They are considered the same for the purpose of OSHA reporting",
+   "Illnesses do not result from instantaneous events"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     7-20"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 50,
+  "stem": "____________ methods are used for inventory control.",
+  "options": [
+   "First in, first out",
+   "First in, discount last",
+   "Last in, first out",
+   "Both A & C"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builders Guide to Accounting   Pg. 120"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 51,
+  "stem": "___________ is used to report and pay monthly sales tax collected.",
+  "options": [
+   "DR 15-CS Sales and Use Tax Report",
+   "DR-405 Tangible Personal Property Tax Report",
+   "ST 10- TX Sales Tax Report",
+   "Corporate Quarterly Sales Tax Report"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     2025 & 2021: 1-27",
+   "                                         2017: 1-23"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 52,
+  "stem": "Compounded interest is __________.",
+  "options": [
+   "Computed monthly and added to the principal",
+   "Computed annually and added to the principal",
+   "Computed monthly and subtracted from the principal",
+   "Computed monthly and credited towards the principal"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     3-74"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 53,
+  "stem": "Which of the following is not true regarding an Employer-Multi-unit Report?",
+  "options": [
+   "It is required if an employer conducts business in more than one location in Florida",
+   "It is filed on a quarterly basis",
+   "It is mailed separately from the Employers Quarterly Report",
+   "It is mailed with the Employer's Quarterly Report"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 5-267",
+   "                                         2021: 5-290",
+   "                                         2017: 5-292"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 54,
+  "stem": "When should a sling angle be kept at greater than 45 degrees?",
+  "options": [
+   "Only when lifting a 1000 pound or greater load",
+   "Only when using multiple slings to lift a load",
+   "Only when sling legs are at an angle of 60\" vertical",
+   "Whenever possible"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     7-90"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 55,
+  "stem": "__________ are typically not included in shop drawings.",
+  "options": [
+   "Plans",
+   "Manufacturer suggested pricing",
+   "Elevations",
+   "Diagrams"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A201, 2017        1.1.5"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 56,
+  "stem": "The cost related to change orders includes all the following except __________.",
+  "options": [
+   "Rental cost of machinery",
+   "Cost of field office personnel",
+   "Cost to rent hand tools",
+   "All the costs above may be included in a change order"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "AIA Document A201, 2017        7.3.4"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 57,
+  "stem": "The bidder by making a bid represents all the following except ____________.",
+  "options": [
+   "The bidder has visited the site",
+   "The bidder has read and understands all the contract documents",
+   "The bid includes materials he believes will result in a lower build cost",
+   "The bidder is familiar with local conditions"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "AIA Document A701, 2018        2.1.1-2.1.4"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 58,
+  "stem": "__________ are the two ratios most significant in analyzing overhead.",
+  "options": [
+   "Variables Overhead Expense to Sales and Variable Overhead to Receivables",
+   "Fixed Overhead to Sales and Variable Overhead to Profit",
+   "Variable Overhead Expense to Sales and Fixed Overhead to Sales",
+   "Variable Overhead to Fixed Overhead and Fixed Overhead Receivables"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builders Guide to Accounting   147, 243"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 59,
+  "stem": "What is the difference between the Accrual and Cash accounting methods?",
+  "options": [
+   "Only the cash method includes accounts receivables",
+   "The cash method is more accurate",
+   "The cash method only records transactions when money changes hands",
+   "These are the same methods referred to by either name"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builders Guide to Accounting   32"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 60,
+  "stem": "The board, by rule, may establish delinquency fees for late renewal not to exceed ____.",
+  "options": [
+   "$25",
+   "$50",
+   "$100",
+   "the applicable renewal fee for renewal applications made after the expiration date of the certificate or registration"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 2-85, 489.109(c)",
+   "                                         2021: 2-67, 489.109(c)",
+   "                                         2017: 2-75, 489.109(c)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 61,
+  "stem": "The purpose of the Management Privatization Act is to __________.",
+  "options": [
+   "Establish a system for the protection of employee's private information",
+   "Provide a corporate veil of protections for corporate managers",
+   "Outsource management activities to private organizations",
+   "Create a model for contracting with nonprofit organizations"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Statute 455            455.32(2)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 62,
+  "stem": "A __________ insurance form provides coverage for theft of property insurance.",
+  "options": [
+   "Special form",
+   "Broad form",
+   "Loss form",
+   "Theft rider form"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     4-6"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 63,
+  "stem": "The duties of making sure results do not differ from those originally planned is an example of a ______________responsibility of the business manager.",
+  "options": [
+   "directing",
+   "controlling",
+   "assigning",
+   "standardizing"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual     2025 & 2021: 1-20",
+   "                                         2017: 1-10"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 64,
+  "stem": "At what rate will an employer be billed for an outstanding re-employment tax obligation and after what time period of delinquency?",
+  "options": [
+   "5.65 % at 30 days late",
+   "5.40 % after one year late",
+   "6.25% after 90 days late",
+   "5% after one year late"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 5-273",
+   "                                         2021: 5-294",
+   "                                         2017: 5-297"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 65,
+  "stem": "Employers must display OSHA posters __________.",
+  "options": [
+   "In the employee breakroom",
+   "At the location where employees report to work",
+   "In plain view of OSHA inspectors",
+   "At each location if multiple locations exist"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     7-6"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 66,
+  "stem": "The purpose of preparing an Income Statement is __________.",
+  "options": [
+   "To borrow construction funds or secure personal credit",
+   "To divide information into various categories to prepare the inventory flow statement",
+   "To show revenues, expenses, and net income for a particular period of time",
+   "To predict debts over a specific time period"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual     3-108"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 67,
+  "stem": "What information do you not need to calculate the unit cost of equipment per hour?",
+  "options": [
+   "Repair and maintenance cost",
+   "OSHA productivity standards",
+   "Estimated life of equipment",
+   "Nonproductive hours of operation"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builders Guide to Accounting   159-160"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 68,
+  "stem": "When a customer account is uncollectable how do you reflect the recorded income?",
+  "options": [
+   "No action is required until the customer files bankruptcy",
+   "File a lien and take them to court",
+   "Rebook the income as a special transaction",
+   "Reverse the income previously recorded"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builders Guide to Accounting   63"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 69,
+  "stem": "What must an owner do if a change of ownership occurs for an entity with a Fictitious Name?",
+  "options": [
+   "Advise the Department of Professional Regulations within 30 days of change",
+   "Establish a new Fictious Name within 45 days",
+   "Record a cancelation and registration of the name within 30 days of change",
+   "Advise the Department of Professional Regulations within 10 days of change"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual     2025 & 2021: 1-14",
+   "                                         2017: 1-15"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 70,
+  "stem": "An applicant must have at least __________ years' experience for a limited license.",
+  "options": [
+   "Ten",
+   "Five",
+   "Twenty",
+   "Fifteen"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Statute 455            455.214(2)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 71,
+  "stem": "Which of the following is not true regarding the requirement to notify the Board?",
+  "options": [
+   "Notification of address change must be made within 15 days",
+   "Notification of address change must be made within 30 days",
+   "Notification of termination of affiliation of a qualifying agent with a business organization within 30 days",
+   "Notification of any changes required on the application for qualification of a business organization within 45 days"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 2-173, 61G4-15.007",
+   "                                         2021: 2-133, 61G4-15.007",
+   "                                         2017: 2-159, 61G4-15.007"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 72,
+  "stem": "When using Declining Balance depreciation what is depreciated on a 200 percent declining balance with a remaining balance of an average of four years?",
+  "options": [
+   "Light trucks",
+   "Machinery and equipment and small tools",
+   "Computers and office equipment",
+   "Residential property"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builders Guide to Accounting   166"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 73,
+  "stem": "When a contractor performs three categories of work how many qualifying agents are required?",
+  "options": [
+   "Only one qualifying agent is required per business",
+   "Three, one for each category of work",
+   "Two, one for the core business and one for the total of work categories",
+   "Four, one for the core business and one for each of the work categories"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 2-23, 2-99, 489.119(3)(a)",
+   "                                         2021: 2-22, 2-76, 489.119(3)(a)",
+   "                                         2017: 2-20, 2-87, 489.119(3)(a)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 74,
+  "stem": "The purpose of the subsidiary ledger is to __________.",
+  "options": [
+   "Track all subsidized income sources",
+   "Keep the main ledger uncluttered and provide useful information",
+   "Track expenses that are billed",
+   "Track back ordered inventory"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual     3-45"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 75,
+  "stem": "When selling an item to a company that is not tax exempt for $200 and the sales tax rate is 7% what will be reflected on the journal?",
+  "options": [
+   "Two separate credit entries, one of $200 and the other for $14.00",
+   "One credit entry of $214.00",
+   "One credit entry of $200 and one debit entry of $14.00",
+   "Two separate debit entries of $200 and $14.00"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     3-64"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 76,
+  "stem": "Which of the following are eligible for limited licenses?",
+  "options": [
+   "Limited licenses may be granted to out of state contractors after a hurricane",
+   "There is no provision for the issuance of limited licenses",
+   "Limited licenses may only be obtained by specialty contractors",
+   "Limited licenses may be granted to retired professionals in good standing to serve the indigent and underserved"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Statute 455            455.214(1)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 77,
+  "stem": "If a contractor makes a false statement of insurance coverage, and this is his third offense, the minimum punishment is ________________________.",
+  "options": [
+   "$2,500 fine",
+   "$2,500 fine and/or probation or suspension",
+   "$5,000 fine",
+   "$5,000 fine and/or probation or suspension"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 2-205, 61G4-17.001(k)2.",
+   "                                         2021: 2-160, 61G4-17.001(k)2.",
+   "                                         2017: 2-186, 2-187, 61G4-17.001(k)2."
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 78,
+  "stem": "When the Department designates mediation for a licensee, how many days following resolution of the complaint by the complainant and the licensee must the mediator be advised of the resolution?",
+  "options": [
+   "14 days after contact by the mediator",
+   "21 days after contact by the mediator",
+   "30 days after contact by the mediator",
+   "60 days after contact by the mediator"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Statute 455            455.2235(2)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 79,
+  "stem": "Proper inventory control planning can do which of the following?",
+  "options": [
+   "Increase accounts receivables",
+   "Increase volume of work",
+   "Allow multiple jobs of different scope",
+   "Eliminate unneeded working capital expenditures"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builders Guide to Accounting   119"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 80,
+  "stem": "Which of the following is not true concerning a S Corporation?",
+  "options": [
+   "They have multiple classes of stock",
+   "20% or more of revenue must be domestically generated",
+   "Only estates or individual can be shareholders",
+   "It must be a domestic entity"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 1-11, 1-12",
+   "                                         2021: 1-12",
+   "                                         2017: 1-13"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 81,
+  "stem": "For what period must examination scores for each applicant be maintained by the Department?",
+  "options": [
+   "No less than three years immediately following the examination",
+   "No less than two years immediately following the examination",
+   "No less than one year immediately following the examination",
+   "No less than five years immediately following the examination"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Statute 455            455.217(4)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 82,
+  "stem": "___________ is the purpose of the accrual accounting method.",
+  "options": [
+   "To record revenue when earned",
+   "To record expense when incurred",
+   "To track the timely payment of accounts receivables",
+   "Both A and B"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     3-17"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 83,
+  "stem": "Who assumes responsibility for the accuracy of the shop drawings and samples once submitted by the contractor to the architect for review?",
+  "options": [
+   "The architect",
+   "Review by the architect does not release the contractor from the responsibility",
+   "Both the contractor and architect since they have both reviewed the submissions",
+   "The owner as well as his contractor and architect since they all have reviewed the submissions"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A201, 2017        4.2.7"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 84,
+  "stem": "__________ are all types of assets.",
+  "options": [
+   "Fixed, current and tangible",
+   "Fixed, intangible and current",
+   "Fixed, variable, tangible",
+   "Fixed, variable and current"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builders Guide to Accounting   252-253"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 85,
+  "stem": "__________ is the act of setting up a piece of equipment on your general ledger.",
+  "options": [
+   "Establishing the depreciation schedule",
+   "Establishing the amortization schedule",
+   "Converting a long-term asset to a current asset",
+   "Capitalizing the expense"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builders Guide to Accounting   155"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 86,
+  "stem": "__________ overhead costs vary related to sales volume.",
+  "options": [
+   "Commission",
+   "Advertising",
+   "Phone Service",
+   "Utilities"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builders Guide to Accounting   141"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 87,
+  "stem": "Which of the following are advantages of Corporations?",
+  "options": [
+   "They are closely regulated",
+   "Stockholders are not exempt from liability",
+   "They are taxed only once",
+   "Fringe benefits are tax deducible"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     2025 & 2021: 1-11",
+   "                                          2017: 1-13"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 88,
+  "stem": "In what time period must the Department issue a citation after the filing of a complaint against a licensee?",
+  "options": [
+   "Thirty days",
+   "Two months",
+   "One year",
+   "Six months"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Statute 455            455.224(4)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 89,
+  "stem": "What can a high inventory ratio indicate about your business?",
+  "options": [
+   "You practice First In, First Out inventory controls",
+   "Your inventory is too low and could adversely affect sales",
+   "Your average inventory is too high",
+   "You inventory levels are higher than those of your competitors"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builders Guide to Accounting   121"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 90,
+  "stem": "Which of the following accounting methods is used to allocate costs and expenses incurred to a project to determine if the budget is met?",
+  "options": [
+   "Project cost method",
+   "Accrual method",
+   "Cost accounting",
+   "Cash flow analysis method"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual     3-65, 3-106"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 91,
+  "stem": "Who prepares and signs all change orders?",
+  "options": [
+   "Only the architect is required to prepare and sign change orders",
+   "The architect prepares and the owner signs off on the change",
+   "The architect prepares and signs and then the owner and contractor sign",
+   "The contractor prepares and the owner and architect sign \\"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "AIA Document A201, 2017        7.2.1"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 92,
+  "stem": "Which of the following steps are included in the preparation of a company's payroll?",
+  "options": [
+   "Determining each employees' gross earnings",
+   "Determining each employee's deductions",
+   "Calculating the employer's associated payroll expenses",
+   "All the above"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual     3-47, 3-48"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 93,
+  "stem": "When is it a good idea to remove a fully depreciated asset from your book?",
+  "options": [
+   "At the end of its economic life",
+   "When you can afford to buy additional but not replacement equipment",
+   "Only when the equipment is sold, abandoned or traded",
+   "When you have exhausted all tax credits"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builders Guide to Accounting   170"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 94,
+  "stem": "The Department can __________ with the $5.00 fee that is included in the current licensee fee.",
+  "options": [
+   "Educate the public regarding unlicensed activity",
+   "Transfer the funds to the State of Florida's general budget account",
+   "Subsidize the application fee for applicants from the indigent community",
+   "Reimburse the public when damaged by unlicensed workers"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Statute 455            455.2281"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 95,
+  "stem": "Which of the following is true about depreciation?",
+  "options": [
+   "It only applies to property that appreciates in value",
+   "You cannot depreciate intangible property",
+   "You may change the method by which you calculate depreciation with your Accountant's written explanation to the IRS",
+   "Obsolescence is of no consequence when determining how to depreciate assets"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builders Guide to Accounting   162"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 96,
+  "stem": "How many days prior to the date established for payment shall the contractor submit a request for payment and to whom?",
+  "options": [
+   "14 days submitting to the owner for payment",
+   "14 days submitting to the architect",
+   "10 days submitting to the owner for payment",
+   "10 days submitting to the architect for payment"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A201, 2017        9.3.1"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 97,
+  "stem": "Which of the following are reasons to maintain employee timecards?",
+  "options": [
+   "Employees can use them to file their taxes with the IRS",
+   "Can be used in unemployment disputes",
+   "They can be used to calculate annual bonus amounts",
+   "The IRS requires they be kept for 5 years"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builders Guide to Accounting   127"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 98,
+  "stem": "How long is a Fictious Name valid for and when do they expire?",
+  "options": [
+   "3 years and expire on December 31st of the third year",
+   "5 years and expire on December 31st of the fifth year",
+   "10 years and expire on the anniversary date of filing",
+   "They never expire nor need renewing if the entity remains active"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 1-15",
+   "                                          2021: 1-15",
+   "                                          2017: 1-14"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 99,
+  "stem": "Which one of the following is not accomplished through good inventory controls?",
+  "options": [
+   "Reduces the need for storage",
+   "Reduces taxes and insurance and other costs",
+   "Reduces exposure of materials to theft",
+   "Reduces the need to backorder inventory"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builders Guide to Accounting   121"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 100,
+  "stem": "The current ratio is calculated by __________.",
+  "options": [
+   "Adding cash and accounts receivable and dividing by liabilities",
+   "Dividing current liabilities by current assets",
+   "Dividing current assets by current liabilities",
+   "Comparing the total loan debt to current income"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual     3-89"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 101,
+  "stem": "The __________ lists all checks cashed and who cashed them.",
+  "options": [
+   "Cash Register",
+   "Check Ledger",
+   "Check Register",
+   "Subsidiary Ledger"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builders Guide to Accounting   101"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 102,
+  "stem": "__________ are the minimum levels of coverage of public liability and property damage insurance General Contractors must carry.",
+  "options": [
+   "$100,000 liability and $25,000 property damage",
+   "$500,000 liability and $100,000 property damage",
+   "$300,000 liability and $50,000 property damage",
+   "$150,000 liability and $50,000 property damages"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 2-16, 2-172, 61G4-15.003",
+   "                                          2021: 2-16, 2-131, 61G4-15.003",
+   "                                          2017: 2-19, 2-157, 61G4-15.003"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 103,
+  "stem": "OSHA records are to be located __________ when employees are not associated with a fixed establishment.",
+  "options": [
+   "At the nearest fixed location",
+   "At field offices or mobile base operation locations",
+   "At the corporate office",
+   "Where the employees report to work each day"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual     7-15"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 104,
+  "stem": "Which of the following are not required recordable injuries?",
+  "options": [
+   "Injuries requiring first aid treatment only",
+   "Removing foreign items from the eye with tweezers",
+   "Use of prescription medications",
+   "Application of bandages by medical personnel"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     7-22, 7-23, 7-24"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 105,
+  "stem": "Which of the following are not the owner's responsibility to pay?",
+  "options": [
+   "Easements",
+   "Use or occupancy of permanent structures",
+   "Permits and fees assigned to the contractor under the contract documents",
+   "Permanent changes to existing facilities"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "AIA Document A201, 2017        2.3"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 106,
+  "stem": "To whom and on what schedule shall bonds related to a bid be delivered by the bidder?",
+  "options": [
+   "To the architect no later than three days after contract execution",
+   "To the architect no later than five days after contract execution",
+   "To the owner no later than five days after contract execution",
+   "To the owner no later than three days after contract execution"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A701, 2018        7.2"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 107,
+  "stem": "What is an example of an incentive discount offered to customers to pay open invoices?",
+  "options": [
+   "2% - 10- days, net 30",
+   "Never offer a discount and insist your customers pay the full price",
+   "10% off on all orders over $1,000",
+   "None of the above"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builders Guide to Accounting   59"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 108,
+  "stem": "What penalty is imposed for failure or refusal of an employer or carrier to report any form or notice associated with a death as required by Chapter 440, Workers Compensation Laws?",
+  "options": [
+   "Fine not to exceed $1000",
+   "Fine not to exceed $1500",
+   "Fine not to exceed $500",
+   "Fine not to exceed $500 for the first failure and not to exceed $2000 for each subsequent failure"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual           2025: 6-121. 440.185(8)",
+   "                                                2021: 6-113, 440.185(8)",
+   "                                                2017: 6-165, 440.185(8)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 109,
+  "stem": "When preparing an estimate, __________ would be included as a fixed overhead expense.",
+  "options": [
+   "Equipment costs",
+   "Corporate office personnel payroll costs",
+   "Direct labor and payroll taxes",
+   "Material costs"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builders Guide to Accounting         142, 143 & 227"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 110,
+  "stem": "__________ is/are not components of a safety program.",
+  "options": [
+   "A policy statement regarding safety",
+   "Safety Rules",
+   "Workers' Compensation Guidelines",
+   "Employee Orientation program"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual           7-36, 7-37, 7-38, 7-39"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 111,
+  "stem": "Which of the following is not true regarding posting a Notice of Commencement?",
+  "options": [
+   "When a loan exists, it is the contractor's responsibly to post the notice",
+   "It may be posted no sooner than 90 days prior to the start of work at the site",
+   "The owner is obligated to post a copy at the site",
+   "The posted notice always needs to remain on site"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual           2025 & 2021: 9-12",
+   "                                                2017: 9-11"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 112,
+  "stem": "__________ must be kept separate from other assets when calculating depreciation.",
+  "options": [
+   "Land",
+   "Office Furniture and Equipment",
+   "Truck and Autos",
+   "On site equipment"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builders Guide to Accounting         162"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 113,
+  "stem": "Under what circumstance may a foreign trained professional be allowed to take the examination for construction licensing?",
+  "options": [
+   "If the applicant immigrated to the US for political reasons",
+   "If the applicant successfully completed an approved course prior to 1990",
+   "If the applicant immigrated to the US for political reason from a county located in the Western Hemisphere lacking diplomatic relations with the US",
+   "There is no special circumstance under which an applicant may take the exam and they must adhere to the same rules as all other applicants"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Statute 455                  455.218(a)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 114,
+  "stem": "When should you provide an incentive discount to customers based on receivables?",
+  "options": [
+   "When they can refer you other business",
+   "When you want to increase sales",
+   "When you want them to pay their open invoice quickly",
+   "When they have an \"A\" credit rating"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builders Guide to Accounting,        59"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 115,
+  "stem": "When a subcontractor defaults on work in accordance with agreement with a contractor which of the following are allowable remedies for the contractor?",
+  "options": [
+   "The contactor may correct the default if the subcontractor has failed to do so within 10 days after the subcontractor received notice from the contractor",
+   "Architect may hire a new subcontractor if the subcontractor has failed to correct the default within 5 days after receipt of notice from the contractor",
+   "Contactor may correct the default if the subcontractor has failed to do so within 5 days after the subcontractor received notice from the contractor",
+   "Architect may hire a new subcontractor if the subcontractor has failed to correct the default within 10 days after receipt of notice from the contractor"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "AIA Document A401, 2017              3.5"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 116,
+  "stem": "The total maximum allowable penalty for an employer who committed a willful or repeated violation of OSHA regulations and failed to comply with OSHA mandated posting requirements is __________.",
+  "options": [
+   "$136,942",
+   "$148,431",
+   "$149,413",
+   "$177,454"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual           7-31",
+   "           There are two different answers depending which edition of the book you have:",
+   "           2025: Per the text, the OSHA civil penalties are as followed:",
+   "           Willful or Repeated Violation - $161,323",
+   "           Posting Requirements - $16,131",
+   "           $161,323 + $16,131 = $177,454",
+   "[B] 2021: Per the text, the OSHA civil penalties are as followed:",
+   "           Willful or Repeated Violation - $134,937",
+   "           Posting Requirements - $13,494",
+   "           $134,937 + $13,494 = $148,431",
+   "[A] 2017: Per the text, the OSHA civil penalties are as followed:",
+   "           Willful or Repeated Violation - $124,471",
+   "           Posting Requirements - $12,471",
+   "           $124,471 + $12,471 = $136,942"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 117,
+  "stem": "Which of the following should be considered when deciding on the man-hour range to use when creating an estimate?",
+  "options": [
+   "Weather conditions",
+   "Time allowed for project completion",
+   "Skill and experience of the craftsman",
+   "All the above"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual           10-30"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 118,
+  "stem": "How many copies of the contract documents must the owner provide the contractor?",
+  "options": [
+   "Two signed originals and one copy",
+   "One signed original and one copy",
+   "One signed original and one copy",
+   "One"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A201, 2017              2.3.6"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 119,
+  "stem": "The contractor will submit a certificate for payments within __________ days after the work is complete.",
+  "options": [
+   "7",
+   "10",
+   "3",
+   "None of the above"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A201, 2017              9.4.1"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 120,
+  "stem": "Where and for what period must OSHA 300/300A and any supplementary reports be maintained by the employer?",
+  "options": [
+   "Retained in the corporate headquarters office for 5 calendar years following the end of the year to which they relate",
+   "Retained in the corporate headquarters office for 3 calendar years following the end of the year to which they relate",
+   "Retained in each establishment for 5 calendar years following the end of the year to which they relate",
+   "Retained in each establishment for 3 calendar years following the end of the year to which they relate"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual           7-16"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 121,
+  "stem": "Unless otherwise provided for in the contract documents, the contractor will pay for which of the following?",
+  "options": [
+   "It is the owner's responsibility to pay for all permits, not the contractor",
+   "Building permits, fees, inspections by the local building department",
+   "Only permits when issued in their name excluding work performed by contractors",
+   "Only building permits"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A201, 2017              3.7.1"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 122,
+  "stem": "Which of the following does not affect the productivity rate of equipment?",
+  "options": [
+   "Experience of the operator",
+   "Overruns of Equipment",
+   "Climate and weather conditions",
+   "Permissible speeds"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual           10-27 & 10-28"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 123,
+  "stem": "Which of the following is not true regarding filing a Notice to Owner?",
+  "options": [
+   "Must be filed before commencing or no later than 45 days after completing work",
+   "Must be filed before the owner's disbursement of final payment",
+   "Must be filed before commencing or no later than 45 days after commencing work",
+   "Must be filed regardless of the method of payment by the owner"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual     2025: 9-75",
+   "                                          2021: 9-72, 713.06(2)(a)",
+   "                                          2017: 9-76 , 713.06(2)(a)"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 124,
+  "stem": "Which of the following must the contractor make available at the site?",
+  "options": [
+   "Change orders, product data and samples",
+   "Change orders, product data, samples and proof of liability coverage",
+   "Contract documents and proof of liability coverage",
+   "None of the above, these are the responsibility of the architect to make available"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "AIA Document A201, 2017        3.11"
+  ]
+ },
+ {
+  "exam": 2,
+  "num": 125,
+  "stem": "Real turnover is an example of a __________ ratio.",
+  "options": [
+   "Combined",
+   "Current",
+   "Accrual",
+   "Balanced Florida Business and Finance"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builders Guide to Accounting   270-271"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 1,
+  "stem": "How many days prior to the date established in a contract for progress payments shall a contractor submit to the architect application for payment?",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "10"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A201, 2017                      9.3.1"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 2,
+  "stem": "Which is a method of improving cash flow?",
+  "options": [
+   "Maintaining a high inventory",
+   "Taking advantage of discounts",
+   "Converting all cash sales to accounts receivable",
+   "Paying off liabilities"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting                262"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 3,
+  "stem": "A subcontractor has a \"Standard Form of Agreement Between Contractor and Subcontractor\" with the prime contractor on a project. The ONLY way the subcontractor can assign work on the subcontract is with written __________.",
+  "options": [
+   "Consent of the owner or architect",
+   "Consent of the contractor",
+   "Notification to the owner or architect",
+   "Notification to the contractor"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A401, 2017                      7.4.2"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 4,
+  "stem": "Who is eligible for Small Business Association loans?",
+  "options": [
+   "All building contractors in the Unites States",
+   "Only company presidents",
+   "Applicants who cannot obtain a loan from local banks",
+   "Applicants who are recommended by a local bank"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builder's Guide to Accounting                318-319"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 5,
+  "stem": "When can a Notice of Commencement be extended past one year?",
+  "options": [
+   "If it is written into the Notice of Commencement",
+   "If the job proceeds past one year",
+   "When there is an architectural change order",
+   "Never"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual                   2025: 9-83: 713.13(1)(c)",
+   "                                                       2021: 9-78: 713.13(1)(c)",
+   "                                                       2017: 9-88: 713.13(1)(c)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 6,
+  "stem": "The bidder making a bid represents that he or she __________.",
+  "options": [
+   "Is familiar with local conditions under which the work is to be performed",
+   "Is making a bid contingent on standard codes and conditions",
+   "Will adjust accordingly if the bid is accepted if an addendum is made",
+   "Will provide specifications for all materials"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "AIA Document A701, 2018                      2.1.4"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 7,
+  "stem": "A contractor receives payment from the owner of a construction project. The contractor shall pay the subcontractor each progress payment within __________.",
+  "options": [
+   "3 working days",
+   "3 days (including Saturday and Sunday)",
+   "5 working days",
+   "7 working days"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A401, 2017                      11.3"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 8,
+  "stem": "Which is NOT a delay factor when determining production efficiency percentages?",
+  "options": [
+   "Accessibility of site",
+   "Financial incentives",
+   "Poorly trained personnel",
+   "Weather conditions"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                   10-30, 10-31"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 9,
+  "stem": "When a piece of equipment is sold, why is it necessary to book the transaction separate from regular sales?",
+  "options": [
+   "It is treated as a variable expense",
+   "It receives different tax treatment",
+   "The transaction is not taxable",
+   "Gains or losses must be used to adjust gross profits"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting                170"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 10,
+  "stem": "According to Fair Labor Standards Act, which will eliminate the contractor's liability for paying overtime pay?",
+  "options": [
+   "An agreement that only 8 hours per day or 40 hours per week will be counted as working time",
+   "An outside salesperson who works on straight commission and qualifies as exempt status",
+   "An announcement by an employer that overtime work will only be paid for if authorized in advance",
+   "An announcement by an employer that no overtime work will be permitted"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                   5-17"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 11,
+  "stem": "Which is an advantage of leasing?",
+  "options": [
+   "Lowers overall cash flows more than purchasing",
+   "Reduced front-end cash outlays",
+   "Generates depreciation for tax purposes",
+   "Cheaper than owning in the long run"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                   3-93"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 12,
+  "stem": "A change of a business address must be mailed to the Department of Business and Professional Regulation within how many days of the change?",
+  "options": [
+   "30",
+   "45",
+   "60",
+   "90"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                   2025: 2-31",
+   "                                                       2021: 2-29",
+   "                                                       2017: 2-22"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 13,
+  "stem": "All chains being used as a sling, should be inspected once a __________ by a competent inspector.",
+  "options": [
+   "Day",
+   "Week",
+   "Month",
+   "Year"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                   7-89"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 14,
+  "stem": "Which of the following is NOT a prohibited agreement under the Florida's Right to Work Law?",
+  "options": [
+   "Union shop agreements",
+   "Agency shop agreements",
+   "Federal enclaves' agreements",
+   "Maintenance of membership agreements"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                   5-14, 5-15"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 15,
+  "stem": "Which of the following is an example of an accrual entry?",
+  "options": [
+   "Depreciation and amortization entries",
+   "Entries to record payroll taxes",
+   "Entries to record automatic loan payments",
+   "Entries to record purchase of material stored at a jobsite"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting                237"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 16,
+  "stem": "To establish an hourly cost for a piece of equipment the contractor needs to consider all the following except __________.",
+  "options": [
+   "Estimated life of the equipment",
+   "Cost of the equipment, less salvage value",
+   "Replacement cost of the equipment",
+   "Estimated average hours of use"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builder's Guide to Accounting                159 – 160"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 17,
+  "stem": "Failure of a certificate holder or registrant to apply for renewal of an active certificate at the time of biennial renewal shall cause the certificate to become __________.",
+  "options": [
+   "Suspended",
+   "Permanently suspended",
+   "Voluntarily inactive",
+   "Delinquent"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                   2025: 2-95: 489.116(4)",
+   "                                                       2021: 2-74: 489.116(4)",
+   "                                                       2017: 2-84: 489.116(4)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 18,
+  "stem": "Which of the following best describes the accrual method of accounting?",
+  "options": [
+   "Transactions are recorded when cash is received or paid",
+   "No receivables or payables are recorded on the balance sheet",
+   "Revenues are recognized when earned even though no cash has been received",
+   "Payables are recorded before receivables are received"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builder's Guide to Accounting                11 or 237",
+   "          Florida Contractors Manual                   3-105"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 19,
+  "stem": "Which of the following is not a depreciation method?",
+  "options": [
+   "Declining balance depreciation",
+   "Accumulated cost depreciation",
+   "Sum of the years' digits depreciation",
+   "Straight line depreciation"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting                163",
+   "          Note: there is no such thing as accumulated cost depreciation",
+   "          Sum-of-the-years depreciation is one of the methods still being used under the old rules"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 20,
+  "stem": "Claims arising from damages that resulted from a contractor's work that already has been finished would be covered by a __________.",
+  "options": [
+   "Completion bond",
+   "Completed operations liability policy",
+   "Builder's risk insurance policy",
+   "Manufacturer's and contractor's liability policy"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                   4-9"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 21,
+  "stem": "What is the purpose of the Lien Law payment bond?",
+  "options": [
+   "To exempt the contractor from construction liens",
+   "To exempt the subcontractor from construction liens",
+   "To protect the owner's property from construction liens",
+   "To allow easy payments to subcontractors"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                   2025 & 2021: 9-47, 9-57",
+   "                                                       2017: 9-46, 9-56"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 22,
+  "stem": "Under the Civil Rights Act of 1964 (Title VII) the Americans with Disabilities Act and the Rehabilitation Act of 1973, the maximum compensatory and punitive damages a plaintiff may recover from an employer of 95 people is __________.",
+  "options": [
+   "$24,000",
+   "$50,000",
+   "$100,000",
+   "$250,000"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                   5-35"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 23,
+  "stem": "A contractor's worker's compensation premiums can be reduced by any of the following, except ________________.",
+  "options": [
+   "Participating in a co-insurance program",
+   "Joining an insurance pool",
+   "Participating in a deductible program",
+   "Requiring the employee to pay part of the premium"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                   6-7, 6-8 & 6-9"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 24,
+  "stem": "Under the Florida Civil Rights Act of 1992, (Chapter 760, FL. Statue) back pay liability is limited to __________ months prior to filing of complaint unless willful violation is found.",
+  "options": [
+   "6",
+   "18",
+   "24",
+   "36"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                   5-36"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 25,
+  "stem": "An employer with 100 employees is cited by OSHA for a high severity, greater probability violation. The employer has had one other citation in the last 3 years. Using ONLY the information given, what would be the proposed penalty for this violation? (Select the closet answer)",
+  "options": [
+   "$5,000",
+   "$8,730",
+   "$10,795",
+   "$12,905"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "2025 Florida Contractors Manual:             2025: 7-32 – 7-33",
+   "          high severity, greater probability = base penalty of $16,131",
+   "          adjustment factor = -20% for 51 to 100 workers",
+   "          Note: there is no 10% reduction for good past history because there was one other violation in",
+   "          the last 3 years.",
+   "          Solution: $16,131 x .80 (100% - 20%) = $12,904.80 proposed penalty",
+   "[C] 2021 Florida Contractors Manual:             2021: 7-32 – 7-33",
+   "          high severity, greater probability = base penalty of $13,494",
+   "          adjustment factor = -20% for 51 to 100 workers",
+   "          Note: there is no 10% reduction for good past history because there was one other violation in",
+   "          the last 3 years.",
+   "          Solution: $13,494 x .80 (100% - 20%) = $10,795.20 proposed penalty",
+   "[B] 2017 Florida Contractors Manual:             2017: 7-32 – 7-33",
+   "          high severity, greater probability = base penalty of $12,471",
+   "          adjustment factor = -30% for 26 to 100 workers",
+   "          Note: there is no 10% reduction for good past history because there was one other violation in",
+   "          the last 3 years.",
+   "          Solution: $12,471 x .70 (100% - 30%) = $8,729.70 proposed penalty"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 26,
+  "stem": "How long after the subcontractor's final furnishing of labor, services or material for a job does the subcontractor have to record a valid Claim of Lien?",
+  "options": [
+   "45 days",
+   "60 days",
+   "90 days",
+   "One year"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                   2025 & 2021: 9-28",
+   "                                                       2017: 9-27"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 27,
+  "stem": "The quarterly Federal Tax Form 941 summarizes tax liability for the employer and includes __________.",
+  "options": [
+   "Liability insurance",
+   "Federal income taxes withheld",
+   "Workers compensation insurance",
+   "Federal unemployment insurance tax"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting                137 – 138",
+   "          Florida Contractors Manual                   2025 & 2021: 1-26, 3-48",
+   "                                                       2017: 1-23, 3-48"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 28,
+  "stem": "A properly registered fictitious name is valid for __________ year(s).",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "5"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                   2025 & 2021: 1-14",
+   "                                                       2017: 1- 15"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 29,
+  "stem": "Which type of bond is a guarantee to the owner that the project will be completed according to the terms and conditions specified in the contract?",
+  "options": [
+   "Payment bond",
+   "Bid bond",
+   "Performance bond",
+   "Completion bond"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                   4-14, 10-75"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 30,
+  "stem": "According to the Internal Revenue Service, employers must keep all employment tax records for at least how many years?",
+  "options": [
+   "2 years",
+   "4 years",
+   "5 years",
+   "7 years"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual      2025: 3-142 (2025 IRS Circ. E)",
+   "                                          2021: 3-160 (2nd printing / 2021 IRS Circ. E)",
+   "                                          2021: 3-158 (1st printing / 2016 IRS Circ. E)",
+   "                                          2017: 3-154 (2016 IRS Circ. E)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 31,
+  "stem": "For purposes of unemployment compensation, misconduct connected with work does not include __________.",
+  "options": [
+   "Wrongful intent or evil design",
+   "Deliberate disregard of employee duties",
+   "Deliberate disregard of behavior standards",
+   "Isolated instances of negligence and poor judgment"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual      2025 & 2021: 5-52, 5-53",
+   "                                          2017: 5-52"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 32,
+  "stem": "Which of the following companies would be required to have Worker's Compensation Insurance?",
+  "options": [
+   "A company that is not in the construction business that leases 2 employees",
+   "A company in the construction business that hires employees",
+   "A corporation in the construction business with 2 employees who are both officers of the corporation and have certificates of election to be exempt",
+   "A corporation that is not in the construction business with 2 employees who are both officers of the corporation and have certificates of election to be exempt"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual      6-5"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 33,
+  "stem": "A Notice to Owner from a non-privity lienor must be sent within __________ days after the first furnishing of labor or materials.",
+  "options": [
+   "30",
+   "45",
+   "72",
+   "90"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual      2025 & 2021: 9-22",
+   "                                          2017: 9-21"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 34,
+  "stem": "What financial information summarizes the existing conditions of a business?",
+  "options": [
+   "The balance sheet",
+   "The cash flow statement",
+   "The income statement",
+   "The statement of retained earnings"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder's Guide to Accounting   247"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 35,
+  "stem": "On a multi-contractor job which of the following is true regarding the posting of OSHA posters?",
+  "options": [
+   "Poster must be posted on all job site where employees can see them",
+   "Each contractor on the project must display their own posters",
+   "Only the contractor deemed project manage must post the posters",
+   "A & B above"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual      7-6"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 36,
+  "stem": "When progress billings bring in more income than costs incurred during the early stages of a contract the contractor is using __________.",
+  "options": [
+   "A draw system",
+   "A pre-qualified payment method",
+   "Front end loading",
+   "The critical path method"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual      3-108, 10-74, 10-75"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 37,
+  "stem": "When preparing a bid, the contractor notes that the specifications require one type of equipment, but the plans show a different type. The contractor should __________.",
+  "options": [
+   "Bid based on using the least expensive of the two",
+   "Follow the plans",
+   "Submit a request for information",
+   "Substitute comparable equipment"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual      10-6"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 38,
+  "stem": "The OSHA citation must be prominently displayed at or near the place of alleged violation for __________ day (s), or until it is corrected, whichever is later, to warn employees of dangers that may exist there.",
+  "options": [
+   "One",
+   "Two",
+   "Three",
+   "Five"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual      7-31"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 39,
+  "stem": "A member, during active duty and for a period of __________ year (s) after discharge from active duty, engaged in his or her licensed profession or occupation in the private sector for profit in this state must complete all license renewal provisions except remitting the license renewal fee, which shall be waived by the department.",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Statute 455             455.02"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 40,
+  "stem": "What is required to file a construction claim of lien?",
+  "options": [
+   "Permission from the owner",
+   "A court order",
+   "A direct contract with the owner",
+   "The claim must be recorded with the clerk of the court"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual      2025: 9-80: 713.08(5)",
+   "                                          2021: 9-76: 713.08(5)",
+   "                                          2017: 9-84: 713.08(5)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 41,
+  "stem": "What ratios compare accounts on the balance sheet to accounts on the income statement?",
+  "options": [
+   "Quick assets",
+   "Combined",
+   "Income",
+   "Current"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting   270"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 42,
+  "stem": "Which is a requirement for an employee to recover under a compulsory State Workers' Compensation Statute?",
+  "options": [
+   "The injury must occur while the employee is engaged in interstate commerce",
+   "The injury must arise out of and in the course of employment",
+   "The injury must arise out of the negligence of the employer or fellow employee",
+   "The injured employee must be a permanent full-time employee"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual      2025: 6-27",
+   "                                          2021 & 2017:6-26"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 43,
+  "stem": "What type of cost basis inventory valuation method uses the current market value of material as used?",
+  "options": [
+   "Specific cost",
+   "First in-first out",
+   "Last in-first out",
+   "Cost-plus inflation"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builder's Guide to Accounting   120"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 44,
+  "stem": "Which is not used when calculating goods sold to average inventory ratio?",
+  "options": [
+   "Labor",
+   "Materials purchased",
+   "All other direct costs",
+   "Total monthly averages"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting   121"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 45,
+  "stem": "The Drug-Free Workplace Act of 1988 __________.",
+  "options": [
+   "Does not require drug testing",
+   "Always applies to subcontractors",
+   "Applies to contractors in foreign countries",
+   "Applies only to contractors with more than 50 workers"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual      2025 & 2021: 5-50",
+   "                                          2017: 5-49"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 46,
+  "stem": "Which of the following can be added to a Builder's Risk policy by means of an extended coverage endorsement?",
+  "options": [
+   "Vandalism coverage",
+   "Malpractice coverage",
+   "Materials in transit",
+   "Catastrophic flood coverage"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual      4-7"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 47,
+  "stem": "Which bond requires a low bidding contractor who fails to enter into a contract to pay a penalty equal to the amount of the bid?",
+  "options": [
+   "Performance bond",
+   "Forfeiture obligation",
+   "Difference in bid",
+   "Payment"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual      4-13"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 48,
+  "stem": "The Statute of limitations requires that an action for breach of an unwritten contract must be brought within a maximum of __________ years.",
+  "options": [
+   "2",
+   "4",
+   "5",
+   "7"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual      8-23"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 49,
+  "stem": "Which of the following wages would not be subject to Federal Unemployment tax paid by the employer?",
+  "options": [
+   "Wages paid to a Canadian who frequently enters the U.S. to work as a carpenter",
+   "Severance pay",
+   "Wages paid to a deceased worker's estate in the same calendar year as the date of the worker's death",
+   "Wages paid to the employer's spouse"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                    2025: 5-253, 5-266, 3-181: (2025 IRS Circ. E)",
+   "                                                        2021: 5-277, 5-289, 5-290, 3-193 (2nd printing /",
+   "                                                        2021 IRS Circ. E)",
+   "                                                        2021: 5-277, 5-289, 5-290, 3-188 (1st printing /",
+   "                                                        2016 IRS Circ. E)",
+   "                                                        2017: 5-292, 3-184 (2016 IRS Circ. E)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 50,
+  "stem": "How may a contractor required to carry Worker's Compensation insurance fulfill the law?",
+  "options": [
+   "Obtaining liability insurance at three times the coverage generally required",
+   "Seek individual self-insured status through the Department of Labor and Employment Security",
+   "Obtaining major medical insurance for all employees",
+   "Obtaining life insurance policies for all employees"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                    6-9"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 51,
+  "stem": "Under a contract which does NOT require written notice in order to file a claim for additional cost?",
+  "options": [
+   "Minor change in the work",
+   "Work performed because of a concealed condition",
+   "Damages caused by the architect",
+   "Work performed because of an emergency endangering the owner's property"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "AIA Document A201, 2017                       15.1.5"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 52,
+  "stem": "A board member or former board member serving on a probable cause panel shall be compensated __________ for each day in attendance at an official meeting of the board and for each day of participation in any other business involving the board.",
+  "options": [
+   "$25",
+   "$50",
+   "$75",
+   "$100"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Statute 455                           455.207(4)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 53,
+  "stem": "When is an oral contract valid?",
+  "options": [
+   "When an unlicensed contractor agrees to perform construction services",
+   "When the contract can be performed in less than one year",
+   "When the Statute of Limitations has expired",
+   "When the sale of goods is more than $500"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                    8-6"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 54,
+  "stem": "Current liabilities include the portion of long-term debt for equipment purchases payable within __________ days.",
+  "options": [
+   "30",
+   "90",
+   "180",
+   "365"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting                 155"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 55,
+  "stem": "What activity must precede project scheduling?",
+  "options": [
+   "Development of a logic table",
+   "Final project design",
+   "Project planning",
+   "Shop drawings"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                    10-58"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 56,
+  "stem": "In reference to 42 U.S.C, the initials ADA are used to indicate __________.",
+  "options": [
+   "American Drug Association",
+   "American Diabetes Association",
+   "Association of Disabled Americans",
+   "Americans with Disabilities Act"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                    5-12, 5-41"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 57,
+  "stem": "Chapter 489 of the Florida Statutes deals with licensing and regulating __________.",
+  "options": [
+   "All contractors and property owners",
+   "Bridge, tank and tower structures",
+   "Commercial buildings and bridges",
+   "Construction contracting, electrical and alarm systems contracting, and septic tank contracting"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                    2-5"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 58,
+  "stem": "To procure long lead items, it is recommended that the items be __________.",
+  "options": [
+   "Identified and ordered early",
+   "Ordered when funds are available",
+   "Identified and ordered when needed",
+   "Ordered according to product availability"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual                    10-24"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 59,
+  "stem": "What does Sales less the Cost of Goods Sold equal?",
+  "options": [
+   "Gross profit",
+   "Net profit",
+   "Income from operations",
+   "Net sales"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder's Guide to Accounting                 248",
+   "          Florida Contractors Manual                    3-108"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 60,
+  "stem": "What is the sum of assets minus liabilities?",
+  "options": [
+   "Net profit",
+   "Net worth",
+   "Gross sales",
+   "Gross profit"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting                 247"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 61,
+  "stem": "The department is authorized to impose a fine of not more than __________ and assess reasonable investigative and legal costs for prosecution when it appears that any uncertified or unregistered person is associated with a contracting firm.",
+  "options": [
+   "$500",
+   "$1,500",
+   "$2,500",
+   "$5,000"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                    2025: 2-114: 489.132(3)",
+   "                                                        2021: 2-88: 489.132(3)",
+   "                                                        2017: 2-101: 489.132(3)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 62,
+  "stem": "All employers are required to report accidents to the Area Office resulting in one or more fatalities within __________ hours of learning of the incident.",
+  "options": [
+   "8",
+   "14",
+   "24",
+   "30"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual                    7-28"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 63,
+  "stem": "All the following would be considered variable overhead expenses except __________.",
+  "options": [
+   "Payroll taxes on office salaries",
+   "Field office trailer rental",
+   "Worker's compensation insurance",
+   "Bad debts"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder's Guide to Accounting                 142 – 143",
+   "          Payroll taxes on office salaries is a fixed expense"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 64,
+  "stem": "When the contract is made with a husband or wife who is not separated and living apart and the property is owned by the other or of both, the spouse who contracts shall be deemed to be the agent of the other unless such other shall, with __________ days after learning of such contract, give the contractor and record in the clerk's office, notice of his or her objection.",
+  "options": [
+   "5",
+   "7",
+   "10",
+   "14"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                    2025: 9-77: 713.12",
+   "                                                        2021: 9-77: 713.12",
+   "                                                        2017: 9-87: 713.12"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 65,
+  "stem": "OSHA regulations require that records be kept a minimum of how many years after an incident occurs?",
+  "options": [
+   "1 year from the end of the year in which the incident occurred",
+   "5 years from the end of the year in which the incident occurred",
+   "7 years from the end of the year in which the incident occurred",
+   "Indefinitely"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                    7-16"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 66,
+  "stem": "Successful builders control their costs BEST at which time?",
+  "options": [
+   "At the end of each week",
+   "During each phase of the work",
+   "Immediately prior to approving invoices",
+   "In bi-weekly meetings with the owner present"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting                 189"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 67,
+  "stem": "A company's initial record of all its business transactions is known as a __________.",
+  "options": [
+   "Ledger",
+   "Journal",
+   "Balance sheet",
+   "Financial statement"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                    3-25, 3-108"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 68,
+  "stem": "An indicator of how well a company can meet its current obligations is the company's __________.",
+  "options": [
+   "Expense ratio",
+   "Debt to capitalization ratio",
+   "Current ratio",
+   "Income to net worth ratio"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builder's Guide to Accounting                 269"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 69,
+  "stem": "Which of the following is not in accordance with requirements for an executive being granted an exemption from the Fair Labor Standards Act?",
+  "options": [
+   "Person whose primary duty if to manage a company subdivision",
+   "The person regularly directs 3 to 4 employees",
+   "The person receives a salary of $150 or more per week",
+   "The person regularly exercises discretionary power"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                    5-15"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 70,
+  "stem": "Which of the following production factors would not be considered by the estimator when calculating equipment cost estimates?",
+  "options": [
+   "Climate",
+   "Experience of the operators",
+   "Highway or street speed limits",
+   "Original purchase price of the equipment"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                    10-27"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 71,
+  "stem": "Master activities are a group of activities with no activity representing more than __________ of the project.",
+  "options": [
+   "10%",
+   "20%",
+   "25%",
+   "30%"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual                    10-58"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 72,
+  "stem": "Requests for translated examinations, except for those in Spanish, must be on file in the board office, or with the department when there is no board, at least __________ days (months) prior to the scheduled examination.",
+  "options": [
+   "6",
+   "14",
+   "21",
+   "45"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Statute 455                           455.217(6)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 73,
+  "stem": "The Florida Civil Rights Act of 1992, (Chapter 760, FL. Stat.), does not protect against discrimination for which of the following?",
+  "options": [
+   "Age",
+   "Religion",
+   "Alcoholism",
+   "Drug abuse"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                    5-36"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 74,
+  "stem": "When preparing financial statements, accruals are used to record __________.",
+  "options": [
+   "Lump sum payments",
+   "Income earned but not yet received",
+   "Cash transactions",
+   "Prepayments on a future contract"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting                 106 - 107",
+   "          Under the accrual method of accounting, revenue is considered earned when services are",
+   "          rendered, and expenses are incurred when services are received.",
+   "          Florida Contractors Manual                    3-105"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 75,
+  "stem": "In order to comply with FDEP asbestos regulations, when demolishing commercial, industrial, publicly owned building, or residential structures with more than four dwelling units, notification must be sent to FDEP at least how many working days prior to beginning the demolition?",
+  "options": [
+   "7",
+   "10",
+   "14",
+   "20"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                    10-97"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 76,
+  "stem": "According to Florida Unemployment Compensation Employer Handbook, tax rates are referred to as __________ ratings.",
+  "options": [
+   "Cost",
+   "Experience",
+   "Records",
+   "Required"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                    2025: 5-271",
+   "                                                        2021: 5-293",
+   "                                                        2017: 5-296"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 77,
+  "stem": "On which of the following items must Florida sales tax be paid by a prime contractor, if it is not included on the invoice?",
+  "options": [
+   "Invoice from a concrete supplier",
+   "Invoice from a temporary help agency",
+   "Invoice from a block mason for labor only",
+   "Invoice from a non-exempt subcontractor"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual                    3-63, 3-64",
+   "          Answers B, C, & D are wrong because sales tax is only charged on materials. The only time that",
+   "          sales tax is computed on labor and material both is when the product is fabricated in a shop, such",
+   "          as a sheet metal shop, and then sold to the public."
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 78,
+  "stem": "According to Florida Unemployment Compensation Employer Handbook, an unemployed worker __________.",
+  "options": [
+   "Cannot qualify for benefits",
+   "Qualifies for benefits only if paid minimum wage",
+   "Qualifies for benefits if employed for one quarter of the base period",
+   "Qualifies for benefits if employed for two quarters"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                    2025: 5-279",
+   "                                                        2021: 5-299",
+   "                                                        2017: 5-301",
+   "          Qualifies for benefits if he/she has been paid wages in 2 or more quarters in the base period.",
+   "          1 quarter = 3 months, therefore 2 quarters = 6 months."
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 79,
+  "stem": "The Civil Rights Act of 1866 applies __________.",
+  "options": [
+   "Only to public employees",
+   "Only to employees of the Federal Government",
+   "Only to minority employees",
+   "To all employees"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                    5-37"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 80,
+  "stem": "With respect to an applicant for a certificate, the initial application fee may not exceed __________.",
+  "options": [
+   "$100",
+   "$125",
+   "$135",
+   "$150"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                    2025: 2-85: 489.109(1)(a)",
+   "                                                        2021: 2-67: 489.109(1)(a)",
+   "                                                        2017: 2-75: 489.109(1)(a)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 81,
+  "stem": "Which jobs would not require use of the percentage of completion method?",
+  "options": [
+   "Jobs longer than two years in duration",
+   "Jobs by firms that require periodic, progressive recognition of profit from their jobs",
+   "Construction jobs producing annual revenue greater than $10 million",
+   "Jobs costing $1,000 - $5,000 which take approximately one week to complete"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting                 25"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 82,
+  "stem": "After a licensee's completion of a continuing education course, the information must be submitted to the department electronically no later than __________ calendar days.",
+  "options": [
+   "7",
+   "14",
+   "30",
+   "45"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Statute 455                           455.2178(1)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 83,
+  "stem": "All the following are procedures included in the budget process except __________.",
+  "options": [
+   "Analyzing the results",
+   "Consulting with your accountant",
+   "Preparing the budget",
+   "Acting to control expenses"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting                 144"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 84,
+  "stem": "According to the Veteran's Re-employment Laws, military leave of absence must be granted to any permanent full time or permanent part-time employee who enlists or is drafted into active duty in the armed forces. Discharging an employee without cause, who has been rehired and is covered under the law, is prohibited for a period of __________ if the employee's military service period was less than 180 days and more than 30 days.",
+  "options": [
+   "6 months",
+   "1 year",
+   "1 year and 6 months",
+   "2 years"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                    5-45"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 85,
+  "stem": "When figuring overhead, which is a fixed expense?",
+  "options": [
+   "Small tools",
+   "Operating supplies",
+   "Equipment rental",
+   "Advertising"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting                 142"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 86,
+  "stem": "The best way to control equipment costs is good __________.",
+  "options": [
+   "Maintenance",
+   "Scheduling",
+   "Financing",
+   "Reports"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting                 228"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 87,
+  "stem": "In order to establish an hourly cost for a bulldozer for job allocations, which of the following would NOT apply?",
+  "options": [
+   "Cost of equipment less salvage value",
+   "Operating costs involving gas, oil, and accessories",
+   "Repairing and maintenance costs",
+   "Unpredictable job site conditions"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting                 159, 160"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 88,
+  "stem": "Adjustment of the contract sum using a change order must be established based on __________.",
+  "options": [
+   "An agreement between the owner, contractor and architect",
+   "The unit prices as stated in the contract documents",
+   "Labor, material and equipment costs",
+   "The architect's recommendation"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "AIA Document A201, 2017                      7.2.1"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 89,
+  "stem": "When preparing a financial statement for a lender before applying for a loan, it is best to __________.",
+  "options": [
+   "Accumulate current assets to improve the cash position",
+   "Reduce current liabilities",
+   "Try to decrease the current ratio",
+   "Try to increase the volume of business"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting                174"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 90,
+  "stem": "Your contractor's license number must appear in or on all the following advertisements except __________.",
+  "options": [
+   "Free yellow Page listings",
+   "Coupons",
+   "Business proposals",
+   "Business cards"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual                   2025: 2-165: 61G4-12.011(3)",
+   "                                                        2021: 2-124: 61G4-12.011(3)",
+   "                                                        2017: 2-149: 61G4-12.011(3)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 91,
+  "stem": "Every certified and registered contractor must complete a minimum of __________ hours of continuing education during every two-year license cycle.",
+  "options": [
+   "3",
+   "7",
+   "14",
+   "16"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                   2025 & 2021: 2-17",
+   "                                                        2017: 2-19"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 92,
+  "stem": "All current liabilities include equipment that is payable within __________ days.",
+  "options": [
+   "30",
+   "90",
+   "180",
+   "365"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting                253",
+   "           Florida Contractors Manual                   3-107"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 93,
+  "stem": "Which item below is not a fixed asset?",
+  "options": [
+   "Inventory",
+   "Land",
+   "Equipment",
+   "Trucks"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Builder's Guide to Accounting                252 or 327",
+   "           Florida Contractors Manual                   3-108",
+   "           (Long-Term Assets) Fixed assets are also referred to as long-term assets."
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 94,
+  "stem": "According to Florida Unemployment Compensation Employer Handbook, Cafeteria Payment plans are exempt if they are __________.",
+  "options": [
+   "For Federal employees",
+   "Not Federally subsidized",
+   "Not reported to the Internal Revenue Service",
+   "Reported to the Internal Revenue Service"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                   2025: 5-266",
+   "                                                        2021: 5-290",
+   "                                                        2017: 5-292"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 95,
+  "stem": "When using the inventory ratio method, a high ratio indicates __________.",
+  "options": [
+   "Average inventory",
+   "High inventory",
+   "High market average",
+   "Low inventory"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting                121"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 96,
+  "stem": "An equipment schedule shows that 60 dump trucks will be required in September and 15 dump trucks during October and November. You have 30 dump trucks available. You should attempt to __________.",
+  "options": [
+   "Simply let the contract extend over the required completion time",
+   "Buy 30 new dump trucks",
+   "Revise the project schedule to distribute the dump trucks evenly over the months so that 30 dump trucks are required",
+   "Work 30 trucks overtime during September using a second or third shift"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                   10-27",
+   "           30 (Sept.) + 15 (Oct.) + 15 (Nov.) = 60/3 months = 30 trucks per month"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 97,
+  "stem": "An employee discloses an employer's violations of law, which may pose a danger to public, health, safety, or welfare. The employee is protected from retaliation by the __________.",
+  "options": [
+   "Employees Legal Defense Fund",
+   "Federal Employees Act",
+   "Graham Employees Act",
+   "Public Whistle-blowers Act"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                   5-45"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 98,
+  "stem": "The Florida Aids Statute (FS 760.50) prohibits AIDS/HIV discrimination, and provides that persons with AIDS, ARC or HIV have the same protection as other disabled persons. This law applies to __________.",
+  "options": [
+   "All employers",
+   "Employers with 2 or more employees",
+   "Employers with 6 or more employees",
+   "Employers with 15 or more employees"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual                   5-44"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 99,
+  "stem": "Which activity is a construction job, as that term is used in the Worker's Compensation Statute?",
+  "options": [
+   "Roof replacement",
+   "A homeowner's building their own premises",
+   "Well drilling on land containing existing structures",
+   "Manufacturing of materials used in construction work"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual                   6-6"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 100,
+  "stem": "If an owner makes payment to a contractor, without requiring waiver or release by a lienor who has filed a Notice to Owner, the payments are considered __________ payments.",
+  "options": [
+   "Improper",
+   "Refused",
+   "Unrecoverable",
+   "Non-essential"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual                   2025: 9-75: 713.06(2)(a)(c)",
+   "                                                        2021: 9-72: 713.06(2)(a)(c)",
+   "                                                        2017: 9-76: 713.06(2)(a)(c)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 101,
+  "stem": "Given: A pick-up truck was originally purchased for $16,900.00. The accumulated depreciation of the pick-up truck shown on the books to date is $4,200.00. The pick-up truck was sold for $11,500.00. The resulting loss (or profit) from the sales of the pick-up truck that will be shown on the books is a __________.",
+  "options": [
+   "Loss of $1,200.00",
+   "Loss of $5,400.00",
+   "Profit of $5,600.00",
+   "Profit of $12,700.00"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual                   3-34",
+   "           Builder’s Guide to Accounting                162"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 102,
+  "stem": "Any certified contractor who allows his/her certificate to be used by an uncertified person with the intent to evade the provisions of this law may be fined a maximum of __________.",
+  "options": [
+   "$1,000.00",
+   "$5,000.00",
+   "$7,500.00",
+   "$10,000.00"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                   2025: 2-202",
+   "                                                        2021: 2-158",
+   "                                                        2017: 2-184"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 103,
+  "stem": "If a corporation meets all the requirements specified by the Internal Revenue Service and elect to be taxed as a partnership rather than a corporation, the company is referred to as a (an) __________.",
+  "options": [
+   "Limited partnership",
+   "Employee stock Ownership Corporation",
+   "S Corporation",
+   "Joint Venture"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                   2025: 1-11",
+   "                                                        2021: 1-11, 1-12",
+   "                                                        2017: 1-13"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 104,
+  "stem": "According to the Florida Construction Industry Licensing Law, each certified contractor shall display in all advertising medium used by the contractor his/her __________ number.",
+  "options": [
+   "Employer Identification",
+   "Insurance Policy",
+   "Certification",
+   "State Sales Tax"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                 2025: 2-31, 2-165: 61G4-12.011(3)",
+   "                                                      2021: 2-29, 2-124: 61G4-12.011(3)",
+   "                                                      2017: 2-22, 2-149: 61G4-12.011(3)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 105,
+  "stem": "Service of a Notice to Owner or a preliminary Notice to Contractor is effective as of the date of mail if the Notice is mailed within __________ days after the date the lienor first furnishes labor, services, or materials.",
+  "options": [
+   "10",
+   "20",
+   "30",
+   "40"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                 2025: 9-92: 713.18(2)(b)",
+   "                                                      2021: 9-84: 713.18(2)(b)",
+   "                                                      2017: 9-101: 713.18(2)(b)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 106,
+  "stem": "Given: A contractor hires a day laborer at a rate of $35.00 for one day's work. The contractor uses the laborer for six days in one workweek. The laborer average 8-1/2 hours of work per day. The laborer is entitled to __________. Select the closest answer.",
+  "options": [
+   "A gross pay of $199.45 for the six days of work",
+   "A gross pay of $210.00 for the six days of work",
+   "A gross pay of $232.66 for the six days of work",
+   "A gross pay of $409.63 for the six days of work"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractor’s Manual                5-21",
+   "           Total pay for 6 days x $35.00 = $210.00",
+   "           Total hours worked 6 days x 8.5 hours = 51 hours",
+   "           Employee’s regular rate of pay - $210.00",
+   "           $210.00 ÷ 51 hours = $4.12 per hour",
+   "           Note: Federal minimum wage of $7.25 applies",
+   "           Regular Pay = 40 hours x $7.25 = $290.00",
+   "           Overtime = 11 hours x $7.25 x 1.5 = $119.63",
+   "           Total pay = $290.00 + $119.63 = $409.63"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 107,
+  "stem": "Which of the following is considered a type of accrual?",
+  "options": [
+   "Cash or other payments received",
+   "Billings mailed out, but not yet paid",
+   "Anticipated profit from uncompleted work",
+   "Estimated cost of work not yet completed"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting              11 or 237"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 108,
+  "stem": "The ratios used to judge the cash position of a company are called __________.",
+  "options": [
+   "Balance Ratios",
+   "Accruals",
+   "Combination Ratios",
+   "Liquidity Tests"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting              174"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 109,
+  "stem": "A company has estimated net income of $1,200,000.00. In order to achieve a margin of profit of 37%, the company's sales should be __________.",
+  "options": [
+   "$2,702,000.00",
+   "$2,444,000.00",
+   "$1,444,000.00",
+   "$3,243,243.00"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting              272",
+   "           Net Income/Sales = Margin of profit",
+   "           $1,200,000 / x = 37% = $3,243,243"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 110,
+  "stem": "What is the term for the effective annual interest charged on the principal borrowed?",
+  "options": [
+   "Discount",
+   "Rate",
+   "Loan",
+   "Finance charge"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                 3-73"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 111,
+  "stem": "According to the Florida \"Statute of Frauds\", the following contracts must be in writing to be enforceable except __________.",
+  "options": [
+   "A lease of real property for less than 1 year",
+   "A contract for the sale of real property",
+   "A contract that cannot be performed in less than one year",
+   "An agreement to submit disputes to arbitration"
+  ],
+  "answer": "A",
+  "refRaw": [
+   "Florida Contractors Manual                 8-7"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 112,
+  "stem": "The break-even point __________.",
+  "options": [
+   "Distinguishes between the various yields of the different jobs and job types",
+   "Can help the contractor decide what kinds of work he or she needs to reach a volume goal",
+   "Encourages growth",
+   "Indicates the minimum sales you need to break even"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Builder's Guide to Accounting              179"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 113,
+  "stem": "When a business is structured as a joint venture __________.",
+  "options": [
+   "An oral agreement between the parties is recommended",
+   "There must be a formal partnership agreement",
+   "Its activity is generally limited to a single transaction",
+   "Venture members have limited personal liability"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                 2025: 1-10",
+   "                                                      2021: 1-10, 1-11",
+   "                                                      2017: 1-12, 1-13"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 114,
+  "stem": "A bid bond guarantees that when the contract is awarded, the bidder will __________.",
+  "options": [
+   "Submit a breakdown of the bid together with a list of subcontractors",
+   "Enter the contract at the bid price",
+   "Submit copies of all bid documents for the owner's review",
+   "Submit a statement of the contractor's qualifications and past performance"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                 3-105, 4-13, 10-73"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 115,
+  "stem": "Which one of the following is an incentive to pay an invoice early or when due?",
+  "options": [
+   "Credit",
+   "Rebate",
+   "Discount",
+   "Additional contracts"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Builder's Guide to Accounting              59"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 116,
+  "stem": "All the following are examples of types of offers in construction contracts except __________.",
+  "options": [
+   "Bids",
+   "Purchase orders",
+   "Proposals",
+   "Negotiations"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual                 8-5"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 117,
+  "stem": "A concrete subcontractor is asked to provide a cost estimate to extend a concrete foundation from 60' x 80' to 80' x 100'. The contractor determines that the 60' x 80' foundation cost $4,500 and that the additional work would cost $1.25/sq. ft. extra. This method of estimating is called the __________.",
+  "options": [
+   "Approximate estimated method",
+   "Detailed survey method",
+   "Square footage method",
+   "Unit price method"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual                 10-12"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 118,
+  "stem": "CSI Master Format divides the specifications into how many specific divisions?",
+  "options": [
+   "15",
+   "50",
+   "18",
+   "40"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual                 10-7"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 119,
+  "stem": "Which is the best method to check an estimate in order to eliminate as many errors as possible?",
+  "options": [
+   "Have another estimator take the original estimate and recheck the figures and computations",
+   "Compare the original estimate with an estimate from a similar project",
+   "Perform the estimating process a second time and compare it with the initial estimate",
+   "Have another estimator make an independent estimate and compare it to the original estimate"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Builder's Guide to Accounting              11 or 225"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 120,
+  "stem": "The maximum penalty for knowingly making false statements, representations, or certification in any application, record, report, plan or other document filed as part of the OSHA requirements is a fine and term of imprisonment of not more than __________.",
+  "options": [
+   "$1,000 and 60 days",
+   "$5,000 and 6 months",
+   "$10,000 and 6 months",
+   "$100,000 and 1 year"
+  ],
+  "answer": "C",
+  "refRaw": [
+   "Florida Contractors Manual   7-17"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 121,
+  "stem": "What is the MAJOR difference between the various types of negotiated contracts, such as lump-sum, cost-plus or guaranteed maximum price?",
+  "options": [
+   "The relationship between the owner and the contractor",
+   "The relationship between the architect and the contractor",
+   "The provision regarding liability of the contractor",
+   "The provision regarding compensation of the contractor"
+  ],
+  "answer": "D",
+  "refRaw": [
+   "Florida Contractors Manual   10-35"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 122,
+  "stem": "Some types of cost-plus contracts could be ___________________.",
+  "options": [
+   "Cost plus interest and cost-plus allowances",
+   "Cost plus fixed fee and cost-plus percentage of reimbursable costs",
+   "Cost plus inflation and cost-plus markup",
+   "Cost plus damages and cost-plus profit"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual   3-79"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 123,
+  "stem": "The complaint and all information obtained pursuant to the investigation by the department are confidential until __________ days after probable cause has been found to exist by the probable cause panel or by the department.",
+  "options": [
+   "5",
+   "10",
+   "15",
+   "20"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Statute 455          455.225(10)"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 124,
+  "stem": "A (An) ____________ loan accrues interest until maturity and is paid in one payment which covers the principal and interest at the maturity date of the loan.",
+  "options": [
+   "Project",
+   "Term",
+   "Interest",
+   "Subordinated loan"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "Florida Contractors Manual   3-73"
+  ]
+ },
+ {
+  "exam": 3,
+  "num": 125,
+  "stem": "A claim for a contract adjustment, because of concealed conditions, must be made within __________.",
+  "options": [
+   "Ten days after the first observance of the condition",
+   "Fourteen days after the first observance of the condition",
+   "Ten days after the date the architect has seen the condition",
+   "Twenty-one days after the architect has given notice of the decision"
+  ],
+  "answer": "B",
+  "refRaw": [
+   "AIA Document A201, 2017      3.7.4"
+  ]
+ }
+]
