@@ -45,6 +45,46 @@ for n in (1, 2, 3):
         key, look, text = [x.strip() for x in line.split("|", 2)]
         plain[key] = {"look": look, "plain": text}
 
+# ---- official-source links (statutes, rules, regulations) ----
+def fs_url(sec):
+    ch, _, rest = sec.partition(".")
+    c = int(ch)
+    lo = c // 100 * 100
+    return ("https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=%04d-%04d/%04d/Sections/%04d.%s.html" % (lo, lo + 99, c, c, rest))
+
+def law(kind, *a):
+    if kind == "FS":
+        full = a[0]; sec = re.match(r"(\d+\.\d+)", full).group(1)
+        return ["Fla. Stat. § " + full, fs_url(sec)]
+    if kind == "FAC":
+        full = a[0]; rule = re.match(r"(61G4-\d+\.\d+)", full).group(1)
+        return ["Fla. Admin. Code R. " + full, "https://www.flrules.org/gateway/ruleNo.asp?id=" + rule]
+    if kind == "CFR":
+        return [a[0] + " CFR § " + a[1], "https://www.ecfr.gov/current/title-%s/section-%s" % (a[0], a[1])]
+    if kind == "USC":
+        return [a[0] + " U.S.C. § " + a[1], "https://www.law.cornell.edu/uscode/text/%s/%s" % (a[0], a[1])]
+    if kind == "CONST":
+        return ["Fla. Const. Art. " + a[0] + ", § " + a[1], "https://www.flsenate.gov/Laws/Constitution#A1S06"]
+    raise ValueError(kind)
+
+extra_laws = {}
+for line in open(os.path.join(ROOT, "content/law-links.txt"), encoding="utf-8"):
+    if not line.strip() or line.startswith("#"):
+        continue
+    key, cites = [x.strip() for x in line.split("|", 1)]
+    extra_laws[key] = [law(*c.split()) for c in cites.split(";")]
+
+def auto_laws(cites):
+    out = []
+    for c in cites:
+        for raw in ([c["loc"]] if c["book"] == "FS455" else []) + ([c["stat"]] if c.get("stat") else []):
+            raw = raw.lstrip("§").rstrip(".")
+            if raw.startswith("61G4"):
+                out.append(law("FAC", raw))
+            elif re.match(r"\d{3}\.\d", raw):
+                out.append(law("FS", raw))
+    return out
+
 TOPICS = ["org", "lic", "dbpr", "lien", "aia", "law", "acct", "ratio", "dep", "cash", "job", "tax", "labor", "wc", "ins", "osha", "est"]
 
 BOOKS = [
@@ -170,6 +210,12 @@ for q in raw:
         "topic": e["topic"], "books": books, "cites": cites,
         "exp": e["exp"],
     }
+    laws, seen_urls = [], set()
+    for l in auto_laws(cites) + extra_laws.get(key, []):
+        if l[1] not in seen_urls:
+            seen_urls.add(l[1]); laws.append(l)
+    if laws:
+        item["laws"] = laws
     item["plain"] = plain[key]["plain"]
     item["look"] = plain[key]["look"]
     if q.get("scenario"):

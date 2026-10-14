@@ -38,15 +38,20 @@
   };
 
   /* ---------------------------------------------------------------- routing */
-  A.go = function (view, param) {
+  A.go = function (view, param, opts) {
+    opts = opts || {};
     if (A.LEAVE[st.view] && st.view !== view) A.LEAVE[st.view]();
-    st.view = view; st.param = param == null ? null : param; st.menu = false;
+    var same = st.view === view && st.param === (param == null ? null : param);
+    st.view = view; st.param = param == null ? null : param; st.menu = false; st.modal = null;
     A.S.last.view = view; A.save({ localOnly: true });
-    try { if (location.hash !== "#" + view) history.replaceState(null, "", "#" + view); } catch (e) { /* sandboxed */ }
+    if (!opts.fromPop && !same) {
+      try { if (opts.replace || view === "results") history.replaceState({ v: view, p: st.param }, "", "#" + view); else history.pushState({ v: view, p: st.param }, "", "#" + view); } catch (e) { /* sandboxed */ }
+    }
     A.render(true);
   };
   A.render = function (scrollTop) {
     A.applyPrefs();
+    document.documentElement.classList.toggle("onboard", st.view === "welcome");
     A.renderChrome();
     var fn = A.V[st.view] || A.V.home;
     main.innerHTML = fn();
@@ -232,6 +237,10 @@
       if (st.calc && /^[0-9.+\-*/=]$|^Enter$|^Backspace$/.test(ev.key)) { ev.preventDefault(); calcKey(ev.key === "Enter" || ev.key === "=" ? "eq" : ev.key === "Backspace" ? "bk" : ev.key); return; }
       var h = A.KEYS[st.view]; if (h) h(ev.key.toLowerCase(), ev);
     });
+    window.addEventListener("popstate", function (ev) {
+      var v = (location.hash || "").replace("#", "") || "home", p = ev.state && ev.state.v === v ? ev.state.p : null;
+      if (A.V[v] && v !== "welcome") A.go(v, p, { fromPop: true });
+    });
     window.addEventListener("hashchange", function () {
       var v = location.hash.replace("#", "");
       if (/^ch-/i.test(v) && A.openChallenge) { A.openChallenge(v); return; }
@@ -247,6 +256,7 @@
     main = document.getElementById("main");
     bind();
     var v = (location.hash || "").replace("#", "");
+    if (!A.S.settings.welcomed && !A.S.settings.name && !/^ch-/i.test(v)) { st.view = "welcome"; A.render(true); if (A.cloudInit) A.cloudInit(); return; }
     if (/^ch-/i.test(v)) { st.view = "crew"; setTimeout(function () { A.openChallenge && A.openChallenge(v); }, 50); }
     else if (v && A.V[v] && v !== "run" && v !== "results" && v !== "topic") st.view = v;
     A.render(true);

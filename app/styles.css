@@ -677,3 +677,29 @@ details.more p { max-width: 68ch; }
   .badge-grid .bdg span { display: none; }
   .badge-grid .bdg strong { font-size: .78rem; line-height: 1.2; }
 }
+
+/* ================================================================ v3 additions */
+.laws { border-top: 1px dashed var(--line); padding-top: 10px; display: flex; flex-direction: column; gap: 8px; }
+.laws-head { display: flex; align-items: center; gap: 8px; font-family: var(--font-display); font-weight: 700; font-size: 1rem; }
+.laws-head .ico { color: var(--tab-fs); }
+.law-links { display: flex; flex-wrap: wrap; gap: 6px; }
+.lawlink { display: inline-flex; align-items: center; gap: 6px; padding: 6px 11px; border-radius: 10px; border: 1px solid color-mix(in srgb, var(--tab-fs) 45%, var(--line)); background: color-mix(in srgb, var(--tab-fs) 9%, var(--surface)); color: var(--ink); text-decoration: none; font-size: .85rem; font-weight: 600; }
+.lawlink:hover { border-color: var(--tab-fs); }
+.lawlink .ico { width: 14px; height: 14px; color: var(--tab-fs); transform: rotate(-45deg); }
+.cardbox { border-top: 1px solid var(--line); padding-top: 14px; }
+.onboard .bottomnav, .onboard .sidebar, .onboard .topbar { display: none !important; }
+.onboard .shell { display: block !important; }
+.onboard main { max-width: 620px; padding-top: calc(24px + env(safe-area-inset-top, 0px)); padding-bottom: calc(40px + env(safe-area-inset-bottom, 0px)); }
+.welcome { display: flex; flex-direction: column; gap: 18px; }
+.wl-hero { position: relative; overflow: hidden; border-radius: 22px; padding: 26px 22px; color: #fff; background: linear-gradient(140deg, var(--hero-1), var(--hero-2)); display: flex; flex-direction: column; gap: 10px; box-shadow: var(--shadow); }
+.wl-hero::before { content: ""; position: absolute; inset: 0; pointer-events: none; background-image: linear-gradient(rgba(255,255,255,.08) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.08) 1px, transparent 1px); background-size: 20px 20px; }
+.wl-hero > * { position: relative; }
+.wl-hero .brand-mark { width: 48px; height: 48px; }
+.wl-hero h1 { font-size: 2.6rem; }
+.wl-hero p { color: rgba(255,255,255,.85); max-width: 52ch; }
+.welcome .card .btn.lg { width: 100%; }
+.welcome .card .btn.ghost { align-self: center; }
+.wl-points { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.wl-points > div { display: flex; gap: 10px; align-items: flex-start; padding: 12px; border-radius: 14px; background: var(--surface); border: 1px solid var(--line); font-size: .88rem; }
+.wl-points .ico { width: 22px; height: 22px; color: var(--primary); }
+@media (max-width: 480px) { .wl-points { grid-template-columns: 1fr; } .wl-hero h1 { font-size: 2.1rem; } }

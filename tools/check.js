@@ -29,7 +29,7 @@ for (const q of Q) {
 }
 for (const f of A.FACTS) for (const id of f.ids) if (!ids.has(id)) bad("fact ref " + id + " in: " + f.q);
 // views render without throwing on a fresh profile
-for (const v of ["home", "study", "test", "missed", "crew", "find", "cards", "math", "topics", "bank", "progress", "playbook", "settings"]) {
+for (const v of ["welcome", "home", "study", "test", "missed", "crew", "find", "cards", "math", "topics", "bank", "progress", "playbook", "settings"]) {
   try { const h = A.V[v](); if (typeof h !== "string" || h.length < 100) bad("view " + v + " empty"); } catch (e) { bad("view " + v + " threw " + e.stack); }
 }
 // challenge codes round-trip and seeded sets are deterministic

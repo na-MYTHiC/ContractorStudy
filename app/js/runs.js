@@ -93,7 +93,8 @@
       S().runs.push(nr); h.leftover = nr.id;
     }
     S().history.push(h);
-    if (S().history.length > 80) S().history = S().history.slice(-80);
+    if (S().history.length > 60) S().history = S().history.slice(-60);
+    S().history.forEach(function (x, i, arr) { if (i < arr.length - 30 && x.items && x.items.length) x.items = []; });
     A.save();
     A.checkBadges();
     if (A.crewPublish) A.crewPublish();

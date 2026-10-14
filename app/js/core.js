@@ -277,6 +277,11 @@
         (p.where ? '<li><span class="k">Go to</span><span class="v mono">' + A.esc(p.where) + (p.stat ? " · §" + A.esc(p.stat) : "") + "</span></li>" : "") +
         "</ol>";
     });
+    if (q.laws && q.laws.length) {
+      h += '<div class="laws"><div class="laws-head">' + A.icon("book") + "<span>Read the actual law</span></div><div class=\"law-links\">" +
+        q.laws.map(function (l) { return '<a class="lawlink" href="' + A.esc(l[1]) + '" target="_blank" rel="noopener noreferrer">' + A.esc(l[0]) + A.icon("arrow") + "</a>"; }).join("") +
+        '</div><p class="tiny muted">Opens the official, current text. Dollar amounts and deadlines sometimes change after a book edition is printed. On the exam, go with your book.</p></div>';
+    }
     if (!opts.noKey) h += '<details class="keyref"><summary>Answer-key reference text</summary><pre>' + A.esc(q.ref.join("\n")) + "</pre></details>";
     return h + "</div>";
   };
@@ -362,6 +367,8 @@
     var n = +m[2]; if (n < 5 || n > 200) return null;
     return { seed: parseInt(m[1], 36) >>> 0, n: n, score: m[3] != null ? +m[3] : null, code: m[1] + "-" + m[2] };
   };
+
+  A.validName = function (n) { n = String(n || "").trim(); return /^[A-Za-z0-9][A-Za-z0-9 _.\-]{1,18}[A-Za-z0-9]$/.test(n) ? n : null; };
 
   /* ---------------------------------------------------------------- sharing */
   A.grid = function (items) { return items.map(function (it) { return it[2] ? "🟩" : it[1] == null ? "⬜" : "🟥"; }).join(""); };
